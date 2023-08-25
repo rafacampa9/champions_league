@@ -1,0 +1,5573 @@
+,Home,GoalHome,GoalAway,Away,season
+0,Real Madrid,4,3,Reims,1956
+1,Milan,2,1,Real Madrid,1956
+2,Hibernian,0,1,Reims,1956
+3,Real Madrid,4,2,Milan,1956
+4,Reims,2,0,Hibernian,1956
+5,Milan,7,2,Rapid Wien,1956
+6,Partizan,3,0,Real Madrid,1956
+7,MTK,4,4,Reims,1956
+8,Hibernian,1,0,Djurgården,1956
+9,Rapid Wien,1,1,Milan,1956
+10,Real Madrid,4,0,Partizan,1956
+11,Reims,4,2,MTK,1956
+12,Djurgården,1,3,Hibernian,1956
+13,Saarbrücken,1,4,Milan,1956
+14,PSV,1,0,Rapid Wien,1956
+15,Reims,2,2,AGF,1956
+16,Anderlecht,1,4,MTK,1956
+17,Hibernian,1,1,Essen,1956
+18,Gwardia,1,4,Djurgården,1956
+19,Real Madrid,5,0,Servette,1956
+20,Partizan,5,2,Sporting CP,1956
+21,Milan,3,4,Saarbrücken,1956
+22,AGF,0,2,Reims,1956
+23,Rapid Wien,6,1,PSV,1956
+24,Djurgården,0,0,Gwardia,1956
+25,Essen,0,4,Hibernian,1956
+26,Servette,0,2,Real Madrid,1956
+27,MTK,6,3,Anderlecht,1956
+28,Sporting CP,3,3,Partizan,1956
+29,Real Madrid,2,0,Fiorentina,1957
+30,Man United,2,2,Real Madrid,1957
+31,Fiorentina,0,0,Crvena zvezda,1957
+32,Real Madrid,3,1,Man United,1957
+33,Crvena zvezda,0,1,Fiorentina,1957
+34,Nice,2,3,Real Madrid,1957
+35,Grasshoppers,2,2,Fiorentina,1957
+36,CSKA Sofia,2,1,Crvena zvezda,1957
+37,Man United,3,0,Athletic Club,1957
+38,Crvena zvezda,3,1,CSKA Sofia,1957
+39,Real Madrid,3,0,Nice,1957
+40,Fiorentina,3,1,Grasshoppers,1957
+41,Athletic Club,5,3,Man United,1957
+42,Dinamo Bucureşti,3,2,CSKA Sofia,1957
+43,Honvéd,3,3,Athletic Club,1957
+44,Grasshoppers,2,0,Slovan Bratislava,1957
+45,Norrköping,0,1,Fiorentina,1957
+46,Dortmund,0,0,Man United,1957
+47,Nice,2,1,Rangers,1957
+48,Rapid Wien,3,1,Real Madrid,1957
+49,Crvena zvezda,2,0,Rapid,1957
+50,Real Madrid,2,0,Rapid Wien,1957
+51,Nice,3,1,Rangers,1957
+52,Athletic Club,3,2,Honvéd,1957
+53,Fiorentina,1,1,Norrköping,1957
+54,Rapid,3,4,Crvena zvezda,1957
+55,Real Madrid,4,2,Rapid Wien,1957
+56,Rangers,2,1,Nice,1957
+57,Slovan Bratislava,1,0,Grasshoppers,1957
+58,CSKA Sofia,8,1,Dinamo Bucureşti,1957
+59,Man United,3,2,Dortmund,1957
+60,Real Madrid,3,2,Milan,1958
+61,Milan,4,0,Man United,1958
+62,Vasas,2,0,Real Madrid,1958
+63,Man United,2,1,Milan,1958
+64,Real Madrid,4,0,Vasas,1958
+65,Milan,4,1,Dortmund,1958
+66,Vasas,4,0,Ajax,1958
+67,Sevilla,2,2,Real Madrid,1958
+68,Crvena zvezda,3,3,Man United,1958
+69,Dortmund,1,1,Milan,1958
+70,Ajax,2,2,Vasas,1958
+71,Real Madrid,8,0,Sevilla,1958
+72,Man United,2,1,Crvena zvezda,1958
+73,Dortmund,3,1,FCSB,1958
+74,Rangers,1,4,Milan,1958
+75,Dortmund,4,2,FCSB,1958
+76,Sevilla,4,0,AGF,1958
+77,Man United,3,0,Dukla,1958
+78,Young Boys,1,1,Vasas,1958
+79,Aue,1,3,Ajax,1958
+80,Norrköping,2,2,Crvena zvezda,1958
+81,Antwerp,1,2,Real Madrid,1958
+82,Milan,2,0,Rangers,1958
+83,FCSB,3,1,Dortmund,1958
+84,Dukla,1,0,Man United,1958
+85,AGF,2,0,Sevilla,1958
+86,Vasas,2,1,Young Boys,1958
+87,Real Madrid,6,0,Antwerp,1958
+88,Ajax,1,0,Aue,1958
+89,Crvena zvezda,2,1,Norrköping,1958
+90,Real Madrid,2,0,Reims,1959
+91,Reims,3,0,Young Boys,1959
+92,Atlético,1,0,Real Madrid,1959
+93,Real Madrid,2,1,Atlético,1959
+94,Real Madrid,2,1,Atlético,1959
+95,Young Boys,1,0,Reims,1959
+96,Young Boys,2,1,Aue,1959
+97,Young Boys,2,2,Aue,1959
+98,Atlético,3,0,Schalke,1959
+99,Wiener SC,0,0,Real Madrid,1959
+100,Standard Liège,2,0,Reims,1959
+101,Real Madrid,7,1,Wiener SC,1959
+102,Aue,0,0,Young Boys,1959
+103,Schalke,1,1,Atlético,1959
+104,Reims,3,0,Standard Liège,1959
+105,Atlético,3,1,CSKA Sofia,1959
+106,Reims,4,0,HPS,1959
+107,Real Madrid,2,0,Beşiktaş,1959
+108,Wolves,2,2,Schalke,1959
+109,Göteborg,2,2,Aue,1959
+110,Atlético,2,1,CSKA Sofia,1959
+111,MTK,1,2,Young Boys,1959
+112,Wiener SC,3,1,Dukla,1959
+113,Sporting CP,2,3,Standard Liège,1959
+114,HPS,0,3,Reims,1959
+115,Beşiktaş,1,1,Real Madrid,1959
+116,Young Boys,4,1,MTK,1959
+117,CSKA Sofia,1,0,Atlético,1959
+118,Dukla,1,0,Wiener SC,1959
+119,Schalke,2,1,Wolves,1959
+120,Aue,4,0,Göteborg,1959
+121,Standard Liège,3,0,Sporting CP,1959
+122,Real Madrid,7,3,Frankfurt,1960
+123,Rangers,3,6,Frankfurt,1960
+124,Barcelona,1,3,Real Madrid,1960
+125,Real Madrid,3,1,Barcelona,1960
+126,Frankfurt,6,1,Rangers,1960
+127,Rangers,3,2,Sparta,1960
+128,Sparta,2,3,Rangers,1960
+129,Frankfurt,2,1,Wiener SC,1960
+130,Barcelona,4,0,Wolves,1960
+131,Nice,3,2,Real Madrid,1960
+132,Rangers,0,1,Sparta,1960
+133,Wiener SC,1,1,Frankfurt,1960
+134,Wolves,2,5,Barcelona,1960
+135,Real Madrid,4,0,Nice,1960
+136,Nice,5,1,Fenerbahçe,1960
+137,Sparta,3,1,Göteborg,1960
+138,Fenerbahçe,2,1,Nice,1960
+139,Rangers,4,3,Senica,1960
+140,Crvena zvezda,1,1,Wolves,1960
+141,Young Boys,1,4,Frankfurt,1960
+142,Milan,0,2,Barcelona,1960
+143,Sparta,3,1,Göteborg,1960
+144,Real Madrid,7,0,Jeunesse Esch,1960
+145,B 1909,0,3,Wiener SC,1960
+146,Nice,2,1,Fenerbahçe,1960
+147,Barcelona,5,1,Milan,1960
+148,Frankfurt,1,1,Young Boys,1960
+149,Wolves,3,0,Crvena zvezda,1960
+150,Senica,1,1,Rangers,1960
+151,Göteborg,3,1,Sparta,1960
+152,Jeunesse Esch,2,5,Real Madrid,1960
+153,Wiener SC,2,2,B 1909,1960
+154,Benfica,3,2,Barcelona,1961
+155,Rapid Wien,1,1,Benfica,1961
+156,Barcelona,1,0,Hamburg,1961
+157,Hamburg,2,1,Barcelona,1961
+158,Benfica,3,0,Rapid Wien,1961
+159,Barcelona,1,0,Hamburg,1961
+160,IFK Malmö,0,2,Rapid Wien,1961
+161,AGF,1,4,Benfica,1961
+162,Hamburg,4,1,Burnley,1961
+163,Hradec Králové,1,1,Barcelona,1961
+164,Rapid Wien,2,0,IFK Malmö,1961
+165,Benfica,3,1,AGF,1961
+166,Barcelona,4,0,Hradec Králové,1961
+167,Burnley,3,1,Hamburg,1961
+168,Rapid Wien,1,0,Aue,1961
+169,Burnley,2,0,Reims,1961
+170,Real Madrid,2,2,Barcelona,1961
+171,Rapid Wien,3,1,Aue,1961
+172,Benfica,6,2,Újpest,1961
+173,Hradec Králové,1,0,Panathinaikos,1961
+174,Young Boys,0,5,Hamburg,1961
+175,IFK Malmö,1,0,CSKA Sofia,1961
+176,AGF,3,0,Fredrikstad,1961
+177,Panathinaikos,0,0,Hradec Králové,1961
+178,Újpest,2,1,Benfica,1961
+179,Reims,3,2,Burnley,1961
+180,Hamburg,3,3,Young Boys,1961
+181,Barcelona,2,1,Real Madrid,1961
+182,Aue,2,0,Rapid Wien,1961
+183,CSKA Sofia,1,1,IFK Malmö,1961
+184,Fredrikstad,0,1,AGF,1961
+185,Benfica,5,3,Real Madrid,1962
+186,Standard Liège,0,2,Real Madrid,1962
+187,Tottenham,2,1,Benfica,1962
+188,Real Madrid,4,0,Standard Liège,1962
+189,Benfica,3,1,Tottenham,1962
+190,Real Madrid,3,1,Juventus,1962
+191,Juventus,0,1,Real Madrid,1962
+192,Dukla,1,0,Tottenham,1962
+193,Standard Liège,4,1,Rangers,1962
+194,Nürnberg,3,1,Benfica,1962
+195,Tottenham,4,1,Dukla,1962
+196,Benfica,6,0,Nürnberg,1962
+197,Real Madrid,0,1,Juventus,1962
+198,Rangers,2,0,Standard Liège,1962
+199,Nürnberg,1,0,Fenerbahçe,1962
+200,Rangers,4,1,Vorwärts,1962
+201,Dukla,2,0,Servette,1962
+202,Tottenham,1,1,Feyenoord,1962
+203,Juventus,5,0,Partizan,1962
+204,Benfica,5,1,Austria Wien,1962
+205,Haka,0,2,Standard Liège,1962
+206,Real Madrid,9,0,B 1913,1962
+207,Vorwärts,1,2,Rangers,1962
+208,Partizan,1,2,Juventus,1962
+209,Servette,4,3,Dukla,1962
+210,Feyenoord,1,3,Tottenham,1962
+211,Austria Wien,1,1,Benfica,1962
+212,Standard Liège,5,1,Haka,1962
+213,B 1913,0,3,Real Madrid,1962
+214,Fenerbahçe,1,2,Nürnberg,1962
+215,Milan,2,1,Benfica,1963
+216,Benfica,3,1,Feyenoord,1963
+217,Dundee,1,0,Milan,1963
+218,Milan,5,1,Dundee,1963
+219,Feyenoord,0,0,Benfica,1963
+220,Milan,5,0,Galatasaray,1963
+221,Feyenoord,1,1,Reims,1963
+222,Dukla,0,0,Benfica,1963
+223,Dundee,2,1,Anderlecht,1963
+224,Benfica,2,1,Dukla,1963
+225,Anderlecht,1,4,Dundee,1963
+226,Reims,0,1,Feyenoord,1963
+227,Galatasaray,1,3,Milan,1963
+228,Feyenoord,1,0,Vasas,1963
+229,Feyenoord,1,1,Vasas,1963
+230,Milan,3,0,Ipswich,1963
+231,Galatasaray,4,1,Polonia Bytom,1963
+232,Esbjerg,0,0,Dukla,1963
+233,Norrköping,1,1,Benfica,1963
+234,CSKA Sofia,2,2,Anderlecht,1963
+235,Sporting CP,1,0,Dundee,1963
+236,Austria Wien,3,2,Reims,1963
+237,Vasas,2,2,Feyenoord,1963
+238,Ipswich,2,1,Milan,1963
+239,Benfica,5,1,Norrköping,1963
+240,Polonia Bytom,1,0,Galatasaray,1963
+241,Dukla,5,0,Esbjerg,1963
+242,Anderlecht,2,0,CSKA Sofia,1963
+243,Reims,5,0,Austria Wien,1963
+244,Dundee,4,1,Sporting CP,1963
+245,Inter,3,1,Real Madrid,1964
+246,Real Madrid,6,0,Zürich,1964
+247,Inter,2,0,Dortmund,1964
+248,Zürich,1,2,Real Madrid,1964
+249,Dortmund,2,2,Inter,1964
+250,Dortmund,1,3,Dukla,1964
+251,Zürich,3,1,PSV,1964
+252,Inter,2,1,Partizan,1964
+253,Milan,2,0,Real Madrid,1964
+254,Dukla,0,4,Dortmund,1964
+255,PSV,1,0,Zürich,1964
+256,Partizan,0,2,Inter,1964
+257,Real Madrid,4,1,Milan,1964
+258,Real Madrid,5,3,Dinamo Bucureşti,1964
+259,Monaco,1,3,Inter,1964
+260,Milan,5,2,Norrköping,1964
+261,Dortmund,5,0,Benfica,1964
+262,Galatasaray,2,0,Zürich,1964
+263,Partizan,6,2,Jeunesse Esch,1964
+264,PSV,0,0,Spartak Plovdiv,1964
+265,Dukla,4,1,Górnik Zabrze,1964
+266,Zürich,2,2,Galatasaray,1964
+267,Inter,1,0,Monaco,1964
+268,Norrköping,1,1,Milan,1964
+269,Jeunesse Esch,2,1,Partizan,1964
+270,Zürich,2,0,Galatasaray,1964
+271,Dinamo Bucureşti,1,3,Real Madrid,1964
+272,Spartak Plovdiv,0,1,PSV,1964
+273,Górnik Zabrze,2,0,Dukla,1964
+274,Benfica,2,1,Dortmund,1964
+275,Inter,1,0,Benfica,1965
+276,Inter,3,0,Liverpool,1965
+277,Benfica,4,0,Győr,1965
+278,Liverpool,3,1,Inter,1965
+279,Győr,0,1,Benfica,1965
+280,Liverpool,2,2,Köln,1965
+281,Real Madrid,2,1,Benfica,1965
+282,Liverpool,0,0,Köln,1965
+283,Győr,1,0,Amsterdam,1965
+284,Rangers,1,0,Inter,1965
+285,Benfica,5,1,Real Madrid,1965
+286,Amsterdam,1,1,Győr,1965
+287,Inter,3,1,Rangers,1965
+288,Köln,0,0,Liverpool,1965
+289,Anderlecht,0,1,Liverpool,1965
+290,Benfica,5,0,Chaux-de-Fonds,1965
+291,Rapid Wien,0,2,Rangers,1965
+292,Lokomotiv Sofia,4,3,Győr,1965
+293,Dinamo Bucureşti,0,1,Inter,1965
+294,Dukla,2,2,Real Madrid,1965
+295,Köln,2,1,Panathinaikos,1965
+296,Lyn,1,3,Amsterdam,1965
+297,Liverpool,3,0,Anderlecht,1965
+298,Rangers,1,0,Rapid Wien,1965
+299,Real Madrid,4,0,Dukla,1965
+300,Győr,5,3,Lokomotiv Sofia,1965
+301,Inter,6,0,Dinamo Bucureşti,1965
+302,Panathinaikos,1,1,Köln,1965
+303,Chaux-de-Fonds,1,1,Benfica,1965
+304,Amsterdam,5,0,Lyn,1965
+305,Real Madrid,2,1,Partizan,1966
+306,Inter,1,1,Real Madrid,1966
+307,Man United,1,0,Partizan,1966
+308,Real Madrid,1,0,Inter,1966
+309,Partizan,2,0,Man United,1966
+310,Partizan,5,0,Sparta Praha,1966
+311,Real Madrid,4,2,Anderlecht,1966
+312,Benfica,1,5,Man United,1966
+313,Ferencváros,1,1,Inter,1966
+314,Sparta Praha,4,1,Partizan,1966
+315,Anderlecht,1,0,Real Madrid,1966
+316,Inter,4,0,Ferencváros,1966
+317,Man United,3,2,Benfica,1966
+318,Derry,-,-,Anderlecht,1966
+319,Inter,2,0,Dinamo Bucureşti,1966
+320,Benfica,3,2,Levski,1966
+321,Man United,3,1,Vorwärts,1966
+322,Real Madrid,5,1,Kilmarnock,1966
+323,Górnik Zabrze,1,2,Sparta Praha,1966
+324,Panathinaikos,1,3,Ferencváros,1966
+325,Bremen,1,0,Partizan,1966
+326,Dinamo Bucureşti,2,1,Inter,1966
+327,Sparta Praha,3,0,Górnik Zabrze,1966
+328,Anderlecht,9,0,Derry,1966
+329,Vorwärts,0,2,Man United,1966
+330,Kilmarnock,2,2,Real Madrid,1966
+331,Levski,2,2,Benfica,1966
+332,Ferencváros,0,0,Panathinaikos,1966
+333,Partizan,3,0,Bremen,1966
+334,Celtic,2,1,Inter,1967
+335,Inter,1,0,CSKA Sofia,1967
+336,Inter,1,1,CSKA Sofia,1967
+337,Celtic,3,1,Dukla,1967
+338,CSKA Sofia,1,1,Inter,1967
+339,Dukla,0,0,Celtic,1967
+340,CSKA Sofia,1,0,Linfield,1967
+341,Celtic,2,0,Vojvodina,1967
+342,Dukla,2,1,Ajax,1967
+343,Real Madrid,0,2,Inter,1967
+344,Linfield,2,2,CSKA Sofia,1967
+345,Vojvodina,1,0,Celtic,1967
+346,Ajax,1,1,Dukla,1967
+347,Inter,1,0,Real Madrid,1967
+348,Atlético,2,3,Vojvodina,1967
+349,Ajax,5,1,Liverpool,1967
+350,Nantes,1,3,Celtic,1967
+351,CSKA Sofia,4,0,Górnik Zabrze,1967
+352,1860 München,1,0,Real Madrid,1967
+353,Dukla,4,1,Anderlecht,1967
+354,Vojvodina,3,1,Atlético,1967
+355,Inter,2,1,Vasas,1967
+356,Vålerenga,1,4,Linfield,1967
+357,Liverpool,2,2,Ajax,1967
+358,Atlético,2,0,Vojvodina,1967
+359,Vasas,0,2,Inter,1967
+360,Celtic,3,1,Nantes,1967
+361,Górnik Zabrze,3,0,CSKA Sofia,1967
+362,Anderlecht,1,2,Dukla,1967
+363,Real Madrid,3,1,1860 München,1967
+364,Linfield,1,1,Vålerenga,1967
+365,Tirana,-,-,Vålerenga,1967
+366,Vorwärts,1,3,Górnik Zabrze,1967
+367,Liverpool,2,0,Petrolul,1967
+368,Vasas,5,0,Sporting CP,1967
+369,Malmö,0,2,Atlético,1967
+370,Liverpool,2,0,Petrolul,1967
+371,Inter,1,0,Torpedo Moskva,1967
+372,Górnik Zabrze,2,1,Vorwärts,1967
+373,CSKA Sofia,3,1,Olympiacos,1967
+374,Celtic,2,0,Zürich,1967
+375,Ajax,2,0,Beşiktaş,1967
+376,Esbjerg,0,2,Dukla,1967
+377,1860 München,8,0,Omonoia,1967
+378,Haka,1,10,Anderlecht,1967
+379,KR Reykjavik,2,3,Nantes,1967
+380,Admira,0,1,Vojvodina,1967
+381,Aris,3,3,Linfield,1967
+382,Vålerenga,-,-,Tirana,1967
+383,Sporting CP,0,2,Vasas,1967
+384,Atlético,3,1,Malmö,1967
+385,Petrolul,3,1,Liverpool,1967
+386,Torpedo Moskva,0,0,Inter,1967
+387,Vorwärts,2,1,Górnik Zabrze,1967
+388,Olympiacos,1,0,CSKA Sofia,1967
+389,Zürich,0,3,Celtic,1967
+390,Beşiktaş,1,2,Ajax,1967
+391,Nantes,5,2,KR Reykjavik,1967
+392,Dukla,4,0,Esbjerg,1967
+393,Anderlecht,2,0,Haka,1967
+394,Omonoia,1,2,1860 München,1967
+395,Vojvodina,0,0,Admira,1967
+396,Linfield,6,1,Aris,1967
+397,Man United,4,1,Benfica,1968
+398,Juventus,0,1,Benfica,1968
+399,Real Madrid,3,3,Man United,1968
+400,Benfica,2,0,Juventus,1968
+401,Man United,1,0,Real Madrid,1968
+402,Juventus,1,0,Braunschweig,1968
+403,Sparta Praha,2,1,Real Madrid,1968
+404,Benfica,3,0,Vasas,1968
+405,Górnik Zabrze,1,0,Man United,1968
+406,Juventus,1,0,Braunschweig,1968
+407,Real Madrid,3,0,Sparta Praha,1968
+408,Vasas,0,0,Benfica,1968
+409,Man United,2,0,Górnik Zabrze,1968
+410,Braunschweig,3,2,Juventus,1968
+411,Rapid Bucureşti,0,0,Juventus,1968
+412,Anderlecht,3,3,Sparta Praha,1968
+413,St-Étienne,1,0,Benfica,1968
+414,Górnik Zabrze,1,1,Dynamo Kyiv,1968
+415,Man United,2,1,Sarajevo,1968
+416,Braunschweig,2,0,Rapid Wien,1968
+417,Real Madrid,4,1,Hvidovre,1968
+418,Valur,1,5,Vasas,1968
+419,Juventus,1,0,Rapid Bucureşti,1968
+420,Sparta Praha,3,2,Anderlecht,1968
+421,Dynamo Kyiv,1,2,Górnik Zabrze,1968
+422,Benfica,2,0,St-Étienne,1968
+423,Vasas,6,0,Valur,1968
+424,Sarajevo,0,0,Man United,1968
+425,Rapid Wien,1,0,Braunschweig,1968
+426,Hvidovre,2,2,Real Madrid,1968
+427,Dinamo Tirana,-,-,Braunschweig,1968
+428,Rapid Bucureşti,3,0,Botev Plovdiv,1968
+429,Anderlecht,2,1,Chemnitz,1968
+430,Hvidovre,3,3,Basel,1968
+431,Sarajevo,3,1,Olympiakos,1968
+432,Real Madrid,2,1,Ajax,1968
+433,Vasas,8,1,Dundalk,1968
+434,Juventus,2,0,Olympiacos,1968
+435,Dynamo Kyiv,1,1,Celtic,1968
+436,KuPS,0,3,St-Étienne,1968
+437,Sparta Praha,1,1,Skeid,1968
+438,Djurgården,0,1,Górnik Zabrze,1968
+439,Benfica,0,0,Glentoran,1968
+440,Jeunesse Esch,3,3,Valur,1968
+441,Hibernians,0,0,Man United,1968
+442,Rapid Wien,3,0,Beşiktaş,1968
+443,Braunschweig,-,-,Dinamo Tirana,1968
+444,Botev Plovdiv,2,0,Rapid Bucureşti,1968
+445,Chemnitz,1,3,Anderlecht,1968
+446,Basel,1,2,Hvidovre,1968
+447,Ajax,1,1,Real Madrid,1968
+448,Dundalk,0,1,Vasas,1968
+449,Olympiacos,0,0,Juventus,1968
+450,Olympiakos,2,2,Sarajevo,1968
+451,Celtic,1,2,Dynamo Kyiv,1968
+452,St-Étienne,2,0,KuPS,1968
+453,Skeid,0,1,Sparta Praha,1968
+454,Górnik Zabrze,3,0,Djurgården,1968
+455,Man United,4,0,Hibernians,1968
+456,Valur,1,1,Jeunesse Esch,1968
+457,Glentoran,1,1,Benfica,1968
+458,Beşiktaş,0,1,Rapid Wien,1968
+459,Milan,4,1,Ajax,1969
+460,Man United,1,0,Milan,1969
+461,Spartak Trnava,2,0,Ajax,1969
+462,Milan,2,0,Man United,1969
+463,Ajax,3,0,Spartak Trnava,1969
+464,AEK,1,1,Spartak Trnava,1969
+465,Celtic,0,1,Milan,1969
+466,Ajax,3,0,Benfica,1969
+467,Rapid Wien,0,0,Man United,1969
+468,Benfica,1,3,Ajax,1969
+469,Spartak Trnava,2,1,AEK,1969
+470,Man United,3,0,Rapid Wien,1969
+471,Milan,0,0,Celtic,1969
+472,Ajax,1,3,Benfica,1969
+473,Real Madrid,2,1,Rapid Wien,1969
+474,Spartak Trnava,7,1,Reipas,1969
+475,Crvena zvezda,1,1,Celtic,1969
+476,Anderlecht,3,1,Man United,1969
+477,Fenerbahçe,0,2,Ajax,1969
+478,AB,0,2,AEK,1969
+479,Rapid Wien,1,0,Real Madrid,1969
+480,Reipas,1,9,Spartak Trnava,1969
+481,Celtic,5,1,Crvena zvezda,1969
+482,Man United,3,0,Anderlecht,1969
+483,Ajax,2,0,Fenerbahçe,1969
+484,AEK,0,0,AB,1969
+485,Ferencváros,-,-,Levski,1969
+486,Ruch,-,-,Dynamo Kyiv,1969
+487,Crvena zvezda,-,-,Jena,1969
+488,AB,1,2,Zürich,1969
+489,Man United,7,1,Waterford,1969
+490,Benfica,8,1,Valur,1969
+491,Rapid Wien,3,3,Rosenborg,1969
+492,Spartak Trnava,4,0,FCSB,1969
+493,Celtic,4,0,St-Étienne,1969
+494,Ajax,4,0,Nürnberg,1969
+495,Fenerbahçe,2,1,Man City,1969
+496,Milan,4,1,Malmö,1969
+497,Reipas,2,0,Floriana,1969
+498,Glentoran,2,2,Anderlecht,1969
+499,Jeunesse Esch,3,2,AEK,1969
+500,AEL,0,6,Real Madrid,1969
+501,Levski,-,-,Ferencváros,1969
+502,Dynamo Kyiv,-,-,Ruch,1969
+503,Jena,-,-,Crvena zvezda,1969
+504,Real Madrid,6,0,AEL,1969
+505,Zürich,1,3,AB,1969
+506,Waterford,1,3,Man United,1969
+507,Valur,0,0,Benfica,1969
+508,Rosenborg,1,3,Rapid Wien,1969
+509,FCSB,3,1,Spartak Trnava,1969
+510,St-Étienne,2,0,Celtic,1969
+511,Nürnberg,1,1,Ajax,1969
+512,Man City,0,0,Fenerbahçe,1969
+513,Malmö,2,1,Milan,1969
+514,Floriana,1,1,Reipas,1969
+515,Anderlecht,3,0,Glentoran,1969
+516,AEK,3,0,Jeunesse Esch,1969
+517,Feyenoord,2,1,Celtic,1970
+518,Celtic,2,1,Leeds,1970
+519,Feyenoord,2,0,Legia,1970
+520,Leeds,0,1,Celtic,1970
+521,Legia,0,0,Feyenoord,1970
+522,Fiorentina,1,0,Celtic,1970
+523,Leeds,1,0,Standard Liège,1970
+524,Feyenoord,2,0,Vorwärts,1970
+525,Legia,2,0,Galatasaray,1970
+526,Celtic,3,0,Fiorentina,1970
+527,Standard Liège,0,1,Leeds,1970
+528,Galatasaray,1,1,Legia,1970
+529,Vorwärts,1,0,Feyenoord,1970
+530,Real Madrid,2,3,Standard Liège,1970
+531,Benfica,3,0,Celtic,1970
+532,Feyenoord,2,0,Milan,1970
+533,Fiorentina,0,0,Dynamo Kyiv,1970
+534,Galatasaray,1,0,Spartak Trnava,1970
+535,Ferencváros,0,3,Leeds,1970
+536,St-Étienne,0,1,Legia,1970
+537,Crvena zvezda,3,2,Vorwärts,1970
+538,Standard Liège,1,0,Real Madrid,1970
+539,Celtic,3,0,Benfica,1970
+540,Leeds,3,0,Ferencváros,1970
+541,Legia,2,1,St-Étienne,1970
+542,Dynamo Kyiv,1,2,Fiorentina,1970
+543,Milan,1,0,Feyenoord,1970
+544,Vorwärts,2,1,Crvena zvezda,1970
+545,Spartak Trnava,1,0,Galatasaray,1970
+546,Linfield,2,4,Crvena zvezda,1970
+547,Celtic,2,0,Basel,1970
+548,St-Étienne,3,0,Bayern,1970
+549,Panathinaikos,1,1,Vorwärts,1970
+550,Öster,1,2,Fiorentina,1970
+551,KB,2,3,Benfica,1970
+552,Lyn,0,6,Leeds,1970
+553,Dynamo Kyiv,3,1,Austria Wien,1970
+554,Ferencváros,4,1,CSKA Sofia,1970
+555,Legia,8,0,UTA,1970
+556,Waterford,2,3,Galatasaray,1970
+557,Spartak Trnava,4,0,Hibernians,1970
+558,Tirana,1,1,Standard Liège,1970
+559,Real Madrid,6,1,Olympiakos,1970
+560,Feyenoord,4,0,KR Reykjavik,1970
+561,Avenir,0,3,Milan,1970
+562,Olympiakos,0,8,Real Madrid,1970
+563,Benfica,2,0,KB,1970
+564,Fiorentina,1,0,Öster,1970
+565,Leeds,10,0,Lyn,1970
+566,Bayern,2,0,St-Étienne,1970
+567,Austria Wien,1,2,Dynamo Kyiv,1970
+568,KR Reykjavik,2,12,Feyenoord,1970
+569,Standard Liège,3,0,Tirana,1970
+570,Basel,0,0,Celtic,1970
+571,Galatasaray,2,0,Waterford,1970
+572,Vorwärts,2,0,Panathinaikos,1970
+573,Hibernians,2,2,Spartak Trnava,1970
+574,Crvena zvezda,8,0,Linfield,1970
+575,UTA,1,2,Legia,1970
+576,CSKA Sofia,2,1,Ferencváros,1970
+577,Milan,5,0,Avenir,1970
+578,Ajax,2,0,Panathinaikos,1971
+579,Ajax,3,0,Atlético,1971
+580,Panathinaikos,3,0,Crvena zvezda,1971
+581,Atlético,1,0,Ajax,1971
+582,Crvena zvezda,4,1,Panathinaikos,1971
+583,Celtic,1,0,Ajax,1971
+584,Legia,2,1,Atlético,1971
+585,Crvena zvezda,4,0,Jena,1971
+586,Panathinaikos,0,0,Everton,1971
+587,Atlético,1,0,Legia,1971
+588,Ajax,3,0,Celtic,1971
+589,Jena,3,2,Crvena zvezda,1971
+590,Everton,1,1,Panathinaikos,1971
+591,Atlético,3,0,Cagliari,1971
+592,Celtic,3,2,Waterford,1971
+593,Everton,1,1,Mönchengladbach,1971
+594,Basel,1,2,Ajax,1971
+595,UTA,1,3,Crvena zvezda,1971
+596,Sporting CP,1,2,Jena,1971
+597,Slovan Bratislava,2,1,Panathinaikos,1971
+598,Legia,2,0,Standard Liège,1971
+599,Ajax,3,0,Basel,1971
+600,Cagliari,2,1,Atlético,1971
+601,Mönchengladbach,1,1,Everton,1971
+602,Waterford,0,7,Celtic,1971
+603,Crvena zvezda,3,0,UTA,1971
+604,Jena,2,1,Sporting CP,1971
+605,Panathinaikos,3,0,Slovan Bratislava,1971
+606,Standard Liège,1,0,Legia,1971
+607,St-Étienne,1,0,Cagliari,1971
+608,Ajax,2,0,Tirana,1971
+609,Standard Liège,5,0,Rosenborg,1971
+610,Basel,2,1,Spartak Moskva,1971
+611,Austria Wien,1,2,Atlético,1971
+612,Waterford,1,0,Glentoran,1971
+613,KPV,0,5,Celtic,1971
+614,Jena,1,0,Fenerbahçe,1971
+615,UTA,0,0,Feyenoord,1971
+616,Panathinaikos,5,0,Jeunesse Esch,1971
+617,Crvena zvezda,4,0,Újpest,1971
+618,Legia,2,1,Göteborg,1971
+619,Keflavík,0,3,Everton,1971
+620,B 1903,2,2,Slovan Bratislava,1971
+621,Floriana,0,4,Sporting CP,1971
+622,Mönchengladbach,10,0,Pezoporikou,1971
+623,Celtic,9,0,KPV,1971
+624,Atlético,2,0,Austria Wien,1971
+625,Glentoran,1,3,Waterford,1971
+626,Feyenoord,1,1,UTA,1971
+627,Cagliari,3,0,St-Étienne,1971
+628,Rosenborg,0,2,Standard Liège,1971
+629,Újpest,2,0,Crvena zvezda,1971
+630,Spartak Moskva,3,2,Basel,1971
+631,Jeunesse Esch,1,2,Panathinaikos,1971
+632,Tirana,2,2,Ajax,1971
+633,Göteborg,0,4,Legia,1971
+634,Everton,6,2,Keflavík,1971
+635,Slovan Bratislava,2,1,B 1903,1971
+636,Sporting CP,5,0,Floriana,1971
+637,Fenerbahçe,0,4,Jena,1971
+638,Pezoporikou,0,6,Mönchengladbach,1971
+639,Everton,(4),(3),Mönchengladbach,1971
+640,Ajax,2,0,Inter,1972
+641,Benfica,0,0,Ajax,1972
+642,Celtic,0,0,Inter,1972
+643,Inter,0,0,Celtic,1972
+644,Ajax,1,0,Benfica,1972
+645,Benfica,5,1,Feyenoord,1972
+646,Celtic,1,1,Újpest,1972
+647,Arsenal,0,1,Ajax,1972
+648,Standard Liège,2,1,Inter,1972
+649,Inter,1,0,Standard Liège,1972
+650,Feyenoord,1,0,Benfica,1972
+651,Ajax,2,1,Arsenal,1972
+652,Újpest,1,2,Celtic,1972
+653,Mönchengladbach,0,0,Inter,1972
+654,Arsenal,3,0,Grasshoppers,1972
+655,Feyenoord,2,0,Dinamo Bucureşti,1972
+656,Ajax,4,1,Marseille,1972
+657,Standard Liège,2,0,CSKA Moskva,1972
+658,CSKA Sofia,0,0,Benfica,1972
+659,Újpest,2,1,Valencia,1972
+660,Sliema,1,2,Celtic,1972
+661,Inter,4,2,Mönchengladbach,1972
+662,Benfica,2,1,CSKA Sofia,1972
+663,Celtic,5,0,Sliema,1972
+664,Valencia,0,1,Újpest,1972
+665,Marseille,1,2,Ajax,1972
+666,Grasshoppers,0,2,Arsenal,1972
+667,CSKA Moskva,1,0,Standard Liège,1972
+668,Dinamo Bucureşti,0,3,Feyenoord,1972
+669,Benfica,3,1,Wacker,1972
+670,Celtic,3,0,B 1903,1972
+671,Arsenal,4,0,Strømsgodset,1972
+672,Grasshoppers,8,0,Reipas,1972
+673,Mönchengladbach,2,1,Cork Hibs,1972
+674,AEK,3,2,Inter,1972
+675,Linfield,2,3,Standard Liège,1972
+676,Dresden,0,0,Ajax,1972
+677,Malmö,1,0,Újpest,1972
+678,Hajduk Split,1,1,Valencia,1972
+679,CSKA Moskva,3,0,Galatasaray,1972
+680,Górnik Zabrze,1,1,Marseille,1972
+681,Partizani,0,1,CSKA Sofia,1972
+682,Spartak Trnava,2,2,Dinamo Bucureşti,1972
+683,Sliema,0,0,ÍA,1972
+684,Olympiakos,0,9,Feyenoord,1972
+685,ÍA,0,4,Sliema,1972
+686,Valencia,0,0,Hajduk Split,1972
+687,Inter,4,1,AEK,1972
+688,Marseille,2,1,Górnik Zabrze,1972
+689,Feyenoord,8,0,Olympiakos,1972
+690,Ajax,2,0,Dresden,1972
+691,Újpest,4,0,Malmö,1972
+692,Standard Liège,2,0,Linfield,1972
+693,Wacker,0,4,Benfica,1972
+694,B 1903,2,1,Celtic,1972
+695,Strømsgodset,1,3,Arsenal,1972
+696,Galatasaray,1,1,CSKA Moskva,1972
+697,Cork Hibs,0,5,Mönchengladbach,1972
+698,Reipas,1,1,Grasshoppers,1972
+699,CSKA Sofia,3,0,Partizani,1972
+700,Dinamo Bucureşti,0,0,Spartak Trnava,1972
+701,Celtic,(4),(5),Inter,1972
+702,Ajax,1,0,Juventus,1973
+703,Real Madrid,0,1,Ajax,1973
+704,Derby,0,0,Juventus,1973
+705,Ajax,2,1,Real Madrid,1973
+706,Juventus,3,1,Derby,1973
+707,Real Madrid,3,0,Dynamo Kyiv,1973
+708,Derby,2,0,Spartak Trnava,1973
+709,Bayern,2,1,Ajax,1973
+710,Újpest,2,2,Juventus,1973
+711,Juventus,0,0,Újpest,1973
+712,Ajax,4,0,Bayern,1973
+713,Dynamo Kyiv,0,0,Real Madrid,1973
+714,Spartak Trnava,1,0,Derby,1973
+715,Ajax,3,0,CSKA Sofia,1973
+716,Real Madrid,3,1,ACS Campionii FC Arges,1973
+717,Benfica,0,0,Derby,1973
+718,Anderlecht,0,1,Spartak Trnava,1973
+719,Magdeburg,0,1,Juventus,1973
+720,Újpest,3,0,Celtic,1973
+721,Górnik Zabrze,2,1,Dynamo Kyiv,1973
+722,Omonoia,0,4,Bayern,1973
+723,CSKA Sofia,1,3,Ajax,1973
+724,Celtic,2,1,Újpest,1973
+725,Juventus,1,0,Magdeburg,1973
+726,Derby,3,0,Benfica,1973
+727,Dynamo Kyiv,2,0,Górnik Zabrze,1973
+728,Spartak Trnava,1,0,Anderlecht,1973
+729,ACS Campionii FC Arges,2,1,Real Madrid,1973
+730,Bayern,9,0,Omonoia,1973
+731,Panathinaikos,0,2,CSKA Sofia,1973
+732,Benfica,4,1,Malmö,1973
+733,Juventus,3,0,Marseille,1973
+734,Bayern,6,0,Galatasaray,1973
+735,Basel,3,2,Újpest,1973
+736,Keflavík,0,1,Real Madrid,1973
+737,Rosenborg,1,3,Celtic,1973
+738,VB,0,3,Anderlecht,1973
+739,Željezničar,1,2,Derby,1973
+740,TPS,1,3,Magdeburg,1973
+741,Dynamo Kyiv,2,0,Wacker,1973
+742,Górnik Zabrze,5,0,Sliema,1973
+743,ACS Campionii FC Arges,4,0,Aris,1973
+744,Omonoia,2,0,Waterford,1973
+745,Celtic,2,1,Rosenborg,1973
+746,Real Madrid,3,0,Keflavík,1973
+747,Marseille,1,0,Juventus,1973
+748,Derby,2,0,Željezničar,1973
+749,Anderlecht,4,2,VB,1973
+750,Aris,0,2,ACS Campionii FC Arges,1973
+751,Wacker,0,1,Dynamo Kyiv,1973
+752,Magdeburg,6,0,TPS,1973
+753,Malmö,1,0,Benfica,1973
+754,Galatasaray,1,1,Bayern,1973
+755,Waterford,2,1,Omonoia,1973
+756,CSKA Sofia,2,1,Panathinaikos,1973
+757,Újpest,2,0,Basel,1973
+758,Sliema,0,5,Górnik Zabrze,1973
+759,Atlético,0,4,Bayern,1974
+760,Bayern,1,1,Atlético,1974
+761,Atlético,2,0,Celtic,1974
+762,Bayern,3,0,Újpest,1974
+763,Celtic,0,0,Atlético,1974
+764,Újpest,1,1,Bayern,1974
+765,Atlético,0,0,Crvena zvezda,1974
+766,Celtic,4,2,Basel,1974
+767,Újpest,1,1,Spartak Trnava,1974
+768,CSKA Sofia,2,1,Bayern,1974
+769,Crvena zvezda,0,2,Atlético,1974
+770,Spartak Trnava,1,1,Újpest,1974
+771,Bayern,4,1,CSKA Sofia,1974
+772,Basel,3,2,Celtic,1974
+773,Atlético,2,2,Dinamo Bucureşti,1974
+774,Basel,6,4,Club Brugge,1974
+775,Dresden,3,3,Bayern,1974
+776,CSKA Sofia,2,0,Ajax,1974
+777,Újpest,2,0,Benfica,1974
+778,Zorya Luhansk,0,1,Spartak Trnava,1974
+779,Liverpool,1,2,Crvena zvezda,1974
+780,VB,0,1,Celtic,1974
+781,Benfica,1,1,Újpest,1974
+782,Celtic,0,0,VB,1974
+783,Ajax,1,0,CSKA Sofia,1974
+784,Bayern,4,3,Dresden,1974
+785,Club Brugge,2,1,Basel,1974
+786,Crvena zvezda,2,1,Liverpool,1974
+787,Spartak Trnava,0,0,Zorya Luhansk,1974
+788,Dinamo Bucureşti,0,2,Atlético,1974
+789,Juventus,3,2,Dresden,1974
+790,Celtic,3,0,TPS,1974
+791,Nantes,0,1,VB,1974
+792,Liverpool,2,0,Jeunesse Esch,1974
+793,Wacker,0,1,CSKA Sofia,1974
+794,Olympiacos,0,1,Benfica,1974
+795,Åtvidaberg,3,1,Bayern,1974
+796,Galatasaray,0,1,Atlético,1974
+797,Újpest,3,0,Waterford,1974
+798,Stal,0,1,Crvena zvezda,1974
+799,Floriana,0,2,Club Brugge,1974
+800,Spartak Trnava,1,0,Viking,1974
+801,Dinamo Bucureşti,11,0,Crusaders,1974
+802,APOEL,0,1,Zorya Luhansk,1974
+803,Basel,6,2,Fram,1974
+804,Benfica,1,0,Olympiacos,1974
+805,Atlético,0,0,Galatasaray,1974
+806,Club Brugge,8,0,Floriana,1974
+807,Dresden,2,0,Juventus,1974
+808,Bayern,3,1,Åtvidaberg,1974
+809,VB,2,2,Nantes,1974
+810,Jeunesse Esch,1,1,Liverpool,1974
+811,Viking,1,2,Spartak Trnava,1974
+812,Crvena zvezda,2,1,Stal,1974
+813,Waterford,2,3,Újpest,1974
+814,Zorya Luhansk,2,0,APOEL,1974
+815,TPS,1,6,Celtic,1974
+816,Crusaders,0,1,Dinamo Bucureşti,1974
+817,CSKA Sofia,3,0,Wacker,1974
+818,Fram,0,5,Basel,1974
+819,Újpest,(4),(3),Spartak Trnava,1974
+820,Åtvidaberg,(3),(4),Bayern,1974
+821,Bayern,2,0,Leeds,1975
+822,Barcelona,1,1,Leeds,1975
+823,Bayern,2,0,St-Étienne,1975
+824,St-Étienne,0,0,Bayern,1975
+825,Leeds,2,1,Barcelona,1975
+826,St-Étienne,2,0,Ruch,1975
+827,Anderlecht,0,1,Leeds,1975
+828,Ararat,1,0,Bayern,1975
+829,Åtvidaberg,0,3,Barcelona,1975
+830,Leeds,3,0,Anderlecht,1975
+831,Bayern,2,0,Ararat,1975
+832,Ruch,3,2,St-Étienne,1975
+833,Barcelona,2,0,Åtvidaberg,1975
+834,St-Étienne,5,1,Hajduk Split,1975
+835,Leeds,3,0,Újpest,1975
+836,Magdeburg,1,2,Bayern,1975
+837,Åtvidaberg,1,0,HJK,1975
+838,Fenerbahçe,0,2,Ruch,1975
+839,Ararat,5,0,Cork Celtic,1975
+840,Olympiacos,3,0,Anderlecht,1975
+841,Barcelona,3,0,Feyenoord,1975
+842,Anderlecht,5,1,Olympiacos,1975
+843,Bayern,3,2,Magdeburg,1975
+844,Cork Celtic,1,2,Ararat,1975
+845,HJK,0,3,Åtvidaberg,1975
+846,Ruch,2,1,Fenerbahçe,1975
+847,Újpest,1,2,Leeds,1975
+848,Hajduk Split,4,1,St-Étienne,1975
+849,Feyenoord,0,0,Barcelona,1975
+850,Cork Celtic,-,-,Omonoia,1975
+851,Åtvidaberg,3,1,Univ Craiova,1975
+852,Sporting CP,1,1,St-Étienne,1975
+853,Barcelona,5,0,Linz,1975
+854,Olympiacos,2,0,Celtic,1975
+855,Anderlecht,3,1,Slovan Bratislava,1975
+856,Zürich,2,1,Leeds,1975
+857,Fenerbahçe,2,0,Jeunesse Esch,1975
+858,Coleraine,1,4,Feyenoord,1975
+859,Ruch,2,1,Hvidovre,1975
+860,HJK,4,1,Valletta,1975
+861,Ararat,4,2,Viking,1975
+862,Újpest,4,1,Levski,1975
+863,Keflavík,0,2,Hajduk Split,1975
+864,Omonoia,-,-,Cork Celtic,1975
+865,Hajduk Split,7,1,Keflavík,1975
+866,Celtic,1,1,Olympiacos,1975
+867,St-Étienne,2,0,Sporting CP,1975
+868,Feyenoord,7,0,Coleraine,1975
+869,Leeds,4,1,Zürich,1975
+870,Slovan Bratislava,4,2,Anderlecht,1975
+871,Jeunesse Esch,2,3,Fenerbahçe,1975
+872,Linz,0,0,Barcelona,1975
+873,Viking,0,2,Ararat,1975
+874,Hvidovre,0,0,Ruch,1975
+875,Valletta,1,0,HJK,1975
+876,Levski,0,3,Újpest,1975
+877,Univ Craiova,2,1,Åtvidaberg,1975
+878,Bayern,1,0,St-Étienne,1976
+879,PSV,0,0,St-Étienne,1976
+880,Bayern,2,0,Real Madrid,1976
+881,Real Madrid,1,1,Bayern,1976
+882,St-Étienne,1,0,PSV,1976
+883,Real Madrid,1,1,Mönchengladbach,1976
+884,St-Étienne,3,0,Dynamo Kyiv,1976
+885,Bayern,5,1,Benfica,1976
+886,PSV,3,0,Hajduk Split,1976
+887,Benfica,0,0,Bayern,1976
+888,Mönchengladbach,2,2,Real Madrid,1976
+889,Dynamo Kyiv,2,0,St-Étienne,1976
+890,Hajduk Split,2,0,PSV,1976
+891,Real Madrid,5,1,Derby,1976
+892,Rangers,1,2,St-Étienne,1976
+893,Juventus,2,2,Mönchengladbach,1976
+894,PSV,4,0,Ruch,1976
+895,ÍA,0,2,Dynamo Kyiv,1976
+896,Brussels,2,3,Hajduk Split,1976
+897,Bayern,2,0,Malmö,1976
+898,Újpest,3,1,Benfica,1976
+899,Benfica,5,2,Újpest,1976
+900,St-Étienne,2,0,Rangers,1976
+901,Derby,4,1,Real Madrid,1976
+902,Mönchengladbach,2,0,Juventus,1976
+903,Malmö,1,0,Bayern,1976
+904,Dynamo Kyiv,3,0,ÍA,1976
+905,Ruch,1,3,PSV,1976
+906,Hajduk Split,4,0,Brussels,1976
+907,Bohemians,1,1,Rangers,1976
+908,Derby,3,0,Slovan Bratislava,1976
+909,St-Étienne,3,1,KB,1976
+910,Juventus,2,0,CSKA Sofia,1976
+911,Bayern,3,1,Jeunesse Esch,1976
+912,PSV,8,0,Linfield,1976
+913,Zürich,5,1,Újpest,1976
+914,Wacker,1,6,Mönchengladbach,1976
+915,Fenerbahçe,1,0,Benfica,1976
+916,Viking,0,1,Brussels,1976
+917,KuPS,2,2,Ruch,1976
+918,Hajduk Split,3,0,Floriana,1976
+919,Dynamo Kyiv,1,0,Olympiacos,1976
+920,Magdeburg,2,1,Malmö,1976
+921,Dinamo Bucureşti,1,0,Real Madrid,1976
+922,ÍA,4,0,Omonoia,1976
+923,Omonoia,2,1,ÍA,1976
+924,Benfica,7,0,Fenerbahçe,1976
+925,Real Madrid,4,1,Dinamo Bucureşti,1976
+926,Rangers,4,1,Bohemians,1976
+927,Brussels,3,2,Viking,1976
+928,Mönchengladbach,1,1,Wacker,1976
+929,Jeunesse Esch,0,5,Bayern,1976
+930,Slovan Bratislava,1,0,Derby,1976
+931,Olympiacos,2,2,Dynamo Kyiv,1976
+932,Malmö,2,1,Magdeburg,1976
+933,KB,0,2,St-Étienne,1976
+934,Linfield,1,2,PSV,1976
+935,Ruch,5,0,KuPS,1976
+936,Újpest,4,0,Zürich,1976
+937,Floriana,0,5,Hajduk Split,1976
+938,CSKA Sofia,2,1,Juventus,1976
+939,Magdeburg,(1),(2),Malmö,1976
+940,Liverpool,3,1,Mönchengladbach,1977
+941,Liverpool,3,0,Zürich,1977
+942,Mönchengladbach,2,0,Dynamo Kyiv,1977
+943,Dynamo Kyiv,1,0,Mönchengladbach,1977
+944,Zürich,1,3,Liverpool,1977
+945,Liverpool,3,1,St-Étienne,1977
+946,Club Brugge,0,1,Mönchengladbach,1977
+947,Dynamo Kyiv,2,0,Bayern,1977
+948,Dresden,3,2,Zürich,1977
+949,St-Étienne,1,0,Liverpool,1977
+950,Zürich,2,1,Dresden,1977
+951,Mönchengladbach,2,2,Club Brugge,1977
+952,Bayern,1,0,Dynamo Kyiv,1977
+953,Liverpool,3,0,Trabzonspor,1977
+954,Club Brugge,2,0,Real Madrid,1977
+955,PSV,0,0,St-Étienne,1977
+956,Mönchengladbach,0,0,Torino,1977
+957,Bayern,5,0,Baník,1977
+958,PAOK,0,2,Dynamo Kyiv,1977
+959,TPS,0,1,Zürich,1977
+960,Dresden,4,0,Ferencváros,1977
+961,Real Madrid,0,0,Club Brugge,1977
+962,St-Étienne,1,0,PSV,1977
+963,Torino,1,2,Mönchengladbach,1977
+964,Zürich,2,0,TPS,1977
+965,Dynamo Kyiv,4,0,PAOK,1977
+966,Baník,2,1,Bayern,1977
+967,Ferencváros,1,0,Dresden,1977
+968,Trabzonspor,1,0,Liverpool,1977
+969,Benfica,0,0,Dresden,1977
+970,Real Madrid,1,0,Stal,1977
+971,St-Étienne,1,0,CSKA Sofia,1977
+972,Bayern,2,1,Køge,1977
+973,Zürich,1,0,Rangers,1977
+974,PSV,6,0,Dundalk,1977
+975,PAOK,1,1,Omonoia,1977
+976,Mönchengladbach,3,0,Austria Wien,1977
+977,Jeunesse Esch,2,6,Ferencváros,1977
+978,Malmö,1,1,Torino,1977
+979,Partizan,0,2,Dynamo Kyiv,1977
+980,Baník,2,0,Viking,1977
+981,Trabzonspor,3,2,ÍA,1977
+982,FCSB,1,1,Club Brugge,1977
+983,TPS,1,0,Sliema,1977
+984,Crusaders,0,5,Liverpool,1977
+985,Dundalk,1,1,PSV,1977
+986,Torino,2,1,Malmö,1977
+987,Rangers,1,1,Zürich,1977
+988,ÍA,1,3,Trabzonspor,1977
+989,Club Brugge,2,1,FCSB,1977
+990,Dresden,2,0,Benfica,1977
+991,Austria Wien,1,0,Mönchengladbach,1977
+992,Viking,2,1,Baník,1977
+993,Dynamo Kyiv,3,0,Partizan,1977
+994,CSKA Sofia,0,0,St-Étienne,1977
+995,Omonoia,0,2,PAOK,1977
+996,Ferencváros,5,1,Jeunesse Esch,1977
+997,Stal,1,2,Real Madrid,1977
+998,Liverpool,2,0,Crusaders,1977
+999,Køge,0,5,Bayern,1977
+1000,Sliema,2,1,TPS,1977
+1001,Liverpool,1,0,Club Brugge,1978
+1002,Liverpool,3,0,Mönchengladbach,1978
+1003,Club Brugge,2,0,Juventus,1978
+1004,Juventus,1,0,Club Brugge,1978
+1005,Mönchengladbach,2,1,Liverpool,1978
+1006,Atlético,3,2,Club Brugge,1978
+1007,Liverpool,4,1,Benfica,1978
+1008,Juventus,1,1,Ajax,1978
+1009,Mönchengladbach,2,0,Wacker,1978
+1010,Benfica,1,2,Liverpool,1978
+1011,Ajax,1,1,Juventus,1978
+1012,Club Brugge,2,0,Atlético,1978
+1013,Wacker,3,1,Mönchengladbach,1978
+1014,Atlético,2,1,Nantes,1978
+1015,Juventus,5,0,Glentoran,1978
+1016,Ajax,2,1,Levski,1978
+1017,Mönchengladbach,5,1,Crvena zvezda,1978
+1018,B 1903,0,1,Benfica,1978
+1019,Wacker,3,0,Celtic,1978
+1020,Dresden,2,1,Liverpool,1978
+1021,Panathinaikos,1,0,Club Brugge,1978
+1022,Benfica,1,0,B 1903,1978
+1023,Nantes,1,1,Atlético,1978
+1024,Celtic,2,1,Wacker,1978
+1025,Glentoran,0,1,Juventus,1978
+1026,Liverpool,5,1,Dresden,1978
+1027,Club Brugge,2,0,Panathinaikos,1978
+1028,Crvena zvezda,0,3,Mönchengladbach,1978
+1029,Levski,1,2,Ajax,1978
+1030,Glentoran,2,0,Valur,1978
+1031,Atlético,2,0,Dinamo Bucureşti,1978
+1032,Nantes,0,0,Dukla,1978
+1033,Juventus,2,0,Omonoia,1978
+1034,Ajax,4,0,Lillestrøm,1978
+1035,Club Brugge,5,2,KuPS,1978
+1036,Panathinaikos,4,0,Floriana,1978
+1037,B 1903,2,0,Trabzonspor,1978
+1038,Mönchengladbach,1,1,Vasas,1978
+1039,Jeunesse Esch,1,6,Celtic,1978
+1040,Halmstad,2,1,Dresden,1978
+1041,Wacker,0,1,Basel,1978
+1042,Torpedo Moskva,0,0,Benfica,1978
+1043,Sligo,0,3,Crvena zvezda,1978
+1044,Śląsk,2,2,Levski,1978
+1045,Valur,1,0,Glentoran,1978
+1046,Dinamo Bucureşti,2,1,Atlético,1978
+1047,Benfica,0,0,Torpedo Moskva,1978
+1048,Dresden,2,0,Halmstad,1978
+1049,Basel,1,3,Wacker,1978
+1050,Dukla,1,1,Nantes,1978
+1051,Lillestrøm,2,0,Ajax,1978
+1052,Celtic,5,0,Jeunesse Esch,1978
+1053,Vasas,0,3,Mönchengladbach,1978
+1054,Crvena zvezda,3,0,Sligo,1978
+1055,Floriana,1,1,Panathinaikos,1978
+1056,KuPS,0,4,Club Brugge,1978
+1057,Omonoia,0,3,Juventus,1978
+1058,Levski,3,0,Śląsk,1978
+1059,Trabzonspor,1,0,B 1903,1978
+1060,Juventus,(3),(0),Ajax,1978
+1061,Torpedo Moskva,(1),(4),Benfica,1978
+1062,Nottm Forest,1,0,Malmö,1979
+1063,Köln,0,1,Nottm Forest,1979
+1064,Malmö,1,0,Austria Wien,1979
+1065,Nottm Forest,3,3,Köln,1979
+1066,Austria Wien,0,0,Malmö,1979
+1067,Rangers,1,1,Köln,1979
+1068,Grasshoppers,1,1,Nottm Forest,1979
+1069,Malmö,4,1,Wisła Kraków,1979
+1070,Dresden,1,0,Austria Wien,1979
+1071,Nottm Forest,4,1,Grasshoppers,1979
+1072,Austria Wien,3,1,Dresden,1979
+1073,Wisła Kraków,2,1,Malmö,1979
+1074,Köln,1,0,Rangers,1979
+1075,Nottm Forest,5,1,AEK,1979
+1076,PSV,2,3,Rangers,1979
+1077,Grasshoppers,2,0,Real Madrid,1979
+1078,Malmö,2,0,Dynamo Kyiv,1979
+1079,Lillestrøm,0,0,Austria Wien,1979
+1080,Köln,4,0,Lokomotiv Sofia,1979
+1081,Dresden,6,0,Bohemians,1979
+1082,Wisła Kraków,1,1,Brno,1979
+1083,Bohemians,0,0,Dresden,1979
+1084,Real Madrid,3,1,Grasshoppers,1979
+1085,Rangers,0,0,PSV,1979
+1086,Austria Wien,4,1,Lillestrøm,1979
+1087,AEK,1,2,Nottm Forest,1979
+1088,Dynamo Kyiv,0,0,Malmö,1979
+1089,Lokomotiv Sofia,0,1,Köln,1979
+1090,Brno,2,2,Wisła Kraków,1979
+1091,Porto,4,1,AEK,1979
+1092,Liverpool,0,0,Nottm Forest,1979
+1093,Rangers,2,0,Juventus,1979
+1094,Monaco,0,1,Malmö,1979
+1095,PSV,6,1,Fenerbahçe,1979
+1096,Progrès,0,7,Real Madrid,1979
+1097,Lillestrøm,1,0,Linfield,1979
+1098,ÍA,1,1,Köln,1979
+1099,Dynamo Kyiv,3,1,Haka,1979
+1100,Austria Wien,4,1,Vllaznia,1979
+1101,Újpest,0,2,Brno,1979
+1102,Dresden,2,0,Partizan,1979
+1103,Lokomotiv Sofia,2,1,OB,1979
+1104,Wisła Kraków,3,1,Club Brugge,1979
+1105,Bohemians,1,0,Omonoia,1979
+1106,Valletta,3,5,Grasshoppers,1979
+1107,Real Madrid,5,0,Progrès,1979
+1108,Nottm Forest,2,0,Liverpool,1979
+1109,Juventus,1,0,Rangers,1979
+1110,OB,2,2,Lokomotiv Sofia,1979
+1111,Grasshoppers,8,0,Valletta,1979
+1112,Köln,4,1,ÍA,1979
+1113,AEK,6,1,Porto,1979
+1114,Club Brugge,2,1,Wisła Kraków,1979
+1115,Omonoia,2,1,Bohemians,1979
+1116,Fenerbahçe,2,1,PSV,1979
+1117,Malmö,0,0,Monaco,1979
+1118,Linfield,0,0,Lillestrøm,1979
+1119,Haka,0,1,Dynamo Kyiv,1979
+1120,Partizan,2,0,Dresden,1979
+1121,Vllaznia,2,0,Austria Wien,1979
+1122,Brno,2,2,Újpest,1979
+1123,Dresden,(5),(4),Partizan,1979
+1124,Nottm Forest,1,0,Hamburg,1980
+1125,Hamburg,5,1,Real Madrid,1980
+1126,Ajax,1,0,Nottm Forest,1980
+1127,Real Madrid,2,0,Hamburg,1980
+1128,Nottm Forest,2,0,Ajax,1980
+1129,Ajax,4,0,Strasbourg,1980
+1130,Hajduk Split,3,2,Hamburg,1980
+1131,Berlin,1,3,Nottm Forest,1980
+1132,Real Madrid,3,0,Celtic,1980
+1133,Celtic,2,0,Real Madrid,1980
+1134,Strasbourg,0,0,Ajax,1980
+1135,Nottm Forest,0,1,Berlin,1980
+1136,Hamburg,1,0,Hajduk Split,1980
+1137,Real Madrid,1,0,Porto,1980
+1138,Dundalk,0,0,Celtic,1980
+1139,Servette,2,2,Berlin,1980
+1140,Strasbourg,2,0,Dukla,1980
+1141,Omonoia,4,0,Ajax,1980
+1142,Hajduk Split,1,2,VB,1980
+1143,Dinamo Tbilisi,2,3,Hamburg,1980
+1144,ACS Campionii FC Arges,1,2,Nottm Forest,1980
+1145,Porto,2,1,Real Madrid,1980
+1146,Nottm Forest,2,0,ACS Campionii FC Arges,1980
+1147,Celtic,3,2,Dundalk,1980
+1148,Ajax,10,0,Omonoia,1980
+1149,Hamburg,3,1,Dinamo Tbilisi,1980
+1150,VB,0,3,Hajduk Split,1980
+1151,Dukla,1,0,Strasbourg,1980
+1152,Berlin,2,1,Servette,1980
+1153,Milan,0,1,Porto,1980
+1154,Real Madrid,2,0,Levski,1980
+1155,Celtic,4,1,Partizani,1980
+1156,Strasbourg,4,0,Start,1980
+1157,Ajax,8,1,HJK,1980
+1158,Beveren,1,1,Servette,1980
+1159,Öster,1,1,Nottm Forest,1980
+1160,AEK,2,0,ACS Campionii FC Arges,1980
+1161,Austria Wien,1,1,VB,1980
+1162,Omonoia,6,1,Differdange,1980
+1163,Hamburg,2,1,Valur,1980
+1164,Ruch,0,0,Berlin,1980
+1165,Dukla,2,0,Újpest,1980
+1166,Dinamo Tbilisi,3,0,Liverpool,1980
+1167,Trabzonspor,0,1,Hajduk Split,1980
+1168,Hibernians,1,0,Dundalk,1980
+1169,Porto,0,0,Milan,1980
+1170,Dundalk,2,0,Hibernians,1980
+1171,Liverpool,2,1,Dinamo Tbilisi,1980
+1172,Nottm Forest,2,0,Öster,1980
+1173,Servette,3,1,Beveren,1980
+1174,Valur,0,3,Hamburg,1980
+1175,VB,3,2,Austria Wien,1980
+1176,Differdange,2,1,Omonoia,1980
+1177,Hajduk Split,1,0,Trabzonspor,1980
+1178,Újpest,3,2,Dukla,1980
+1179,HJK,1,8,Ajax,1980
+1180,Berlin,4,1,Ruch,1980
+1181,Start,1,2,Strasbourg,1980
+1182,Partizani,1,0,Celtic,1980
+1183,Levski,0,1,Real Madrid,1980
+1184,ACS Campionii FC Arges,3,0,AEK,1980
+1185,Liverpool,1,0,Real Madrid,1981
+1186,Inter,1,0,Real Madrid,1981
+1187,Bayern,1,1,Liverpool,1981
+1188,Real Madrid,2,0,Inter,1981
+1189,Liverpool,0,0,Bayern,1981
+1190,Real Madrid,2,0,Spartak Moskva,1981
+1191,Crvena zvezda,0,1,Inter,1981
+1192,CSKA Sofia,0,1,Liverpool,1981
+1193,Baník,2,4,Bayern,1981
+1194,Inter,1,1,Crvena zvezda,1981
+1195,Liverpool,5,1,CSKA Sofia,1981
+1196,Bayern,2,0,Baník,1981
+1197,Spartak Moskva,0,0,Real Madrid,1981
+1198,Inter,1,1,Nantes,1981
+1199,Liverpool,4,0,Aberdeen,1981
+1200,Ajax,2,1,Bayern,1981
+1201,Esbjerg,2,0,Spartak Moskva,1981
+1202,Crvena zvezda,2,0,Basel,1981
+1203,Szombierki,0,1,CSKA Sofia,1981
+1204,Berlin,1,1,Baník,1981
+1205,Honvéd,0,2,Real Madrid,1981
+1206,Nantes,1,2,Inter,1981
+1207,Aberdeen,0,1,Liverpool,1981
+1208,Real Madrid,1,0,Honvéd,1981
+1209,Basel,1,0,Crvena zvezda,1981
+1210,Bayern,5,1,Ajax,1981
+1211,Spartak Moskva,3,0,Esbjerg,1981
+1212,CSKA Sofia,4,0,Szombierki,1981
+1213,Baník,0,0,Berlin,1981
+1214,Real Madrid,5,1,Limerick,1981
+1215,Liverpool,10,1,Oulu,1981
+1216,Nottm Forest,0,1,CSKA Sofia,1981
+1217,Nantes,2,0,Linfield,1981
+1218,Ajax,1,0,Dinamo Tirana,1981
+1219,Basel,4,1,Club Brugge,1981
+1220,Esbjerg,3,2,Halmstad,1981
+1221,Bayern,3,0,Olympiacos,1981
+1222,Austria Wien,0,0,Aberdeen,1981
+1223,APOEL,2,1,Berlin,1981
+1224,Spartak Moskva,4,0,Jeunesse Esch,1981
+1225,Honvéd,1,0,Sporting CP,1981
+1226,Baník,1,0,ÍBV,1981
+1227,Crvena zvezda,4,1,Viking,1981
+1228,Szombierki,3,0,Trabzonspor,1981
+1229,Univ Craiova,1,1,Inter,1981
+1230,Sporting CP,0,2,Honvéd,1981
+1231,Inter,2,0,Univ Craiova,1981
+1232,Aberdeen,1,0,Austria Wien,1981
+1233,Club Brugge,0,1,Basel,1981
+1234,Jeunesse Esch,0,5,Spartak Moskva,1981
+1235,ÍBV,1,1,Baník,1981
+1236,Viking,2,3,Crvena zvezda,1981
+1237,Halmstad,0,0,Esbjerg,1981
+1238,Limerick,1,2,Real Madrid,1981
+1239,Olympiacos,2,4,Bayern,1981
+1240,Oulu,1,1,Liverpool,1981
+1241,CSKA Sofia,1,0,Nottm Forest,1981
+1242,Berlin,3,0,APOEL,1981
+1243,Dinamo Tirana,0,2,Ajax,1981
+1244,Trabzonspor,2,1,Szombierki,1981
+1245,Linfield,0,1,Nantes,1981
+1246,Aston Villa,1,0,Bayern,1982
+1247,Anderlecht,0,0,Aston Villa,1982
+1248,Bayern,4,0,CSKA Sofia,1982
+1249,Aston Villa,1,0,Anderlecht,1982
+1250,CSKA Sofia,4,3,Bayern,1982
+1251,Aston Villa,2,0,Dynamo Kyiv,1982
+1252,Bayern,1,1,Univ Craiova,1982
+1253,CSKA Sofia,2,0,Liverpool,1982
+1254,Crvena zvezda,1,2,Anderlecht,1982
+1255,Liverpool,1,0,CSKA Sofia,1982
+1256,Anderlecht,2,1,Crvena zvezda,1982
+1257,Dynamo Kyiv,0,0,Aston Villa,1982
+1258,Univ Craiova,0,2,Bayern,1982
+1259,Aston Villa,0,1,Berlin,1982
+1260,Glentoran,2,1,CSKA Sofia,1982
+1261,Liverpool,3,2,AZ Alkmaar,1982
+1262,Juventus,1,1,Anderlecht,1982
+1263,Bayern,4,1,Benfica,1982
+1264,Dynamo Kyiv,1,1,Austria Wien,1982
+1265,Crvena zvezda,3,0,Baník,1982
+1266,Univ Craiova,4,1,KB,1982
+1267,Benfica,0,0,Bayern,1982
+1268,AZ Alkmaar,2,2,Liverpool,1982
+1269,Berlin,1,2,Aston Villa,1982
+1270,Anderlecht,3,1,Juventus,1982
+1271,KB,1,0,Univ Craiova,1982
+1272,Austria Wien,0,1,Dynamo Kyiv,1982
+1273,CSKA Sofia,2,0,Glentoran,1982
+1274,Baník,3,1,Crvena zvezda,1982
+1275,Glentoran,4,0,Progrès,1982
+1276,Liverpool,7,0,Oulu,1982
+1277,Juventus,2,0,Celtic,1982
+1278,AZ Alkmaar,1,0,Start,1982
+1279,Real Sociedad,0,0,CSKA Sofia,1982
+1280,Bayern,5,0,Öster,1982
+1281,Zürich,3,1,Berlin,1982
+1282,Anderlecht,2,1,Widzew,1982
+1283,Olympiacos,2,0,Univ Craiova,1982
+1284,Omonoia,0,1,Benfica,1982
+1285,Valur,0,2,Aston Villa,1982
+1286,Baník,3,0,Ferencváros,1982
+1287,Athlone,2,2,KB,1982
+1288,Partizani,1,0,Austria Wien,1982
+1289,Crvena zvezda,8,1,Hibernians,1982
+1290,Trabzonspor,1,1,Dynamo Kyiv,1982
+1291,Benfica,3,0,Omonoia,1982
+1292,Aston Villa,5,0,Valur,1982
+1293,Celtic,1,0,Juventus,1982
+1294,Austria Wien,3,1,Partizani,1982
+1295,Berlin,2,0,Zürich,1982
+1296,Öster,0,1,Bayern,1982
+1297,Progrès,1,1,Glentoran,1982
+1298,Start,1,3,AZ Alkmaar,1982
+1299,KB,1,1,Athlone,1982
+1300,Ferencváros,3,2,Baník,1982
+1301,Oulu,0,1,Liverpool,1982
+1302,CSKA Sofia,1,0,Real Sociedad,1982
+1303,Dynamo Kyiv,1,0,Trabzonspor,1982
+1304,Widzew,1,4,Anderlecht,1982
+1305,Hibernians,1,2,Crvena zvezda,1982
+1306,Univ Craiova,3,0,Olympiacos,1982
+1307,Hamburg,1,0,Juventus,1983
+1308,Hamburg,2,1,Real Sociedad,1983
+1309,Widzew,2,2,Juventus,1983
+1310,Real Sociedad,1,1,Hamburg,1983
+1311,Juventus,2,0,Widzew,1983
+1312,Juventus,3,1,Aston Villa,1983
+1313,Liverpool,3,2,Widzew,1983
+1314,Real Sociedad,2,0,Sporting CP,1983
+1315,Hamburg,1,2,Dynamo Kyiv,1983
+1316,Sporting CP,1,0,Real Sociedad,1983
+1317,Aston Villa,1,2,Juventus,1983
+1318,Widzew,2,0,Liverpool,1983
+1319,Dynamo Kyiv,0,3,Hamburg,1983
+1320,Tirana,-,-,Dynamo Kyiv,1983
+1321,Sporting CP,0,0,CSKA Sofia,1983
+1322,Celtic,2,1,Real Sociedad,1983
+1323,Aston Villa,4,2,Dinamo Bucureşti,1983
+1324,Juventus,2,0,Standard Liège,1983
+1325,Olympiacos,0,4,Hamburg,1983
+1326,Widzew,5,3,Rapid Wien,1983
+1327,Liverpool,5,0,HJK,1983
+1328,Dynamo Kyiv,-,-,Tirana,1983
+1329,Hamburg,1,0,Olympiacos,1983
+1330,Real Sociedad,2,0,Celtic,1983
+1331,Standard Liège,1,1,Juventus,1983
+1332,Rapid Wien,2,1,Widzew,1983
+1333,Dinamo Bucureşti,0,2,Aston Villa,1983
+1334,CSKA Sofia,2,2,Sporting CP,1983
+1335,HJK,1,0,Liverpool,1983
+1336,Sporting CP,3,0,Dinamo Zagreb,1983
+1337,Linfield,2,1,Tirana,1983
+1338,Juventus,3,3,Hvidovre,1983
+1339,Ajax,1,2,Celtic,1983
+1340,Real Sociedad,3,2,Víkingur Reykjavík,1983
+1341,Dukla,2,1,Dinamo Bucureşti,1983
+1342,Hamburg,2,0,Berlin,1983
+1343,Öster,1,0,Olympiacos,1983
+1344,Rapid Wien,8,0,Avenir,1983
+1345,HJK,3,0,Omonoia,1983
+1346,Dynamo Kyiv,3,0,Grasshoppers,1983
+1347,CSKA Sofia,2,0,Monaco,1983
+1348,Widzew,3,1,Hibernians,1983
+1349,Győr,3,0,Standard Liège,1983
+1350,Beşiktaş,0,0,Aston Villa,1983
+1351,Liverpool,1,0,Dundalk,1983
+1352,Monaco,0,0,CSKA Sofia,1983
+1353,Celtic,2,2,Ajax,1983
+1354,Olympiacos,2,0,Öster,1983
+1355,Grasshoppers,0,1,Dynamo Kyiv,1983
+1356,Berlin,1,1,Hamburg,1983
+1357,Standard Liège,5,0,Győr,1983
+1358,Omonoia,2,0,HJK,1983
+1359,Víkingur Reykjavík,0,1,Real Sociedad,1983
+1360,Avenir,0,5,Rapid Wien,1983
+1361,Dinamo Zagreb,1,0,Sporting CP,1983
+1362,Hvidovre,1,4,Juventus,1983
+1363,Dinamo Bucureşti,2,0,Dukla,1983
+1364,Hibernians,1,4,Widzew,1983
+1365,Tirana,1,0,Linfield,1983
+1366,Aston Villa,3,1,Beşiktaş,1983
+1367,Dundalk,1,4,Liverpool,1983
+1368,Roma,1,1,Liverpool,1984
+1369,Dinamo Bucureşti,1,2,Liverpool,1984
+1370,Roma,3,0,Dundee United,1984
+1371,Dundee United,2,0,Roma,1984
+1372,Liverpool,1,0,Dinamo Bucureşti,1984
+1373,Benfica,1,4,Liverpool,1984
+1374,Dundee United,1,0,Rapid Wien,1984
+1375,Berlin,2,1,Roma,1984
+1376,Dinamo Bucureşti,1,0,Dinamo Minsk,1984
+1377,Liverpool,1,0,Benfica,1984
+1378,Rapid Wien,2,1,Dundee United,1984
+1379,Dinamo Minsk,1,1,Dinamo Bucureşti,1984
+1380,Roma,3,0,Berlin,1984
+1381,Benfica,3,0,Olympiacos,1984
+1382,Dundee United,4,0,Standard Liège,1984
+1383,Hamburg,3,2,Dinamo Bucureşti,1984
+1384,Athletic Club,0,1,Liverpool,1984
+1385,Rapid Wien,1,0,Bohemians Praha 1905,1984
+1386,Partizan,1,0,Berlin,1984
+1387,Dinamo Minsk,3,1,Győr,1984
+1388,Roma,1,0,CSKA Sofia,1984
+1389,Liverpool,0,0,Athletic Club,1984
+1390,Berlin,2,0,Partizan,1984
+1391,Standard Liège,0,0,Dundee United,1984
+1392,Olympiacos,1,0,Benfica,1984
+1393,Győr,3,6,Dinamo Minsk,1984
+1394,CSKA Sofia,0,1,Roma,1984
+1395,Bohemians Praha 1905,2,1,Rapid Wien,1984
+1396,Dinamo Bucureşti,3,0,Hamburg,1984
+1397,Athletic Club,4,0,Lech,1984
+1398,Víkingur Reykjavík,0,2,Győr,1984
+1399,Grasshoppers,2,2,Dinamo Minsk,1984
+1400,Dundee United,3,0,Hamrun,1984
+1401,Dinamo Bucureşti,3,0,Lahti,1984
+1402,Viking,0,0,Partizan,1984
+1403,Jeunesse Esch,0,2,Berlin,1984
+1404,Linfield,2,3,Benfica,1984
+1405,Liverpool,5,0,OB,1984
+1406,Omonoia,4,1,CSKA Sofia,1984
+1407,Nantes,3,1,Rapid Wien,1984
+1408,Olympiacos,2,0,Ajax,1984
+1409,Standard Liège,8,2,Athlone,1984
+1410,Göteborg,2,1,Roma,1984
+1411,Bohemians Praha 1905,4,0,Fenerbahçe,1984
+1412,Lech,2,0,Athletic Club,1984
+1413,Győr,2,1,Víkingur Reykjavík,1984
+1414,Dinamo Minsk,1,0,Grasshoppers,1984
+1415,Hamrun,0,3,Dundee United,1984
+1416,Lahti,0,1,Dinamo Bucureşti,1984
+1417,Partizan,5,1,Viking,1984
+1418,Berlin,4,1,Jeunesse Esch,1984
+1419,Benfica,3,0,Linfield,1984
+1420,OB,0,1,Liverpool,1984
+1421,CSKA Sofia,3,0,Omonoia,1984
+1422,Rapid Wien,3,0,Nantes,1984
+1423,Ajax,0,0,Olympiacos,1984
+1424,Athlone,2,3,Standard Liège,1984
+1425,Roma,3,0,Göteborg,1984
+1426,Fenerbahçe,0,1,Bohemians Praha 1905,1984
+1427,Roma,(2),(4),Liverpool,1984
+1428,Juventus,1,0,Liverpool,1985
+1429,Panathinaikos,0,1,Liverpool,1985
+1430,Bordeaux,2,0,Juventus,1985
+1431,Liverpool,4,0,Panathinaikos,1985
+1432,Juventus,3,0,Bordeaux,1985
+1433,Liverpool,4,1,Austria Wien,1985
+1434,Panathinaikos,2,2,Göteborg,1985
+1435,Dnipro,1,1,Bordeaux,1985
+1436,Sparta Praha,1,0,Juventus,1985
+1437,Juventus,3,0,Sparta Praha,1985
+1438,Bordeaux,1,1,Dnipro,1985
+1439,Austria Wien,1,1,Liverpool,1985
+1440,Göteborg,0,1,Panathinaikos,1985
+1441,Benfica,1,0,Liverpool,1985
+1442,Linfield,3,3,Panathinaikos,1985
+1443,Grasshoppers,2,4,Juventus,1985
+1444,Beveren,2,1,Göteborg,1985
+1445,Austria Wien,2,1,Berlin,1985
+1446,Lyngby,1,2,Sparta Praha,1985
+1447,Dinamo Bucureşti,1,1,Bordeaux,1985
+1448,Dnipro,2,0,Levski,1985
+1449,Juventus,2,0,Grasshoppers,1985
+1450,Bordeaux,1,0,Dinamo Bucureşti,1985
+1451,Liverpool,3,1,Benfica,1985
+1452,Göteborg,1,0,Beveren,1985
+1453,Panathinaikos,2,1,Linfield,1985
+1454,Levski,3,1,Dnipro,1985
+1455,Berlin,3,3,Austria Wien,1985
+1456,Sparta Praha,0,0,Lyngby,1985
+1457,Benfica,2,0,Crvena zvezda,1985
+1458,Athletic Club,0,0,Bordeaux,1985
+1459,Juventus,2,1,Tampere United,1985
+1460,Liverpool,4,0,Lech,1985
+1461,Beveren,5,0,ÍA,1985
+1462,Panathinaikos,2,1,Feyenoord,1985
+1463,Stuttgart,2,2,Levski,1985
+1464,Omonoia,2,1,Dinamo Bucureşti,1985
+1465,Lyngby,3,0,Elbasan,1985
+1466,Göteborg,9,0,Avenir,1985
+1467,Dnipro,3,0,Trabzonspor,1985
+1468,Sparta Praha,2,0,Vålerenga,1985
+1469,Berlin,2,1,Aberdeen,1985
+1470,Shamrock Rovers,1,1,Linfield,1985
+1471,Valletta,0,4,Austria Wien,1985
+1472,Honvéd,2,1,Grasshoppers,1985
+1473,Linfield,0,0,Shamrock Rovers,1985
+1474,Bordeaux,3,2,Athletic Club,1985
+1475,Aberdeen,2,1,Berlin,1985
+1476,ÍA,2,2,Beveren,1985
+1477,Grasshoppers,3,1,Honvéd,1985
+1478,Feyenoord,0,0,Panathinaikos,1985
+1479,Avenir,0,8,Göteborg,1985
+1480,Austria Wien,4,0,Valletta,1985
+1481,Tampere United,0,4,Juventus,1985
+1482,Levski,1,1,Stuttgart,1985
+1483,Crvena zvezda,3,2,Benfica,1985
+1484,Vålerenga,3,3,Sparta Praha,1985
+1485,Elbasan,0,3,Lyngby,1985
+1486,Dinamo Bucureşti,4,1,Omonoia,1985
+1487,Lech,0,1,Liverpool,1985
+1488,Trabzonspor,1,0,Dnipro,1985
+1489,Dnipro,(3),(5),Bordeaux,1985
+1490,Berlin,(5),(4),Aberdeen,1985
+1491,FCSB,0,0,Barcelona,1986
+1492,FCSB,3,0,Anderlecht,1986
+1493,Barcelona,3,0,Göteborg,1986
+1494,Anderlecht,1,0,FCSB,1986
+1495,Göteborg,3,0,Barcelona,1986
+1496,Juventus,1,1,Barcelona,1986
+1497,Anderlecht,2,0,Bayern,1986
+1498,Göteborg,0,0,Aberdeen,1986
+1499,Lahti,0,1,FCSB,1986
+1500,Barcelona,1,0,Juventus,1986
+1501,Aberdeen,2,2,Göteborg,1986
+1502,Bayern,2,1,Anderlecht,1986
+1503,FCSB,0,0,Lahti,1986
+1504,Porto,3,1,Barcelona,1986
+1505,Austria Wien,3,3,Bayern,1986
+1506,Omonoia,1,3,Anderlecht,1986
+1507,Aberdeen,1,0,Servette,1986
+1508,Lahti,3,1,Zenit,1986
+1509,Juventus,2,0,Verona,1986
+1510,Fenerbahçe,2,1,Göteborg,1986
+1511,FCSB,4,1,Honvéd,1986
+1512,Barcelona,2,0,Porto,1986
+1513,Verona,0,0,Juventus,1986
+1514,Servette,0,0,Aberdeen,1986
+1515,Anderlecht,1,0,Omonoia,1986
+1516,Bayern,4,2,Austria Wien,1986
+1517,Göteborg,4,0,Fenerbahçe,1986
+1518,Honvéd,1,0,FCSB,1986
+1519,Zenit,2,1,Lahti,1986
+1520,Barcelona,0,1,Sparta Praha,1986
+1521,Shamrock Rovers,1,3,Honvéd,1986
+1522,Aberdeen,4,1,ÍA,1986
+1523,Ajax,0,0,Porto,1986
+1524,Servette,2,1,Linfield,1986
+1525,Bayern,4,1,Górnik Zabrze,1986
+1526,Omonoia,5,0,Rabat,1986
+1527,Austria Wien,2,1,Berlin,1986
+1528,Sarajevo,1,2,Lahti,1986
+1529,PAOK,1,2,Verona,1986
+1530,Vålerenga,0,2,Zenit,1986
+1531,Juventus,4,1,Jeunesse Esch,1986
+1532,Fenerbahçe,0,0,Bordeaux,1986
+1533,Botev Plovdiv,1,2,Göteborg,1986
+1534,FCSB,4,1,VB,1986
+1535,Porto,2,0,Ajax,1986
+1536,Verona,3,1,PAOK,1986
+1537,Linfield,2,2,Servette,1986
+1538,Bordeaux,2,3,Fenerbahçe,1986
+1539,ÍA,1,3,Aberdeen,1986
+1540,Sparta Praha,1,2,Barcelona,1986
+1541,Berlin,0,2,Austria Wien,1986
+1542,Jeunesse Esch,0,5,Juventus,1986
+1543,VB,1,1,FCSB,1986
+1544,Göteborg,3,2,Botev Plovdiv,1986
+1545,Honvéd,2,0,Shamrock Rovers,1986
+1546,Lahti,2,1,Sarajevo,1986
+1547,Zenit,2,0,Vålerenga,1986
+1548,Górnik Zabrze,1,2,Bayern,1986
+1549,Rabat,0,5,Omonoia,1986
+1550,FCSB,(2),(0),Barcelona,1986
+1551,Barcelona,(5),(4),Göteborg,1986
+1552,Bayern,1,2,Porto,1987
+1553,Real Madrid,1,0,Bayern,1987
+1554,Dynamo Kyiv,1,2,Porto,1987
+1555,Porto,2,1,Dynamo Kyiv,1987
+1556,Bayern,4,1,Real Madrid,1987
+1557,Real Madrid,2,0,Crvena zvezda,1987
+1558,Anderlecht,2,2,Bayern,1987
+1559,Brøndby,1,1,Porto,1987
+1560,Dynamo Kyiv,2,0,Beşiktaş,1987
+1561,Porto,1,0,Brøndby,1987
+1562,Bayern,5,0,Anderlecht,1987
+1563,Crvena zvezda,4,2,Real Madrid,1987
+1564,Beşiktaş,0,5,Dynamo Kyiv,1987
+1565,APOEL,-,-,Beşiktaş,1987
+1566,Porto,3,0,Karviná,1987
+1567,Juventus,1,0,Real Madrid,1987
+1568,Austria Wien,1,1,Bayern,1987
+1569,Dynamo Kyiv,3,1,Celtic,1987
+1570,Crvena zvezda,4,1,Rosenborg,1987
+1571,Berlin,1,1,Brøndby,1987
+1572,FCSB,1,0,Anderlecht,1987
+1573,Beşiktaş,-,-,APOEL,1987
+1574,Real Madrid,1,0,Juventus,1987
+1575,Celtic,1,1,Dynamo Kyiv,1987
+1576,Anderlecht,3,0,FCSB,1987
+1577,Bayern,2,0,Austria Wien,1987
+1578,Rosenborg,0,3,Crvena zvezda,1987
+1579,Brøndby,2,1,Berlin,1987
+1580,Karviná,1,0,Porto,1987
+1581,Real Madrid,5,0,Young Boys,1987
+1582,Celtic,2,0,Shamrock Rovers,1987
+1583,Linfield,1,1,Rosenborg,1987
+1584,Bayern,0,0,PSV,1987
+1585,Panathinaikos,2,1,Crvena zvezda,1987
+1586,Valur,0,4,Juventus,1987
+1587,Honvéd,2,2,Brøndby,1987
+1588,Austria Wien,3,0,Avenir,1987
+1589,HJK,3,2,APOEL,1987
+1590,Dynamo Kyiv,2,0,Beroe,1987
+1591,Górnik Zabrze,1,1,Anderlecht,1987
+1592,Dinamo Tirana,0,1,Beşiktaş,1987
+1593,Berlin,4,1,Örgryte,1987
+1594,Rabat,0,1,Porto,1987
+1595,Karviná,1,0,Paris,1987
+1596,Paris,2,2,Karviná,1987
+1597,Juventus,7,0,Valur,1987
+1598,Anderlecht,2,0,Górnik Zabrze,1987
+1599,Young Boys,1,0,Real Madrid,1987
+1600,APOEL,1,0,HJK,1987
+1601,Avenir,0,3,Austria Wien,1987
+1602,PSV,0,2,Bayern,1987
+1603,Örgryte,2,3,Berlin,1987
+1604,Rosenborg,1,0,Linfield,1987
+1605,Brøndby,4,1,Honvéd,1987
+1606,Crvena zvezda,3,0,Panathinaikos,1987
+1607,Shamrock Rovers,0,1,Celtic,1987
+1608,Porto,9,0,Rabat,1987
+1609,Beroe,1,1,Dynamo Kyiv,1987
+1610,Beşiktaş,2,0,Dinamo Tirana,1987
+1611,Juventus,(1),(3),Real Madrid,1987
+1612,PSV,0,0,Benfica,1988
+1613,Benfica,2,0,FCSB,1988
+1614,PSV,0,0,Real Madrid,1988
+1615,Real Madrid,1,1,PSV,1988
+1616,FCSB,0,0,Benfica,1988
+1617,Real Madrid,2,0,Bayern,1988
+1618,Rangers,2,1,FCSB,1988
+1619,Anderlecht,1,0,Benfica,1988
+1620,PSV,0,0,Bordeaux,1988
+1621,Benfica,2,0,Anderlecht,1988
+1622,Bordeaux,1,1,PSV,1988
+1623,Bayern,3,2,Real Madrid,1988
+1624,FCSB,2,0,Rangers,1988
+1625,Porto,1,2,Real Madrid,1988
+1626,Benfica,1,0,AGF,1988
+1627,Anderlecht,1,0,Sparta Praha,1988
+1628,Bayern,2,0,Xamax,1988
+1629,PSV,2,0,Rapid Wien,1988
+1630,Omonoia,0,2,FCSB,1988
+1631,Bordeaux,1,0,Lillestrøm,1988
+1632,Górnik Zabrze,1,1,Rangers,1988
+1633,Real Madrid,2,1,Porto,1988
+1634,Rangers,3,1,Górnik Zabrze,1988
+1635,Xamax,2,1,Bayern,1988
+1636,Rapid Wien,1,2,PSV,1988
+1637,AGF,0,0,Benfica,1988
+1638,Lillestrøm,0,0,Bordeaux,1988
+1639,Sparta Praha,1,2,Anderlecht,1988
+1640,FCSB,3,1,Omonoia,1988
+1641,Linfield,2,4,Lillestrøm,1988
+1642,Napoli,1,1,Real Madrid,1988
+1643,Rangers,2,0,Dynamo Kyiv,1988
+1644,Anderlecht,1,1,Malmö,1988
+1645,MTK,2,0,FCSB,1988
+1646,Jeunesse Esch,1,0,AGF,1988
+1647,Omonoia,0,0,Shamrock Rovers,1988
+1648,Lahti,2,1,Xamax,1988
+1649,CSKA Sofia,0,1,Bayern,1988
+1650,Górnik Zabrze,2,1,Olympiacos,1988
+1651,Sparta Praha,8,0,Fram,1988
+1652,Berlin,0,2,Bordeaux,1988
+1653,Vardar,0,3,Porto,1988
+1654,Partizani,0,3,Benfica,1988
+1655,Hamrun,0,1,Rapid Wien,1988
+1656,Galatasaray,2,0,PSV,1988
+1657,Porto,3,0,Vardar,1988
+1658,Benfica,4,0,Partizani,1988
+1659,Real Madrid,2,0,Napoli,1988
+1660,Shamrock Rovers,0,1,Omonoia,1988
+1661,Bordeaux,2,0,Berlin,1988
+1662,Xamax,5,0,Lahti,1988
+1663,Bayern,4,0,CSKA Sofia,1988
+1664,Olympiacos,1,1,Górnik Zabrze,1988
+1665,Fram,0,2,Sparta Praha,1988
+1666,PSV,3,0,Galatasaray,1988
+1667,Rapid Wien,6,0,Hamrun,1988
+1668,AGF,4,1,Jeunesse Esch,1988
+1669,Malmö,0,1,Anderlecht,1988
+1670,Dynamo Kyiv,1,0,Rangers,1988
+1671,Lillestrøm,1,1,Linfield,1988
+1672,FCSB,4,0,MTK,1988
+1673,PSV,(6),(5),Benfica,1988
+1674,FCSB,0,4,Milan,1989
+1675,Milan,5,0,Real Madrid,1989
+1676,Galatasaray,1,1,FCSB,1989
+1677,Real Madrid,1,1,Milan,1989
+1678,FCSB,4,0,Galatasaray,1989
+1679,Real Madrid,2,1,PSV,1989
+1680,Milan,1,0,Bremen,1989
+1681,Galatasaray,1,1,Monaco,1989
+1682,FCSB,5,1,Göteborg,1989
+1683,Monaco,0,1,Galatasaray,1989
+1684,Bremen,0,0,Milan,1989
+1685,PSV,1,1,Real Madrid,1989
+1686,Göteborg,1,0,FCSB,1989
+1687,Crvena zvezda,-,-,Milan,1989
+1688,Real Madrid,3,2,Górnik Zabrze,1989
+1689,Crvena zvezda,1,1,Milan,1989
+1690,Porto,2,0,PSV,1989
+1691,Monaco,6,1,Club Brugge,1989
+1692,Göteborg,1,0,Tirana,1989
+1693,Spartak Moskva,1,2,FCSB,1989
+1694,Galatasaray,5,0,Xamax,1989
+1695,Bremen,0,0,Celtic,1989
+1696,Celtic,0,1,Bremen,1989
+1697,Milan,1,1,Crvena zvezda,1989
+1698,Club Brugge,1,0,Monaco,1989
+1699,Xamax,3,0,Galatasaray,1989
+1700,PSV,5,0,Porto,1989
+1701,Górnik Zabrze,0,1,Real Madrid,1989
+1702,Tirana,0,3,Göteborg,1989
+1703,FCSB,3,0,Spartak Moskva,1989
+1704,Bremen,5,0,Berlin,1989
+1705,Milan,5,2,Levski,1989
+1706,Celtic,4,0,Honvéd,1989
+1707,Glentoran,1,1,Spartak Moskva,1989
+1708,Xamax,2,1,Larissa,1989
+1709,Jeunesse Esch,1,4,Górnik Zabrze,1989
+1710,Brøndby,2,1,Club Brugge,1989
+1711,Göteborg,5,1,Pezoporikos,1989
+1712,HJK,2,0,Porto,1989
+1713,Moss,0,1,Real Madrid,1989
+1714,Crvena zvezda,3,0,Dundalk,1989
+1715,Tirana,2,0,Hamrun,1989
+1716,Galatasaray,2,0,Rapid Wien,1989
+1717,FCSB,2,2,Sparta Praha,1989
+1718,Monaco,2,0,Valur,1989
+1719,Porto,3,0,HJK,1989
+1720,Real Madrid,3,0,Moss,1989
+1721,Dundalk,0,5,Crvena zvezda,1989
+1722,Club Brugge,1,0,Brøndby,1989
+1723,Levski,0,2,Milan,1989
+1724,Rapid Wien,2,1,Galatasaray,1989
+1725,Honvéd,1,0,Celtic,1989
+1726,Spartak Moskva,2,0,Glentoran,1989
+1727,Górnik Zabrze,3,0,Jeunesse Esch,1989
+1728,Sparta Praha,1,5,FCSB,1989
+1729,Hamrun,2,1,Tirana,1989
+1730,Pezoporikos,1,2,Göteborg,1989
+1731,Larissa,2,1,Xamax,1989
+1732,Valur,1,0,Monaco,1989
+1733,Berlin,3,0,Bremen,1989
+1734,Crvena zvezda,(2),(4),Milan,1989
+1735,Xamax,(3),(0),Larissa,1989
+1736,Milan,1,0,Benfica,1990
+1737,Benfica,1,0,Marseille,1990
+1738,Bayern,2,1,Milan,1990
+1739,Milan,1,0,Bayern,1990
+1740,Marseille,2,1,Benfica,1990
+1741,Milan,2,0,Mechelen,1990
+1742,Marseille,3,1,CSKA Sofia,1990
+1743,PSV,0,1,Bayern,1990
+1744,Dnipro,0,3,Benfica,1990
+1745,Benfica,1,0,Dnipro,1990
+1746,Bayern,2,1,PSV,1990
+1747,Mechelen,0,0,Milan,1990
+1748,CSKA Sofia,0,1,Marseille,1990
+1749,Real Madrid,1,0,Milan,1990
+1750,AEK,1,1,Marseille,1990
+1751,Mechelen,4,1,Malmö,1990
+1752,PSV,5,1,FCSB,1990
+1753,Wacker,2,2,Dnipro,1990
+1754,CSKA Sofia,3,0,Sparta Praha,1990
+1755,Benfica,7,0,Honvéd,1990
+1756,Tirana,0,3,Bayern,1990
+1757,Marseille,2,0,AEK,1990
+1758,Milan,2,0,Real Madrid,1990
+1759,Bayern,3,1,Tirana,1990
+1760,Sparta Praha,2,2,CSKA Sofia,1990
+1761,Malmö,0,0,Mechelen,1990
+1762,Dnipro,2,0,Wacker,1990
+1763,Honvéd,0,2,Benfica,1990
+1764,FCSB,1,0,PSV,1990
+1765,Benfica,4,0,Derry,1990
+1766,Real Madrid,6,0,Spora,1990
+1767,Inter,1,1,Malmö,1990
+1768,Mechelen,5,0,Rosenborg,1990
+1769,AEK,5,3,Dresden,1990
+1770,Bayern,0,0,Rangers,1990
+1771,Luzern,0,2,PSV,1990
+1772,Fram,0,1,FCSB,1990
+1773,Brøndby,1,1,Marseille,1990
+1774,Omonoia,2,3,Wacker,1990
+1775,Dnipro,1,0,Linfield,1990
+1776,HJK,0,1,Milan,1990
+1777,CSKA Sofia,5,1,Ruch,1990
+1778,Vojvodina,2,1,Honvéd,1990
+1779,Tirana,5,0,Sliema,1990
+1780,Fenerbahçe,1,2,Sparta Praha,1990
+1781,Spora,0,3,Real Madrid,1990
+1782,Linfield,1,2,Dnipro,1990
+1783,Marseille,3,0,Brøndby,1990
+1784,Milan,4,0,HJK,1990
+1785,Dresden,1,0,AEK,1990
+1786,Malmö,1,0,Inter,1990
+1787,Wacker,6,0,Omonoia,1990
+1788,Rangers,1,3,Bayern,1990
+1789,PSV,3,0,Luzern,1990
+1790,Rosenborg,0,0,Mechelen,1990
+1791,Honvéd,1,0,Vojvodina,1990
+1792,Derry,1,2,Benfica,1990
+1793,Sparta Praha,3,1,Fenerbahçe,1990
+1794,Ruch,1,1,CSKA Sofia,1990
+1795,Sliema,1,0,Tirana,1990
+1796,FCSB,4,0,Fram,1990
+1797,Crvena zvezda,0,0,Marseille,1991
+1798,Marseille,2,1,Spartak Moskva,1991
+1799,Crvena zvezda,2,2,Bayern,1991
+1800,Bayern,1,2,Crvena zvezda,1991
+1801,Spartak Moskva,1,3,Marseille,1991
+1802,Porto,0,2,Bayern,1991
+1803,Real Madrid,1,3,Spartak Moskva,1991
+1804,Marseille,1,0,Milan,1991
+1805,Dresden,0,3,Crvena zvezda,1991
+1806,Milan,1,1,Marseille,1991
+1807,Bayern,1,1,Porto,1991
+1808,Spartak Moskva,0,0,Real Madrid,1991
+1809,Crvena zvezda,3,0,Dresden,1991
+1810,Porto,4,0,Dinamo Bucureşti,1991
+1811,Marseille,6,1,Lech,1991
+1812,Rangers,1,1,Crvena zvezda,1991
+1813,Club Brugge,0,1,Milan,1991
+1814,Wacker,2,2,Real Madrid,1991
+1815,Malmö,1,1,Dresden,1991
+1816,Spartak Moskva,0,0,Napoli,1991
+1817,CSKA Sofia,0,3,Bayern,1991
+1818,Lech,3,2,Marseille,1991
+1819,Real Madrid,9,1,Wacker,1991
+1820,Milan,0,0,Club Brugge,1991
+1821,Napoli,0,0,Spartak Moskva,1991
+1822,Dresden,1,1,Malmö,1991
+1823,Crvena zvezda,3,0,Rangers,1991
+1824,Dinamo Bucureşti,0,0,Porto,1991
+1825,Bayern,4,0,CSKA Sofia,1991
+1826,Portadown,1,8,Porto,1991
+1827,St Patrick's,1,1,Dinamo Bucureşti,1991
+1828,Dresden,3,0,US Luxembourg,1991
+1829,Club Brugge,2,0,Lillestrøm,1991
+1830,Grasshoppers,1,4,Crvena zvezda,1991
+1831,Panathinaikos,1,2,Lech,1991
+1832,Beşiktaş,2,2,Malmö,1991
+1833,Újpest,0,2,Napoli,1991
+1834,Lahti,1,2,Wacker,1991
+1835,Spartak Moskva,2,0,Sparta Praha,1991
+1836,CSKA Sofia,3,0,KA,1991
+1837,Dinamo Tirana,0,0,Marseille,1991
+1838,Real Madrid,6,0,OB,1991
+1839,Rangers,6,0,Valletta,1991
+1840,Bayern,4,0,APOEL,1991
+1841,Napoli,3,0,Újpest,1991
+1842,Marseille,5,1,Dinamo Tirana,1991
+1843,Lech,3,0,Panathinaikos,1991
+1844,KA,1,0,CSKA Sofia,1991
+1845,Wacker,5,0,Lahti,1991
+1846,APOEL,2,3,Bayern,1991
+1847,Porto,5,0,Portadown,1991
+1848,US Luxembourg,1,3,Dresden,1991
+1849,Malmö,3,2,Beşiktaş,1991
+1850,Crvena zvezda,1,1,Grasshoppers,1991
+1851,Lillestrøm,1,1,Club Brugge,1991
+1852,Sparta Praha,0,2,Spartak Moskva,1991
+1853,Valletta,0,4,Rangers,1991
+1854,Dinamo Bucureşti,4,0,St Patrick's,1991
+1855,OB,1,4,Real Madrid,1991
+1856,Crvena zvezda,(5),(3),Marseille,1991
+1857,Malmö,(4),(5),Dresden,1991
+1858,Spartak Moskva,(5),(3),Napoli,1991
+1859,Sampdoria,0,1,Barcelona,1992
+1860,Sampdoria,1,1,Panathinaikos,1992
+1861,Anderlecht,3,2,Crvena zvezda,1992
+1862,Barcelona,2,1,Benfica,1992
+1863,Dynamo Kyiv,1,0,Sparta Praha,1992
+1864,Benfica,5,0,Dynamo Kyiv,1992
+1865,Crvena zvezda,1,3,Sampdoria,1992
+1866,Panathinaikos,0,0,Anderlecht,1992
+1867,Sparta Praha,1,0,Barcelona,1992
+1868,Barcelona,3,0,Dynamo Kyiv,1992
+1869,Sampdoria,2,0,Anderlecht,1992
+1870,Crvena zvezda,1,0,Panathinaikos,1992
+1871,Sparta Praha,1,1,Benfica,1992
+1872,Benfica,1,1,Sparta Praha,1992
+1873,Anderlecht,3,2,Sampdoria,1992
+1874,Dynamo Kyiv,0,2,Barcelona,1992
+1875,Panathinaikos,0,2,Crvena zvezda,1992
+1876,Crvena zvezda,3,2,Anderlecht,1992
+1877,Benfica,0,0,Barcelona,1992
+1878,Panathinaikos,0,0,Sampdoria,1992
+1879,Sparta Praha,2,1,Dynamo Kyiv,1992
+1880,Barcelona,3,2,Sparta Praha,1992
+1881,Sampdoria,2,0,Crvena zvezda,1992
+1882,Anderlecht,0,0,Panathinaikos,1992
+1883,Dynamo Kyiv,1,0,Benfica,1992
+1884,Arsenal,1,3,Benfica,1992
+1885,Sampdoria,3,1,Honvéd,1992
+1886,Kaiserslautern,3,1,Barcelona,1992
+1887,Anderlecht,2,0,PSV,1992
+1888,Brøndby,0,1,Dynamo Kyiv,1992
+1889,Göteborg,2,2,Panathinaikos,1992
+1890,Apollon,0,2,Crvena zvezda,1992
+1891,Sparta Praha,2,1,Marseille,1992
+1892,Benfica,1,1,Arsenal,1992
+1893,Barcelona,2,0,Kaiserslautern,1992
+1894,Marseille,3,2,Sparta Praha,1992
+1895,Honvéd,2,1,Sampdoria,1992
+1896,PSV,0,0,Anderlecht,1992
+1897,Panathinaikos,2,0,Göteborg,1992
+1898,Crvena zvezda,3,1,Apollon,1992
+1899,Dynamo Kyiv,1,1,Brøndby,1992
+1900,Benfica,4,0,Hamrun,1992
+1901,Portadown,0,4,Crvena zvezda,1992
+1902,Rangers,2,1,Sparta Praha,1992
+1903,Dundalk,0,2,Honvéd,1992
+1904,Hansa,1,0,Barcelona,1992
+1905,Grasshoppers,0,3,Anderlecht,1992
+1906,PSV,2,1,Beşiktaş,1992
+1907,Austria Wien,1,0,Arsenal,1992
+1908,Panathinaikos,0,0,Fram,1992
+1909,Rosenborg,1,2,Sampdoria,1992
+1910,Marseille,5,0,US Luxembourg,1992
+1911,Dynamo Kyiv,3,0,HJK,1992
+1912,Etar,1,1,Kaiserslautern,1992
+1913,Flamurtari,1,1,Göteborg,1992
+1914,Apollon,3,0,Univ Craiova,1992
+1915,Zagłębie,2,1,Brøndby,1992
+1916,Arsenal,6,1,Austria Wien,1992
+1917,Barcelona,3,0,Hansa,1992
+1918,Sampdoria,5,0,Rosenborg,1992
+1919,US Luxembourg,0,5,Marseille,1992
+1920,Anderlecht,1,1,Grasshoppers,1992
+1921,Fram,2,2,Panathinaikos,1992
+1922,HJK,0,1,Dynamo Kyiv,1992
+1923,Göteborg,0,0,Flamurtari,1992
+1924,Honvéd,1,1,Dundalk,1992
+1925,Brøndby,3,0,Zagłębie,1992
+1926,Beşiktaş,1,1,PSV,1992
+1927,Sparta Praha,1,0,Rangers,1992
+1928,Hamrun,0,6,Benfica,1992
+1929,Univ Craiova,2,0,Apollon,1992
+1930,Kaiserslautern,2,0,Etar,1992
+1931,Crvena zvezda,4,0,Portadown,1992
+1932,Marseille,1,0,Milan,1993
+1933,Porto,2,0,Göteborg,1993
+1934,Rangers,0,0,CSKA Moskva,1993
+1935,Milan,2,0,PSV,1993
+1936,Club Brugge,0,1,Marseille,1993
+1937,PSV,0,1,Porto,1993
+1938,Göteborg,0,1,Milan,1993
+1939,CSKA Moskva,1,2,Club Brugge,1993
+1940,Marseille,1,1,Rangers,1993
+1941,Rangers,2,1,Club Brugge,1993
+1942,Milan,1,0,Porto,1993
+1943,Göteborg,3,0,PSV,1993
+1944,Marseille,6,0,CSKA Moskva,1993
+1945,Porto,0,1,Milan,1993
+1946,PSV,1,3,Göteborg,1993
+1947,CSKA Moskva,1,1,Marseille,1993
+1948,Club Brugge,1,1,Rangers,1993
+1949,PSV,1,2,Milan,1993
+1950,Göteborg,1,0,Porto,1993
+1951,CSKA Moskva,0,1,Rangers,1993
+1952,Marseille,3,0,Club Brugge,1993
+1953,Rangers,2,2,Marseille,1993
+1954,Porto,2,2,PSV,1993
+1955,Milan,4,0,Göteborg,1993
+1956,Club Brugge,1,0,CSKA Moskva,1993
+1957,Porto,4,0,Sion,1993
+1958,Leeds,1,2,Rangers,1993
+1959,Barcelona,2,3,CSKA Moskva,1993
+1960,Milan,4,0,Slovan Bratislava,1993
+1961,PSV,3,0,AEK,1993
+1962,Austria Wien,3,1,Club Brugge,1993
+1963,Marseille,2,0,Dinamo Bucureşti,1993
+1964,Lech,0,3,Göteborg,1993
+1965,Rangers,2,1,Leeds,1993
+1966,Sion,2,2,Porto,1993
+1967,Club Brugge,2,0,Austria Wien,1993
+1968,Slovan Bratislava,0,1,Milan,1993
+1969,Göteborg,1,0,Lech,1993
+1970,CSKA Moskva,1,1,Barcelona,1993
+1971,AEK,1,0,PSV,1993
+1972,Dinamo Bucureşti,0,0,Marseille,1993
+1973,Stuttgart,1,2,Leeds,1993
+1974,Porto,5,0,US Luxembourg,1993
+1975,Club Brugge,3,0,M. Tel-Aviv,1993
+1976,Olimpija Ljubljana,0,3,Milan,1993
+1977,Viking,0,0,Barcelona,1993
+1978,Beşiktaş,2,1,Göteborg,1993
+1979,Marseille,3,0,Glentoran,1993
+1980,Ferencváros,0,0,Slovan Bratislava,1993
+1981,Lyngby,0,1,Rangers,1993
+1982,APOEL,2,2,AEK,1993
+1983,CSKA Sofia,3,2,Austria Wien,1993
+1984,Tavriya,1,3,Sion,1993
+1985,Žalgiris,0,2,PSV,1993
+1986,Skonto,0,0,Lech,1993
+1987,CSKA Moskva,4,2,Víkingur Reykjavík,1993
+1988,Dinamo Bucureşti,2,0,Lahti,1993
+1989,Leeds,3,0,Stuttgart,1993
+1990,Barcelona,1,0,Viking,1993
+1991,Milan,4,0,Olimpija Ljubljana,1993
+1992,Glentoran,0,5,Marseille,1993
+1993,US Luxembourg,1,4,Porto,1993
+1994,Rangers,2,0,Lyngby,1993
+1995,Stuttgart,3,0,Leeds,1993
+1996,PSV,6,0,Žalgiris,1993
+1997,Sion,4,1,Tavriya,1993
+1998,Víkingur Reykjavík,0,1,CSKA Moskva,1993
+1999,Austria Wien,3,1,CSKA Sofia,1993
+2000,Lech,2,0,Skonto,1993
+2001,Göteborg,2,0,Beşiktaş,1993
+2002,AEK,1,1,APOEL,1993
+2003,Lahti,1,0,Dinamo Bucureşti,1993
+2004,Slovan Bratislava,4,1,Ferencváros,1993
+2005,M. Tel-Aviv,0,1,Club Brugge,1993
+2006,Milan,4,0,Barcelona,1994
+2007,Milan,3,0,Monaco,1994
+2008,Barcelona,3,0,Porto,1994
+2009,Galatasaray,1,2,Spartak Moskva,1994
+2010,Porto,0,0,Milan,1994
+2011,Monaco,0,1,Barcelona,1994
+2012,Anderlecht,1,2,Bremen,1994
+2013,Barcelona,3,0,Galatasaray,1994
+2014,Bremen,0,5,Porto,1994
+2015,Milan,0,0,Anderlecht,1994
+2016,Spartak Moskva,0,0,Monaco,1994
+2017,Porto,2,0,Anderlecht,1994
+2018,Galatasaray,0,2,Monaco,1994
+2019,Barcelona,5,1,Spartak Moskva,1994
+2020,Bremen,1,1,Milan,1994
+2021,Monaco,3,0,Galatasaray,1994
+2022,Anderlecht,1,0,Porto,1994
+2023,Milan,2,1,Bremen,1994
+2024,Spartak Moskva,2,2,Barcelona,1994
+2025,Barcelona,2,0,Monaco,1994
+2026,Bremen,5,3,Anderlecht,1994
+2027,Spartak Moskva,0,0,Galatasaray,1994
+2028,Milan,3,0,Porto,1994
+2029,Galatasaray,0,0,Barcelona,1994
+2030,Porto,3,2,Bremen,1994
+2031,Anderlecht,0,0,Milan,1994
+2032,Monaco,4,1,Spartak Moskva,1994
+2033,Milan,1,0,Copenhagen,1994
+2034,Anderlecht,4,2,Sparta Praha,1994
+2035,Feyenoord,0,0,Porto,1994
+2036,Austria Wien,1,2,Barcelona,1994
+2037,Bremen,1,0,Levski,1994
+2038,Galatasaray,0,0,Man United,1994
+2039,FCSB,1,0,Monaco,1994
+2040,Spartak Moskva,2,1,Lech,1994
+2041,Porto,1,0,Feyenoord,1994
+2042,Man United,3,3,Galatasaray,1994
+2043,Barcelona,3,0,Austria Wien,1994
+2044,Monaco,4,1,FCSB,1994
+2045,Copenhagen,0,6,Milan,1994
+2046,Levski,2,2,Bremen,1994
+2047,Lech,1,5,Spartak Moskva,1994
+2048,Sparta Praha,0,1,Anderlecht,1994
+2049,Man United,2,1,Honvéd,1994
+2050,Barcelona,4,1,Dynamo Kyiv,1994
+2051,Milan,0,0,Aarau,1994
+2052,Feyenoord,3,0,ÍA,1994
+2053,Anderlecht,3,0,HJK,1994
+2054,Copenhagen,4,0,Linfield,1994
+2055,AEK,1,1,Monaco,1994
+2056,Austria Wien,4,1,Rosenborg,1994
+2057,Sparta Praha,2,0,AIK,1994
+2058,Levski,2,1,Rangers,1994
+2059,Dinamo Minsk,1,1,Bremen,1994
+2060,Spartak Moskva,4,0,Skonto,1994
+2061,Cork,0,1,Galatasaray,1994
+2062,Floriana,0,0,Porto,1994
+2063,Beitar Jerusalem,2,4,Lech,1994
+2064,Dinamo Zagreb,2,3,FCSB,1994
+2065,Linfield,3,0,Copenhagen,1994
+2066,Bremen,5,2,Dinamo Minsk,1994
+2067,Porto,2,0,Floriana,1994
+2068,ÍA,1,0,Feyenoord,1994
+2069,Rangers,3,2,Levski,1994
+2070,Aarau,0,1,Milan,1994
+2071,Monaco,1,0,AEK,1994
+2072,Honvéd,2,3,Man United,1994
+2073,Galatasaray,2,1,Cork,1994
+2074,Rosenborg,3,1,Austria Wien,1994
+2075,FCSB,1,2,Dinamo Zagreb,1994
+2076,AIK,1,0,Sparta Praha,1994
+2077,Dynamo Kyiv,3,1,Barcelona,1994
+2078,Skonto,0,5,Spartak Moskva,1994
+2079,HJK,0,3,Anderlecht,1994
+2080,Lech,3,0,Beitar Jerusalem,1994
+2081,Ajax,1,0,Milan,1995
+2082,Milan,2,0,Paris,1995
+2083,Ajax,5,2,Bayern,1995
+2084,Paris,0,1,Milan,1995
+2085,Bayern,0,0,Ajax,1995
+2086,Benfica,0,0,Milan,1995
+2087,Paris,2,1,Barcelona,1995
+2088,Ajax,3,0,Hajduk Split,1995
+2089,Göteborg,2,2,Bayern,1995
+2090,Milan,2,0,Benfica,1995
+2091,Barcelona,1,1,Paris,1995
+2092,Hajduk Split,0,0,Ajax,1995
+2093,Bayern,0,0,Göteborg,1995
+2094,Man United,4,0,Galatasaray,1995
+2095,Ajax,2,0,AEK,1995
+2096,Salzburg,0,1,Milan,1995
+2097,Anderlecht,1,1,Benfica,1995
+2098,Hajduk Split,1,4,FCSB,1995
+2099,Paris,4,1,Spartak Moskva,1995
+2100,Barcelona,1,1,Göteborg,1995
+2101,Dynamo Kyiv,1,4,Bayern,1995
+2102,Benfica,2,1,Hajduk Split,1995
+2103,Milan,0,2,Ajax,1995
+2104,FCSB,1,1,Anderlecht,1995
+2105,Bayern,0,1,Paris,1995
+2106,Göteborg,3,1,Man United,1995
+2107,AEK,1,3,Salzburg,1995
+2108,Galatasaray,2,1,Barcelona,1995
+2109,Spartak Moskva,1,0,Dynamo Kyiv,1995
+2110,Ajax,1,1,Salzburg,1995
+2111,Milan,2,1,AEK,1995
+2112,Anderlecht,0,0,Hajduk Split,1995
+2113,FCSB,1,1,Benfica,1995
+2114,Paris,1,0,Dynamo Kyiv,1995
+2115,Bayern,2,2,Spartak Moskva,1995
+2116,Barcelona,4,0,Man United,1995
+2117,Galatasaray,0,1,Göteborg,1995
+2118,Benfica,2,1,FCSB,1995
+2119,Man United,2,2,Barcelona,1995
+2120,Salzburg,0,0,Ajax,1995
+2121,AEK,0,0,Milan,1995
+2122,Hajduk Split,2,1,Anderlecht,1995
+2123,Göteborg,1,0,Galatasaray,1995
+2124,Dynamo Kyiv,1,2,Paris,1995
+2125,Spartak Moskva,1,1,Bayern,1995
+2126,Benfica,3,1,Anderlecht,1995
+2127,AEK,1,2,Ajax,1995
+2128,Milan,3,0,Salzburg,1995
+2129,Bayern,1,0,Dynamo Kyiv,1995
+2130,Göteborg,2,1,Barcelona,1995
+2131,FCSB,0,1,Hajduk Split,1995
+2132,Galatasaray,0,0,Man United,1995
+2133,Spartak Moskva,1,2,Paris,1995
+2134,Man United,4,2,Göteborg,1995
+2135,Ajax,2,0,Milan,1995
+2136,Salzburg,0,0,AEK,1995
+2137,Anderlecht,0,0,FCSB,1995
+2138,Hajduk Split,0,0,Benfica,1995
+2139,Paris,2,0,Bayern,1995
+2140,Barcelona,2,1,Galatasaray,1995
+2141,Dynamo Kyiv,3,2,Spartak Moskva,1995
+2142,Ajax,1,1,Juventus,1996
+2143,Nantes,3,2,Juventus,1996
+2144,Panathinaikos,0,3,Ajax,1996
+2145,Juventus,2,0,Nantes,1996
+2146,Ajax,0,1,Panathinaikos,1996
+2147,Juventus,2,0,Real Madrid,1996
+2148,Ajax,1,0,Dortmund,1996
+2149,Panathinaikos,3,0,Legia,1996
+2150,Spartak Moskva,2,2,Nantes,1996
+2151,Nantes,2,0,Spartak Moskva,1996
+2152,Legia,0,0,Panathinaikos,1996
+2153,Real Madrid,1,0,Juventus,1996
+2154,Dortmund,0,2,Ajax,1996
+2155,Blackburn,4,1,Rosenborg,1996
+2156,Grasshoppers,0,2,Real Madrid,1996
+2157,Ajax,4,0,Ferencváros,1996
+2158,Dortmund,2,2,Rangers,1996
+2159,Legia,0,1,Spartak Moskva,1996
+2160,AaB,2,2,Porto,1996
+2161,Nantes,0,0,Panathinaikos,1996
+2162,FCSB,0,0,Juventus,1996
+2163,Rangers,1,1,FCSB,1996
+2164,Porto,2,2,Nantes,1996
+2165,Real Madrid,0,2,Ajax,1996
+2166,Ferencváros,3,3,Grasshoppers,1996
+2167,Juventus,1,2,Dortmund,1996
+2168,Rosenborg,4,0,Legia,1996
+2169,Panathinaikos,2,0,AaB,1996
+2170,Spartak Moskva,3,0,Blackburn,1996
+2171,Rangers,0,4,Juventus,1996
+2172,Blackburn,0,0,Legia,1996
+2173,Grasshoppers,0,0,Ajax,1996
+2174,Ferencváros,1,1,Real Madrid,1996
+2175,AaB,0,2,Nantes,1996
+2176,FCSB,0,0,Dortmund,1996
+2177,Panathinaikos,0,0,Porto,1996
+2178,Spartak Moskva,4,1,Rosenborg,1996
+2179,AaB,2,1,Panathinaikos,1996
+2180,Blackburn,0,1,Spartak Moskva,1996
+2181,Grasshoppers,0,3,Ferencváros,1996
+2182,Ajax,1,0,Real Madrid,1996
+2183,Dortmund,1,3,Juventus,1996
+2184,Legia,3,1,Rosenborg,1996
+2185,Nantes,0,0,Porto,1996
+2186,FCSB,1,0,Rangers,1996
+2187,Porto,0,1,Panathinaikos,1996
+2188,Real Madrid,6,1,Ferencváros,1996
+2189,Ajax,3,0,Grasshoppers,1996
+2190,Juventus,4,1,Rangers,1996
+2191,Dortmund,1,0,FCSB,1996
+2192,Rosenborg,2,4,Spartak Moskva,1996
+2193,Legia,1,0,Blackburn,1996
+2194,Nantes,3,1,AaB,1996
+2195,Rangers,2,2,Dortmund,1996
+2196,Porto,2,0,AaB,1996
+2197,Real Madrid,2,0,Grasshoppers,1996
+2198,Ferencváros,1,5,Ajax,1996
+2199,Juventus,3,0,FCSB,1996
+2200,Rosenborg,2,1,Blackburn,1996
+2201,Panathinaikos,3,1,Nantes,1996
+2202,Spartak Moskva,2,1,Legia,1996
+2203,Ajax,(2),(4),Juventus,1996
+2204,Dortmund,3,1,Juventus,1997
+2205,Man United,0,1,Dortmund,1997
+2206,Juventus,4,1,Ajax,1997
+2207,Ajax,1,2,Juventus,1997
+2208,Dortmund,1,0,Man United,1997
+2209,Porto,0,0,Man United,1997
+2210,Juventus,2,0,Rosenborg,1997
+2211,Atlético,2,3,Ajax,1997
+2212,Auxerre,0,1,Dortmund,1997
+2213,Man United,4,0,Porto,1997
+2214,Rosenborg,1,1,Juventus,1997
+2215,Ajax,1,1,Atlético,1997
+2216,Dortmund,3,1,Auxerre,1997
+2217,Milan,1,2,Rosenborg,1997
+2218,Göteborg,0,2,Porto,1997
+2219,Juventus,2,0,Fenerbahçe,1997
+2220,Rapid Wien,0,2,Man United,1997
+2221,Dortmund,5,3,FCSB,1997
+2222,Atlético,1,0,Widzew,1997
+2223,Grasshoppers,0,1,Ajax,1997
+2224,Auxerre,2,1,Rangers,1997
+2225,Porto,1,1,Milan,1997
+2226,Man United,0,1,Juventus,1997
+2227,Rosenborg,1,0,Göteborg,1997
+2228,Widzew,2,2,Dortmund,1997
+2229,Rangers,2,1,Grasshoppers,1997
+2230,Ajax,1,2,Auxerre,1997
+2231,Fenerbahçe,1,0,Rapid Wien,1997
+2232,FCSB,1,1,Atlético,1997
+2233,Porto,3,0,Rosenborg,1997
+2234,Man United,0,1,Fenerbahçe,1997
+2235,Milan,4,2,Göteborg,1997
+2236,Juventus,5,0,Rapid Wien,1997
+2237,Dortmund,1,2,Atlético,1997
+2238,Widzew,2,0,FCSB,1997
+2239,Grasshoppers,3,1,Auxerre,1997
+2240,Rangers,0,1,Ajax,1997
+2241,Göteborg,2,1,Milan,1997
+2242,Rosenborg,0,1,Porto,1997
+2243,Rapid Wien,1,1,Juventus,1997
+2244,Atlético,0,1,Dortmund,1997
+2245,Auxerre,1,0,Grasshoppers,1997
+2246,Ajax,4,1,Rangers,1997
+2247,Fenerbahçe,0,2,Man United,1997
+2248,FCSB,1,0,Widzew,1997
+2249,Porto,2,1,Göteborg,1997
+2250,Man United,2,0,Rapid Wien,1997
+2251,Rosenborg,1,4,Milan,1997
+2252,Widzew,1,4,Atlético,1997
+2253,Ajax,0,1,Grasshoppers,1997
+2254,Rangers,1,2,Auxerre,1997
+2255,Fenerbahçe,0,1,Juventus,1997
+2256,FCSB,0,3,Dortmund,1997
+2257,Milan,2,3,Porto,1997
+2258,Göteborg,2,3,Rosenborg,1997
+2259,Juventus,1,0,Man United,1997
+2260,Rapid Wien,1,1,Fenerbahçe,1997
+2261,Dortmund,2,1,Widzew,1997
+2262,Atlético,4,0,FCSB,1997
+2263,Grasshoppers,3,0,Rangers,1997
+2264,Auxerre,0,1,Ajax,1997
+2265,Juventus,0,1,Real Madrid,1998
+2266,Dortmund,0,0,Real Madrid,1998
+2267,Monaco,3,2,Juventus,1998
+2268,Real Madrid,2,0,Dortmund,1998
+2269,Juventus,4,1,Monaco,1998
+2270,Man United,1,1,Monaco,1998
+2271,Dortmund,1,0,Bayern,1998
+2272,Dynamo Kyiv,1,4,Juventus,1998
+2273,Real Madrid,3,0,Leverkusen,1998
+2274,Monaco,0,0,Man United,1998
+2275,Bayern,0,0,Dortmund,1998
+2276,Juventus,1,1,Dynamo Kyiv,1998
+2277,Leverkusen,1,1,Real Madrid,1998
+2278,Leverkusen,2,2,Monaco,1998
+2279,Sporting CP,2,1,Lierse,1998
+2280,Paris,2,1,Beşiktaş,1998
+2281,Bayern,0,1,Göteborg,1998
+2282,Olympiacos,2,2,Rosenborg,1998
+2283,Real Madrid,4,0,Porto,1998
+2284,Newcastle,2,0,Dynamo Kyiv,1998
+2285,PSV,2,2,Barcelona,1998
+2286,Juventus,1,0,Man United,1998
+2287,Košice,0,1,Feyenoord,1998
+2288,Galatasaray,1,1,Parma,1998
+2289,Sparta Praha,0,3,Dortmund,1998
+2290,Porto,2,1,Olympiacos,1998
+2291,Rosenborg,2,0,Real Madrid,1998
+2292,Dynamo Kyiv,1,1,PSV,1998
+2293,Man United,3,0,Košice,1998
+2294,Dortmund,4,1,Galatasaray,1998
+2295,Parma,2,2,Sparta Praha,1998
+2296,Lierse,0,2,Leverkusen,1998
+2297,Monaco,3,2,Sporting CP,1998
+2298,Göteborg,0,1,Paris,1998
+2299,Beşiktaş,0,2,Bayern,1998
+2300,Barcelona,1,0,Newcastle,1998
+2301,Feyenoord,2,0,Juventus,1998
+2302,Leverkusen,4,1,Sporting CP,1998
+2303,Lierse,0,1,Monaco,1998
+2304,Paris,3,1,Bayern,1998
+2305,Göteborg,2,1,Beşiktaş,1998
+2306,Olympiacos,0,0,Real Madrid,1998
+2307,Porto,1,1,Rosenborg,1998
+2308,Newcastle,0,2,PSV,1998
+2309,Barcelona,0,4,Dynamo Kyiv,1998
+2310,Juventus,3,2,Košice,1998
+2311,Feyenoord,1,3,Man United,1998
+2312,Galatasaray,2,0,Sparta Praha,1998
+2313,Dortmund,2,0,Parma,1998
+2314,Sporting CP,0,2,Leverkusen,1998
+2315,Monaco,5,1,Lierse,1998
+2316,Bayern,5,1,Paris,1998
+2317,Beşiktaş,1,0,Göteborg,1998
+2318,Real Madrid,5,1,Olympiacos,1998
+2319,Rosenborg,2,0,Porto,1998
+2320,PSV,1,0,Newcastle,1998
+2321,Dynamo Kyiv,3,0,Barcelona,1998
+2322,Košice,0,1,Juventus,1998
+2323,Man United,2,1,Feyenoord,1998
+2324,Sparta Praha,3,0,Galatasaray,1998
+2325,Parma,1,0,Dortmund,1998
+2326,Monaco,4,0,Leverkusen,1998
+2327,Lierse,1,1,Sporting CP,1998
+2328,Beşiktaş,3,1,Paris,1998
+2329,Göteborg,1,3,Bayern,1998
+2330,Rosenborg,5,1,Olympiacos,1998
+2331,Porto,0,2,Real Madrid,1998
+2332,Dynamo Kyiv,2,2,Newcastle,1998
+2333,Barcelona,2,2,PSV,1998
+2334,Man United,3,2,Juventus,1998
+2335,Feyenoord,2,0,Košice,1998
+2336,Parma,2,0,Galatasaray,1998
+2337,Dortmund,4,1,Sparta Praha,1998
+2338,Leverkusen,1,0,Lierse,1998
+2339,Sporting CP,3,0,Monaco,1998
+2340,Paris,3,0,Göteborg,1998
+2341,Bayern,2,0,Beşiktaş,1998
+2342,Olympiacos,1,0,Porto,1998
+2343,Real Madrid,4,1,Rosenborg,1998
+2344,Newcastle,3,2,Barcelona,1998
+2345,PSV,1,3,Dynamo Kyiv,1998
+2346,Juventus,5,1,Feyenoord,1998
+2347,Košice,0,3,Man United,1998
+2348,Sparta Praha,0,0,Parma,1998
+2349,Galatasaray,0,1,Dortmund,1998
+2350,Man United,2,1,Bayern,1999
+2351,Bayern,1,0,Dynamo Kyiv,1999
+2352,Juventus,2,3,Man United,1999
+2353,Dynamo Kyiv,3,3,Bayern,1999
+2354,Man United,1,1,Juventus,1999
+2355,Kaiserslautern,0,4,Bayern,1999
+2356,Olympiacos,1,1,Juventus,1999
+2357,Inter,1,1,Man United,1999
+2358,Dynamo Kyiv,2,0,Real Madrid,1999
+2359,Bayern,2,0,Kaiserslautern,1999
+2360,Juventus,2,1,Olympiacos,1999
+2361,Man United,2,0,Inter,1999
+2362,Real Madrid,1,1,Dynamo Kyiv,1999
+2363,Kaiserslautern,5,2,HJK,1999
+2364,PSV,2,2,Benfica,1999
+2365,Panathinaikos,1,3,Arsenal,1999
+2366,Lens,1,3,Dynamo Kyiv,1999
+2367,Man United,1,1,Bayern,1999
+2368,Brøndby,0,2,Barcelona,1999
+2369,Sturm,0,2,Inter,1999
+2370,Real Madrid,2,1,Spartak Moskva,1999
+2371,Juventus,2,0,Rosenborg,1999
+2372,Athletic Club,1,0,Galatasaray,1999
+2373,Dinamo Zagreb,1,1,Olympiacos,1999
+2374,Porto,3,0,Ajax,1999
+2375,Galatasaray,1,1,Juventus,1999
+2376,Benfica,2,1,Kaiserslautern,1999
+2377,Arsenal,0,1,Lens,1999
+2378,Barcelona,3,3,Man United,1999
+2379,Bayern,2,0,Brøndby,1999
+2380,Inter,3,1,Real Madrid,1999
+2381,Rosenborg,2,1,Athletic Club,1999
+2382,Ajax,0,1,Dinamo Zagreb,1999
+2383,Olympiacos,2,1,Porto,1999
+2384,HJK,1,3,PSV,1999
+2385,Dynamo Kyiv,2,1,Panathinaikos,1999
+2386,Spartak Moskva,0,0,Sturm,1999
+2387,Sturm,1,5,Real Madrid,1999
+2388,Kaiserslautern,3,1,PSV,1999
+2389,Benfica,2,2,HJK,1999
+2390,Panathinaikos,1,0,Lens,1999
+2391,Dynamo Kyiv,3,1,Arsenal,1999
+2392,Man United,5,0,Brøndby,1999
+2393,Barcelona,1,2,Bayern,1999
+2394,Juventus,1,1,Athletic Club,1999
+2395,Galatasaray,3,0,Rosenborg,1999
+2396,Dinamo Zagreb,3,1,Porto,1999
+2397,Ajax,2,0,Olympiacos,1999
+2398,Spartak Moskva,1,1,Inter,1999
+2399,PSV,1,2,Kaiserslautern,1999
+2400,HJK,2,0,Benfica,1999
+2401,Lens,1,0,Panathinaikos,1999
+2402,Arsenal,1,1,Dynamo Kyiv,1999
+2403,Brøndby,2,6,Man United,1999
+2404,Bayern,1,0,Barcelona,1999
+2405,Real Madrid,6,1,Sturm,1999
+2406,Inter,2,1,Spartak Moskva,1999
+2407,Athletic Club,0,0,Juventus,1999
+2408,Rosenborg,3,0,Galatasaray,1999
+2409,Porto,3,0,Dinamo Zagreb,1999
+2410,Olympiacos,1,0,Ajax,1999
+2411,HJK,0,0,Kaiserslautern,1999
+2412,Benfica,2,1,PSV,1999
+2413,Arsenal,2,1,Panathinaikos,1999
+2414,Dynamo Kyiv,1,1,Lens,1999
+2415,Bayern,2,2,Man United,1999
+2416,Barcelona,2,0,Brøndby,1999
+2417,Inter,1,0,Sturm,1999
+2418,Rosenborg,1,1,Juventus,1999
+2419,Galatasaray,2,1,Athletic Club,1999
+2420,Olympiacos,2,0,Dinamo Zagreb,1999
+2421,Ajax,2,1,Porto,1999
+2422,Spartak Moskva,2,1,Real Madrid,1999
+2423,Kaiserslautern,1,0,Benfica,1999
+2424,PSV,2,1,HJK,1999
+2425,Panathinaikos,2,1,Dynamo Kyiv,1999
+2426,Lens,1,1,Arsenal,1999
+2427,Man United,3,3,Barcelona,1999
+2428,Brøndby,2,1,Bayern,1999
+2429,Sturm,0,2,Spartak Moskva,1999
+2430,Real Madrid,2,0,Inter,1999
+2431,Juventus,2,2,Galatasaray,1999
+2432,Athletic Club,1,1,Rosenborg,1999
+2433,Dinamo Zagreb,0,0,Ajax,1999
+2434,Porto,2,2,Olympiacos,1999
+2435,Real Madrid,3,0,Valencia,2000
+2436,Barcelona,2,1,Valencia,2000
+2437,Bayern,2,1,Real Madrid,2000
+2438,Real Madrid,2,0,Bayern,2000
+2439,Valencia,4,1,Barcelona,2000
+2440,Bayern,2,1,Porto,2000
+2441,Man United,2,3,Real Madrid,2000
+2442,Lazio,1,0,Valencia,2000
+2443,Barcelona,5,1,Chelsea,2000
+2444,Valencia,5,2,Lazio,2000
+2445,Chelsea,3,1,Barcelona,2000
+2446,Porto,1,1,Bayern,2000
+2447,Real Madrid,0,0,Man United,2000
+2448,Chelsea,1,2,Lazio,2000
+2449,Marseille,0,0,Feyenoord,2000
+2450,Rosenborg,0,1,Real Madrid,2000
+2451,Dynamo Kyiv,2,0,Bayern,2000
+2452,Valencia,0,0,Man United,2000
+2453,Fiorentina,3,3,Bordeaux,2000
+2454,Hertha,0,1,Porto,2000
+2455,Sparta Praha,1,2,Barcelona,2000
+2456,Bordeaux,1,4,Valencia,2000
+2457,Man United,3,1,Fiorentina,2000
+2458,Porto,2,2,Sparta Praha,2000
+2459,Barcelona,3,1,Hertha,2000
+2460,Feyenoord,1,3,Chelsea,2000
+2461,Lazio,5,1,Marseille,2000
+2462,Bayern,2,1,Rosenborg,2000
+2463,Real Madrid,2,2,Dynamo Kyiv,2000
+2464,Chelsea,1,0,Marseille,2000
+2465,Feyenoord,0,0,Lazio,2000
+2466,Rosenborg,1,2,Dynamo Kyiv,2000
+2467,Bayern,4,1,Real Madrid,2000
+2468,Valencia,2,0,Fiorentina,2000
+2469,Bordeaux,1,2,Man United,2000
+2470,Sparta Praha,1,0,Hertha,2000
+2471,Porto,0,2,Barcelona,2000
+2472,Man United,2,0,Bordeaux,2000
+2473,Fiorentina,1,0,Valencia,2000
+2474,Hertha,1,1,Sparta Praha,2000
+2475,Barcelona,4,2,Porto,2000
+2476,Marseille,1,0,Chelsea,2000
+2477,Lazio,1,2,Feyenoord,2000
+2478,Real Madrid,2,4,Bayern,2000
+2479,Dynamo Kyiv,2,1,Rosenborg,2000
+2480,Man United,3,0,Valencia,2000
+2481,Bordeaux,0,0,Fiorentina,2000
+2482,Barcelona,5,0,Sparta Praha,2000
+2483,Porto,1,0,Hertha,2000
+2484,Lazio,0,0,Chelsea,2000
+2485,Feyenoord,3,0,Marseille,2000
+2486,Real Madrid,3,1,Rosenborg,2000
+2487,Bayern,2,1,Dynamo Kyiv,2000
+2488,Chelsea,3,1,Feyenoord,2000
+2489,Marseille,0,2,Lazio,2000
+2490,Rosenborg,1,1,Bayern,2000
+2491,Dynamo Kyiv,1,2,Real Madrid,2000
+2492,Valencia,3,0,Bordeaux,2000
+2493,Fiorentina,2,0,Man United,2000
+2494,Sparta Praha,0,2,Porto,2000
+2495,Hertha,1,1,Barcelona,2000
+2496,Galatasaray,3,2,Milan,2000
+2497,Chelsea,2,0,Hertha,2000
+2498,Willem II,0,0,Bordeaux,2000
+2499,Sparta Praha,5,2,Spartak Moskva,2000
+2500,Bayern,1,0,Rangers,2000
+2501,Valencia,1,0,PSV,2000
+2502,Molde,0,1,Real Madrid,2000
+2503,Olympiacos,1,0,Porto,2000
+2504,Marseille,2,2,Dinamo Zagreb,2000
+2505,Man United,2,1,Sturm,2000
+2506,Feyenoord,1,0,Rosenborg,2000
+2507,Boavista,1,0,Dortmund,2000
+2508,Fiorentina,3,3,Barcelona,2000
+2509,AIK,2,3,Arsenal,2000
+2510,Dynamo Kyiv,0,1,Lazio,2000
+2511,Leverkusen,0,0,Maribor,2000
+2512,Sturm,3,2,Marseille,2000
+2513,Dinamo Zagreb,1,2,Man United,2000
+2514,Dortmund,1,1,Feyenoord,2000
+2515,Rosenborg,2,0,Boavista,2000
+2516,Arsenal,0,1,Fiorentina,2000
+2517,Barcelona,5,0,AIK,2000
+2518,Maribor,1,2,Dynamo Kyiv,2000
+2519,Lazio,1,1,Leverkusen,2000
+2520,Hertha,1,4,Galatasaray,2000
+2521,Milan,1,1,Chelsea,2000
+2522,Bordeaux,0,0,Sparta Praha,2000
+2523,Rangers,1,2,Valencia,2000
+2524,PSV,2,1,Bayern,2000
+2525,Porto,3,1,Molde,2000
+2526,Real Madrid,3,0,Olympiacos,2000
+2527,Spartak Moskva,1,1,Willem II,2000
+2528,Galatasaray,0,5,Chelsea,2000
+2529,Hertha,1,0,Milan,2000
+2530,Willem II,3,4,Sparta Praha,2000
+2531,Valencia,1,1,Bayern,2000
+2532,Rangers,4,1,PSV,2000
+2533,Molde,3,2,Olympiacos,2000
+2534,Porto,2,1,Real Madrid,2000
+2535,Spartak Moskva,1,2,Bordeaux,2000
+2536,Marseille,1,0,Man United,2000
+2537,Sturm,1,0,Dinamo Zagreb,2000
+2538,Feyenoord,1,1,Boavista,2000
+2539,Dortmund,0,3,Rosenborg,2000
+2540,Fiorentina,3,0,AIK,2000
+2541,Arsenal,2,4,Barcelona,2000
+2542,Dynamo Kyiv,4,2,Leverkusen,2000
+2543,Maribor,0,4,Lazio,2000
+2544,Man United,2,1,Marseille,2000
+2545,Dinamo Zagreb,3,0,Sturm,2000
+2546,Boavista,1,1,Feyenoord,2000
+2547,Rosenborg,2,2,Dortmund,2000
+2548,AIK,0,0,Fiorentina,2000
+2549,Barcelona,1,1,Arsenal,2000
+2550,Leverkusen,1,1,Dynamo Kyiv,2000
+2551,Lazio,4,0,Maribor,2000
+2552,Chelsea,1,0,Galatasaray,2000
+2553,Milan,1,1,Hertha,2000
+2554,Sparta Praha,4,0,Willem II,2000
+2555,Bordeaux,2,1,Spartak Moskva,2000
+2556,Bayern,1,1,Valencia,2000
+2557,PSV,0,1,Rangers,2000
+2558,Olympiacos,3,1,Molde,2000
+2559,Real Madrid,3,1,Porto,2000
+2560,Dinamo Zagreb,1,2,Marseille,2000
+2561,Sturm,0,3,Man United,2000
+2562,Rosenborg,2,2,Feyenoord,2000
+2563,Dortmund,3,1,Boavista,2000
+2564,Barcelona,4,2,Fiorentina,2000
+2565,Arsenal,3,1,AIK,2000
+2566,Lazio,2,1,Dynamo Kyiv,2000
+2567,Maribor,0,2,Leverkusen,2000
+2568,Milan,2,1,Galatasaray,2000
+2569,Hertha,2,1,Chelsea,2000
+2570,Bordeaux,3,2,Willem II,2000
+2571,PSV,1,1,Valencia,2000
+2572,Rangers,1,1,Bayern,2000
+2573,Real Madrid,4,1,Molde,2000
+2574,Porto,2,0,Olympiacos,2000
+2575,Spartak Moskva,1,1,Sparta Praha,2000
+2576,Galatasaray,2,2,Hertha,2000
+2577,Chelsea,0,0,Milan,2000
+2578,Willem II,1,3,Spartak Moskva,2000
+2579,Sparta Praha,0,0,Bordeaux,2000
+2580,Valencia,2,0,Rangers,2000
+2581,Bayern,2,1,PSV,2000
+2582,Molde,0,1,Porto,2000
+2583,Olympiacos,3,3,Real Madrid,2000
+2584,Marseille,2,0,Sturm,2000
+2585,Man United,0,0,Dinamo Zagreb,2000
+2586,Feyenoord,1,1,Dortmund,2000
+2587,Boavista,0,3,Rosenborg,2000
+2588,Fiorentina,0,0,Arsenal,2000
+2589,AIK,1,2,Barcelona,2000
+2590,Dynamo Kyiv,0,1,Maribor,2000
+2591,Leverkusen,1,1,Lazio,2000
+2592,Bayern,1,1,Valencia,2001
+2593,Bayern,2,1,Real Madrid,2001
+2594,Valencia,3,0,Leeds,2001
+2595,Leeds,0,0,Valencia,2001
+2596,Real Madrid,0,1,Bayern,2001
+2597,Real Madrid,3,0,Galatasaray,2001
+2598,Bayern,2,1,Man United,2001
+2599,Valencia,1,0,Arsenal,2001
+2600,Deportivo,2,0,Leeds,2001
+2601,Arsenal,2,1,Valencia,2001
+2602,Leeds,3,0,Deportivo,2001
+2603,Galatasaray,3,2,Real Madrid,2001
+2604,Man United,0,1,Bayern,2001
+2605,Anderlecht,2,0,Real Madrid,2001
+2606,Leeds,3,3,Lazio,2001
+2607,Spartak Moskva,1,1,Lyon,2001
+2608,Bayern,1,0,Arsenal,2001
+2609,Paris,2,0,Galatasaray,2001
+2610,Milan,1,1,Deportivo,2001
+2611,Man United,3,0,Sturm,2001
+2612,Valencia,2,1,Panathinaikos,2001
+2613,Deportivo,4,3,Paris,2001
+2614,Galatasaray,2,0,Milan,2001
+2615,Panathinaikos,1,1,Man United,2001
+2616,Sturm,0,5,Valencia,2001
+2617,Lazio,2,1,Anderlecht,2001
+2618,Real Madrid,3,2,Leeds,2001
+2619,Arsenal,1,0,Spartak Moskva,2001
+2620,Lyon,3,0,Bayern,2001
+2621,Anderlecht,1,4,Leeds,2001
+2622,Lazio,2,2,Real Madrid,2001
+2623,Arsenal,1,1,Lyon,2001
+2624,Spartak Moskva,0,3,Bayern,2001
+2625,Paris,1,1,Milan,2001
+2626,Deportivo,2,0,Galatasaray,2001
+2627,Man United,1,1,Valencia,2001
+2628,Panathinaikos,1,2,Sturm,2001
+2629,Milan,1,1,Paris,2001
+2630,Galatasaray,1,0,Deportivo,2001
+2631,Valencia,0,0,Man United,2001
+2632,Sturm,2,0,Panathinaikos,2001
+2633,Leeds,2,1,Anderlecht,2001
+2634,Real Madrid,3,2,Lazio,2001
+2635,Bayern,1,0,Spartak Moskva,2001
+2636,Lyon,0,1,Arsenal,2001
+2637,Galatasaray,1,0,Paris,2001
+2638,Deportivo,0,1,Milan,2001
+2639,Sturm,0,2,Man United,2001
+2640,Panathinaikos,0,0,Valencia,2001
+2641,Arsenal,2,2,Bayern,2001
+2642,Real Madrid,4,1,Anderlecht,2001
+2643,Lazio,0,1,Leeds,2001
+2644,Lyon,3,0,Spartak Moskva,2001
+2645,Anderlecht,1,0,Lazio,2001
+2646,Leeds,0,2,Real Madrid,2001
+2647,Bayern,1,0,Lyon,2001
+2648,Spartak Moskva,4,1,Arsenal,2001
+2649,Paris,1,3,Deportivo,2001
+2650,Milan,2,2,Galatasaray,2001
+2651,Man United,3,1,Panathinaikos,2001
+2652,Valencia,2,0,Sturm,2001
+2653,Milan,1,1,Leeds,2001
+2654,Barcelona,5,0,Beşiktaş,2001
+2655,Man United,1,0,Dynamo Kyiv,2001
+2656,PSV,2,3,Anderlecht,2001
+2657,Helsingborg,1,1,Paris,2001
+2658,Rosenborg,1,1,Bayern,2001
+2659,Panathinaikos,3,1,Juventus,2001
+2660,Hamburg,1,1,Deportivo,2001
+2661,Rangers,2,2,Monaco,2001
+2662,Galatasaray,2,2,Sturm,2001
+2663,Lyon,1,0,Olympiacos,2001
+2664,Valencia,1,1,Heerenveen,2001
+2665,Shakhtar Donetsk,3,0,Arsenal,2001
+2666,Sparta Praha,0,1,Lazio,2001
+2667,Sporting CP,0,0,Leverkusen,2001
+2668,Spartak Moskva,1,0,Real Madrid,2001
+2669,Sturm,2,0,Rangers,2001
+2670,Monaco,4,2,Galatasaray,2001
+2671,Heerenveen,0,2,Lyon,2001
+2672,Olympiacos,1,0,Valencia,2001
+2673,Lazio,5,1,Shakhtar Donetsk,2001
+2674,Arsenal,4,2,Sparta Praha,2001
+2675,Real Madrid,4,0,Sporting CP,2001
+2676,Leverkusen,1,0,Spartak Moskva,2001
+2677,Beşiktaş,0,2,Milan,2001
+2678,Leeds,1,1,Barcelona,2001
+2679,Anderlecht,2,1,Man United,2001
+2680,Dynamo Kyiv,0,1,PSV,2001
+2681,Paris,7,2,Rosenborg,2001
+2682,Bayern,0,0,Helsingborg,2001
+2683,Deportivo,1,0,Panathinaikos,2001
+2684,Juventus,1,3,Hamburg,2001
+2685,Milan,3,3,Barcelona,2001
+2686,Beşiktaş,0,0,Leeds,2001
+2687,Man United,3,1,PSV,2001
+2688,Anderlecht,4,2,Dynamo Kyiv,2001
+2689,Helsingborg,2,0,Rosenborg,2001
+2690,Bayern,2,0,Paris,2001
+2691,Panathinaikos,0,0,Hamburg,2001
+2692,Deportivo,1,1,Juventus,2001
+2693,Rangers,0,0,Galatasaray,2001
+2694,Sturm,2,0,Monaco,2001
+2695,Lyon,1,2,Valencia,2001
+2696,Heerenveen,1,0,Olympiacos,2001
+2697,Shakhtar Donetsk,2,1,Sparta Praha,2001
+2698,Lazio,1,1,Arsenal,2001
+2699,Sporting CP,0,3,Spartak Moskva,2001
+2700,Real Madrid,5,3,Leverkusen,2001
+2701,Galatasaray,3,2,Rangers,2001
+2702,Monaco,5,0,Sturm,2001
+2703,Valencia,1,0,Lyon,2001
+2704,Olympiacos,2,0,Heerenveen,2001
+2705,Sparta Praha,3,2,Shakhtar Donetsk,2001
+2706,Arsenal,2,0,Lazio,2001
+2707,Leverkusen,2,3,Real Madrid,2001
+2708,Spartak Moskva,3,1,Sporting CP,2001
+2709,Barcelona,0,2,Milan,2001
+2710,Leeds,6,0,Beşiktaş,2001
+2711,PSV,3,1,Man United,2001
+2712,Dynamo Kyiv,4,0,Anderlecht,2001
+2713,Rosenborg,6,1,Helsingborg,2001
+2714,Paris,1,0,Bayern,2001
+2715,Hamburg,0,1,Panathinaikos,2001
+2716,Juventus,0,0,Deportivo,2001
+2717,Monaco,0,1,Rangers,2001
+2718,Sturm,3,0,Galatasaray,2001
+2719,Olympiacos,2,1,Lyon,2001
+2720,Heerenveen,0,1,Valencia,2001
+2721,Arsenal,3,2,Shakhtar Donetsk,2001
+2722,Lazio,3,0,Sparta Praha,2001
+2723,Leverkusen,3,2,Sporting CP,2001
+2724,Real Madrid,1,0,Spartak Moskva,2001
+2725,Leeds,1,0,Milan,2001
+2726,Beşiktaş,3,0,Barcelona,2001
+2727,Dynamo Kyiv,0,0,Man United,2001
+2728,Anderlecht,1,0,PSV,2001
+2729,Paris,4,1,Helsingborg,2001
+2730,Bayern,3,1,Rosenborg,2001
+2731,Juventus,2,1,Panathinaikos,2001
+2732,Deportivo,2,1,Hamburg,2001
+2733,Milan,4,1,Beşiktaş,2001
+2734,Barcelona,4,0,Leeds,2001
+2735,Man United,5,1,Anderlecht,2001
+2736,PSV,2,1,Dynamo Kyiv,2001
+2737,Helsingborg,1,3,Bayern,2001
+2738,Rosenborg,3,1,Paris,2001
+2739,Panathinaikos,1,1,Deportivo,2001
+2740,Hamburg,4,4,Juventus,2001
+2741,Rangers,5,0,Sturm,2001
+2742,Galatasaray,3,2,Monaco,2001
+2743,Lyon,3,1,Heerenveen,2001
+2744,Valencia,2,1,Olympiacos,2001
+2745,Shakhtar Donetsk,0,3,Lazio,2001
+2746,Sparta Praha,0,1,Arsenal,2001
+2747,Sporting CP,2,2,Real Madrid,2001
+2748,Spartak Moskva,2,0,Leverkusen,2001
+2749,Bayern,(5),(4),Valencia,2001
+2750,Leverkusen,1,2,Real Madrid,2002
+2751,Real Madrid,1,1,Barcelona,2002
+2752,Leverkusen,1,1,Man United,2002
+2753,Man United,2,2,Leverkusen,2002
+2754,Barcelona,0,2,Real Madrid,2002
+2755,Man United,3,2,Deportivo,2002
+2756,Real Madrid,2,0,Bayern,2002
+2757,Leverkusen,4,2,Liverpool,2002
+2758,Barcelona,3,1,Panathinaikos,2002
+2759,Liverpool,1,0,Leverkusen,2002
+2760,Panathinaikos,1,0,Barcelona,2002
+2761,Deportivo,0,2,Man United,2002
+2762,Bayern,2,1,Real Madrid,2002
+2763,Deportivo,1,3,Leverkusen,2002
+2764,Juventus,1,0,Arsenal,2002
+2765,Panathinaikos,2,2,Real Madrid,2002
+2766,Sparta Praha,2,0,Porto,2002
+2767,Galatasaray,0,1,Barcelona,2002
+2768,Liverpool,2,0,Roma,2002
+2769,Bayern,2,1,Nantes,2002
+2770,Boavista,0,3,Man United,2002
+2771,Roma,1,1,Galatasaray,2002
+2772,Barcelona,0,0,Liverpool,2002
+2773,Man United,0,0,Bayern,2002
+2774,Nantes,1,1,Boavista,2002
+2775,Arsenal,0,2,Deportivo,2002
+2776,Leverkusen,3,1,Juventus,2002
+2777,Porto,2,1,Panathinaikos,2002
+2778,Real Madrid,3,0,Sparta Praha,2002
+2779,Deportivo,2,0,Juventus,2002
+2780,Arsenal,4,1,Leverkusen,2002
+2781,Panathinaikos,2,1,Sparta Praha,2002
+2782,Porto,1,2,Real Madrid,2002
+2783,Galatasaray,1,1,Liverpool,2002
+2784,Roma,3,0,Barcelona,2002
+2785,Bayern,1,0,Boavista,2002
+2786,Man United,5,1,Nantes,2002
+2787,Liverpool,0,0,Galatasaray,2002
+2788,Barcelona,1,1,Roma,2002
+2789,Boavista,0,0,Bayern,2002
+2790,Nantes,1,1,Man United,2002
+2791,Juventus,0,0,Deportivo,2002
+2792,Leverkusen,1,1,Arsenal,2002
+2793,Sparta Praha,0,2,Panathinaikos,2002
+2794,Real Madrid,1,0,Porto,2002
+2795,Barcelona,2,2,Galatasaray,2002
+2796,Roma,0,0,Liverpool,2002
+2797,Nantes,0,1,Bayern,2002
+2798,Man United,3,0,Boavista,2002
+2799,Leverkusen,3,0,Deportivo,2002
+2800,Arsenal,3,1,Juventus,2002
+2801,Real Madrid,3,0,Panathinaikos,2002
+2802,Porto,0,1,Sparta Praha,2002
+2803,Juventus,4,0,Leverkusen,2002
+2804,Deportivo,2,0,Arsenal,2002
+2805,Panathinaikos,0,0,Porto,2002
+2806,Sparta Praha,2,3,Real Madrid,2002
+2807,Galatasaray,1,1,Roma,2002
+2808,Liverpool,1,3,Barcelona,2002
+2809,Bayern,1,1,Man United,2002
+2810,Boavista,1,0,Nantes,2002
+2811,Feyenoord,2,1,Spartak Moskva,2002
+2812,Sparta Praha,0,1,Bayern,2002
+2813,Olympiacos,1,1,Deportivo,2002
+2814,LOSC,1,1,Man United,2002
+2815,Barcelona,1,0,Fenerbahçe,2002
+2816,Leverkusen,2,4,Lyon,2002
+2817,Porto,1,0,Rosenborg,2002
+2818,Celtic,4,3,Juventus,2002
+2819,Galatasaray,2,0,PSV,2002
+2820,Nantes,1,0,Lazio,2002
+2821,Mallorca,1,0,Panathinaikos,2002
+2822,Schalke,3,1,Arsenal,2002
+2823,Dynamo Kyiv,1,0,Boavista,2002
+2824,Liverpool,2,0,Dortmund,2002
+2825,Lokomotiv Moskva,2,0,Real Madrid,2002
+2826,Roma,1,1,Anderlecht,2002
+2827,Lazio,1,0,Galatasaray,2002
+2828,PSV,0,0,Nantes,2002
+2829,Arsenal,3,1,Mallorca,2002
+2830,Panathinaikos,2,0,Schalke,2002
+2831,Dortmund,1,0,Dynamo Kyiv,2002
+2832,Boavista,1,1,Liverpool,2002
+2833,Anderlecht,1,5,Lokomotiv Moskva,2002
+2834,Real Madrid,1,1,Roma,2002
+2835,Bayern,3,1,Feyenoord,2002
+2836,Man United,3,0,Olympiacos,2002
+2837,Deportivo,1,1,LOSC,2002
+2838,Lyon,2,3,Barcelona,2002
+2839,Fenerbahçe,1,2,Leverkusen,2002
+2840,Juventus,3,1,Porto,2002
+2841,Rosenborg,2,0,Celtic,2002
+2842,Spartak Moskva,2,2,Sparta Praha,2002
+2843,Feyenoord,0,2,Sparta Praha,2002
+2844,Bayern,5,1,Spartak Moskva,2002
+2845,Olympiacos,2,1,LOSC,2002
+2846,Man United,2,3,Deportivo,2002
+2847,Barcelona,2,1,Leverkusen,2002
+2848,Lyon,3,1,Fenerbahçe,2002
+2849,Porto,3,0,Celtic,2002
+2850,Juventus,1,0,Rosenborg,2002
+2851,Galatasaray,0,0,Nantes,2002
+2852,Lazio,2,1,PSV,2002
+2853,Mallorca,0,4,Schalke,2002
+2854,Arsenal,2,1,Panathinaikos,2002
+2855,Dynamo Kyiv,1,2,Liverpool,2002
+2856,Dortmund,2,1,Boavista,2002
+2857,Anderlecht,0,2,Real Madrid,2002
+2858,Lokomotiv Moskva,0,1,Roma,2002
+2859,Feyenoord,2,2,Bayern,2002
+2860,Sparta Praha,2,0,Spartak Moskva,2002
+2861,Olympiacos,0,2,Man United,2002
+2862,LOSC,1,1,Deportivo,2002
+2863,Barcelona,2,0,Lyon,2002
+2864,Leverkusen,2,1,Fenerbahçe,2002
+2865,Porto,0,0,Juventus,2002
+2866,Celtic,1,0,Rosenborg,2002
+2867,Galatasaray,1,0,Lazio,2002
+2868,Nantes,4,1,PSV,2002
+2869,Mallorca,1,0,Arsenal,2002
+2870,Schalke,0,2,Panathinaikos,2002
+2871,Dynamo Kyiv,2,2,Dortmund,2002
+2872,Liverpool,1,1,Boavista,2002
+2873,Roma,1,2,Real Madrid,2002
+2874,Lokomotiv Moskva,1,1,Anderlecht,2002
+2875,Nantes,0,1,Galatasaray,2002
+2876,PSV,1,0,Lazio,2002
+2877,Schalke,0,1,Mallorca,2002
+2878,Panathinaikos,1,0,Arsenal,2002
+2879,Liverpool,1,0,Dynamo Kyiv,2002
+2880,Boavista,2,1,Dortmund,2002
+2881,Roma,2,1,Lokomotiv Moskva,2002
+2882,Real Madrid,4,1,Anderlecht,2002
+2883,Sparta Praha,4,0,Feyenoord,2002
+2884,LOSC,3,1,Olympiacos,2002
+2885,Deportivo,2,1,Man United,2002
+2886,Leverkusen,2,1,Barcelona,2002
+2887,Fenerbahçe,0,1,Lyon,2002
+2888,Celtic,1,0,Porto,2002
+2889,Rosenborg,1,1,Juventus,2002
+2890,Spartak Moskva,1,3,Bayern,2002
+2891,PSV,3,1,Galatasaray,2002
+2892,Lazio,1,3,Nantes,2002
+2893,Panathinaikos,2,0,Mallorca,2002
+2894,Arsenal,3,2,Schalke,2002
+2895,Boavista,3,1,Dynamo Kyiv,2002
+2896,Dortmund,0,0,Liverpool,2002
+2897,Real Madrid,4,0,Lokomotiv Moskva,2002
+2898,Anderlecht,0,0,Roma,2002
+2899,Bayern,0,0,Sparta Praha,2002
+2900,Deportivo,2,2,Olympiacos,2002
+2901,Man United,1,0,LOSC,2002
+2902,Fenerbahçe,0,3,Barcelona,2002
+2903,Lyon,0,1,Leverkusen,2002
+2904,Rosenborg,1,2,Porto,2002
+2905,Juventus,3,2,Celtic,2002
+2906,Spartak Moskva,2,2,Feyenoord,2002
+2907,Juventus,0,0,Milan,2003
+2908,Juventus,3,1,Real Madrid,2003
+2909,Inter,1,1,Milan,2003
+2910,Milan,0,0,Inter,2003
+2911,Real Madrid,2,1,Juventus,2003
+2912,Milan,3,2,Ajax,2003
+2913,Man United,4,3,Real Madrid,2003
+2914,Barcelona,1,2,Juventus,2003
+2915,Valencia,2,1,Inter,2003
+2916,Juventus,1,1,Barcelona,2003
+2917,Inter,1,0,Valencia,2003
+2918,Ajax,0,0,Milan,2003
+2919,Real Madrid,3,1,Man United,2003
+2920,Valencia,2,1,Arsenal,2003
+2921,Roma,1,1,Ajax,2003
+2922,Newcastle,0,2,Barcelona,2003
+2923,Leverkusen,0,2,Inter,2003
+2924,Deportivo,2,0,Man United,2003
+2925,Basel,2,1,Juventus,2003
+2926,Lokomotiv Moskva,0,1,Real Madrid,2003
+2927,Milan,0,1,Dortmund,2003
+2928,Juventus,3,2,Deportivo,2003
+2929,Man United,1,1,Basel,2003
+2930,Dortmund,3,0,Lokomotiv Moskva,2003
+2931,Real Madrid,3,1,Milan,2003
+2932,Ajax,1,1,Valencia,2003
+2933,Arsenal,1,1,Roma,2003
+2934,Inter,2,2,Newcastle,2003
+2935,Barcelona,2,0,Leverkusen,2003
+2936,Valencia,0,3,Roma,2003
+2937,Ajax,0,0,Arsenal,2003
+2938,Newcastle,3,1,Leverkusen,2003
+2939,Inter,0,0,Barcelona,2003
+2940,Deportivo,1,0,Basel,2003
+2941,Juventus,0,3,Man United,2003
+2942,Dortmund,1,1,Real Madrid,2003
+2943,Lokomotiv Moskva,0,1,Milan,2003
+2944,Basel,1,0,Deportivo,2003
+2945,Man United,2,1,Juventus,2003
+2946,Milan,1,0,Lokomotiv Moskva,2003
+2947,Real Madrid,2,1,Dortmund,2003
+2948,Roma,0,1,Valencia,2003
+2949,Arsenal,1,1,Ajax,2003
+2950,Leverkusen,1,3,Newcastle,2003
+2951,Barcelona,3,0,Inter,2003
+2952,Man United,2,0,Deportivo,2003
+2953,Juventus,4,0,Basel,2003
+2954,Real Madrid,2,2,Lokomotiv Moskva,2003
+2955,Dortmund,0,1,Milan,2003
+2956,Barcelona,3,1,Newcastle,2003
+2957,Arsenal,0,0,Valencia,2003
+2958,Ajax,2,1,Roma,2003
+2959,Inter,3,2,Leverkusen,2003
+2960,Valencia,1,1,Ajax,2003
+2961,Roma,1,3,Arsenal,2003
+2962,Newcastle,1,4,Inter,2003
+2963,Leverkusen,1,2,Barcelona,2003
+2964,Deportivo,2,2,Juventus,2003
+2965,Basel,1,3,Man United,2003
+2966,Milan,1,0,Real Madrid,2003
+2967,Lokomotiv Moskva,1,2,Dortmund,2003
+2968,Milan,1,2,Deportivo,2003
+2969,Bayern,3,3,Lens,2003
+2970,Olympiacos,3,3,M. Haifa,2003
+2971,Man United,2,0,Leverkusen,2003
+2972,Dynamo Kyiv,1,2,Juventus,2003
+2973,Feyenoord,2,3,Newcastle,2003
+2974,Barcelona,3,1,Galatasaray,2003
+2975,Lokomotiv Moskva,2,0,Club Brugge,2003
+2976,Ajax,1,2,Inter,2003
+2977,Rosenborg,1,1,Lyon,2003
+2978,Roma,1,1,AEK,2003
+2979,Genk,1,1,Real Madrid,2003
+2980,Basel,3,3,Liverpool,2003
+2981,Valencia,3,0,Spartak Moskva,2003
+2982,Arsenal,0,0,PSV,2003
+2983,Auxerre,1,0,Dortmund,2003
+2984,Spartak Moskva,0,2,Basel,2003
+2985,Lyon,0,2,Ajax,2003
+2986,Inter,3,0,Rosenborg,2003
+2987,Real Madrid,0,1,Roma,2003
+2988,AEK,1,1,Genk,2003
+2989,Liverpool,0,1,Valencia,2003
+2990,Dortmund,2,1,Arsenal,2003
+2991,PSV,3,0,Auxerre,2003
+2992,Newcastle,2,1,Dynamo Kyiv,2003
+2993,Club Brugge,0,1,Barcelona,2003
+2994,Galatasaray,1,2,Lokomotiv Moskva,2003
+2995,Lens,2,1,Milan,2003
+2996,Deportivo,2,1,Bayern,2003
+2997,Leverkusen,2,0,Olympiacos,2003
+2998,M. Haifa,3,0,Man United,2003
+2999,Juventus,2,0,Feyenoord,2003
+3000,Newcastle,1,0,Juventus,2003
+3001,Barcelona,1,0,Lokomotiv Moskva,2003
+3002,Club Brugge,3,1,Galatasaray,2003
+3003,Milan,2,1,Bayern,2003
+3004,Lens,3,1,Deportivo,2003
+3005,Olympiacos,2,3,Man United,2003
+3006,Leverkusen,2,1,M. Haifa,2003
+3007,Dynamo Kyiv,2,0,Feyenoord,2003
+3008,Ajax,1,1,Rosenborg,2003
+3009,Lyon,3,3,Inter,2003
+3010,Roma,0,0,Genk,2003
+3011,Real Madrid,2,2,AEK,2003
+3012,Basel,2,2,Valencia,2003
+3013,Arsenal,1,2,Auxerre,2003
+3014,Dortmund,1,1,PSV,2003
+3015,Spartak Moskva,1,3,Liverpool,2003
+3016,Rosenborg,0,0,Ajax,2003
+3017,Inter,1,2,Lyon,2003
+3018,Genk,0,1,Roma,2003
+3019,AEK,3,3,Real Madrid,2003
+3020,Valencia,6,2,Basel,2003
+3021,Liverpool,5,0,Spartak Moskva,2003
+3022,Auxerre,0,1,Arsenal,2003
+3023,PSV,1,3,Dortmund,2003
+3024,Galatasaray,0,0,Club Brugge,2003
+3025,Bayern,1,2,Milan,2003
+3026,Deportivo,3,1,Lens,2003
+3027,Man United,4,0,Olympiacos,2003
+3028,M. Haifa,0,2,Leverkusen,2003
+3029,Feyenoord,0,0,Dynamo Kyiv,2003
+3030,Juventus,2,0,Newcastle,2003
+3031,Lokomotiv Moskva,1,3,Barcelona,2003
+3032,Inter,1,0,Ajax,2003
+3033,Lyon,5,0,Rosenborg,2003
+3034,AEK,0,0,Roma,2003
+3035,Real Madrid,6,0,Genk,2003
+3036,Liverpool,1,1,Basel,2003
+3037,PSV,0,4,Arsenal,2003
+3038,Dortmund,2,1,Auxerre,2003
+3039,Spartak Moskva,0,3,Valencia,2003
+3040,Newcastle,0,1,Feyenoord,2003
+3041,Galatasaray,0,2,Barcelona,2003
+3042,Club Brugge,0,0,Lokomotiv Moskva,2003
+3043,Deportivo,0,4,Milan,2003
+3044,Lens,1,1,Bayern,2003
+3045,M. Haifa,3,0,Olympiacos,2003
+3046,Leverkusen,1,2,Man United,2003
+3047,Juventus,5,0,Dynamo Kyiv,2003
+3048,Barcelona,3,2,Club Brugge,2003
+3049,Milan,2,1,Lens,2003
+3050,Bayern,2,3,Deportivo,2003
+3051,Olympiacos,6,2,Leverkusen,2003
+3052,Man United,5,2,M. Haifa,2003
+3053,Dynamo Kyiv,2,0,Newcastle,2003
+3054,Feyenoord,1,1,Juventus,2003
+3055,Lokomotiv Moskva,0,2,Galatasaray,2003
+3056,Ajax,2,1,Lyon,2003
+3057,Rosenborg,2,2,Inter,2003
+3058,Roma,0,3,Real Madrid,2003
+3059,Genk,0,0,AEK,2003
+3060,Basel,2,0,Spartak Moskva,2003
+3061,Valencia,2,0,Liverpool,2003
+3062,Arsenal,2,0,Dortmund,2003
+3063,Auxerre,0,0,PSV,2003
+3064,Juventus,(2),(3),Milan,2003
+3065,Monaco,0,3,Porto,2004
+3066,Chelsea,2,2,Monaco,2004
+3067,Deportivo,0,1,Porto,2004
+3068,Porto,0,0,Deportivo,2004
+3069,Monaco,3,1,Chelsea,2004
+3070,Deportivo,4,0,Milan,2004
+3071,Lyon,2,2,Porto,2004
+3072,Arsenal,1,2,Chelsea,2004
+3073,Monaco,3,1,Real Madrid,2004
+3074,Chelsea,1,1,Arsenal,2004
+3075,Real Madrid,4,2,Monaco,2004
+3076,Milan,4,1,Deportivo,2004
+3077,Porto,2,0,Lyon,2004
+3078,Monaco,1,0,Lokomotiv Moskva,2004
+3079,Milan,4,1,Sparta Praha,2004
+3080,Real Madrid,1,0,Bayern,2004
+3081,Arsenal,2,0,Celta,2004
+3082,Juventus,0,1,Deportivo,2004
+3083,Lyon,1,0,Real Sociedad,2004
+3084,Man United,1,1,Porto,2004
+3085,Chelsea,0,0,Stuttgart,2004
+3086,Deportivo,1,0,Juventus,2004
+3087,Real Sociedad,0,1,Lyon,2004
+3088,Porto,2,1,Man United,2004
+3089,Stuttgart,0,1,Chelsea,2004
+3090,Sparta Praha,0,0,Milan,2004
+3091,Bayern,1,1,Real Madrid,2004
+3092,Celta,2,3,Arsenal,2004
+3093,Lokomotiv Moskva,2,1,Monaco,2004
+3094,Real Sociedad,1,1,Galatasaray,2004
+3095,Juventus,7,0,Olympiacos,2004
+3096,PSV,3,2,Deportivo,2004
+3097,AEK,0,0,Monaco,2004
+3098,Arsenal,2,0,Lokomotiv Moskva,2004
+3099,Dynamo Kyiv,1,1,Inter,2004
+3100,Bayern,1,0,Anderlecht,2004
+3101,Lyon,3,2,Celtic,2004
+3102,Club Brugge,2,1,Ajax,2004
+3103,Milan,1,2,Celta,2004
+3104,Beşiktaş,0,2,Chelsea,2004
+3105,Sparta Praha,1,0,Lazio,2004
+3106,Partizan,1,1,Marseille,2004
+3107,Real Madrid,1,1,Porto,2004
+3108,Man United,2,0,Stuttgart,2004
+3109,Rangers,1,3,Panathinaikos,2004
+3110,Galatasaray,2,0,Juventus,2004
+3111,Celta,1,1,Club Brugge,2004
+3112,Ajax,0,1,Milan,2004
+3113,Lazio,1,1,Beşiktaş,2004
+3114,Chelsea,0,0,Sparta Praha,2004
+3115,Porto,2,1,Partizan,2004
+3116,Marseille,1,2,Real Madrid,2004
+3117,Panathinaikos,0,1,Man United,2004
+3118,Stuttgart,1,0,Rangers,2004
+3119,Olympiacos,2,2,Real Sociedad,2004
+3120,Monaco,1,1,PSV,2004
+3121,Deportivo,3,0,AEK,2004
+3122,Inter,1,5,Arsenal,2004
+3123,Celtic,0,0,Bayern,2004
+3124,Anderlecht,1,0,Lyon,2004
+3125,Lokomotiv Moskva,3,2,Dynamo Kyiv,2004
+3126,Real Sociedad,0,0,Juventus,2004
+3127,Olympiacos,3,0,Galatasaray,2004
+3128,PSV,2,0,AEK,2004
+3129,Monaco,8,3,Deportivo,2004
+3130,Arsenal,1,0,Dynamo Kyiv,2004
+3131,Inter,1,1,Lokomotiv Moskva,2004
+3132,Bayern,1,2,Lyon,2004
+3133,Celtic,3,1,Anderlecht,2004
+3134,Club Brugge,0,1,Milan,2004
+3135,Celta,3,2,Ajax,2004
+3136,Beşiktaş,1,0,Sparta Praha,2004
+3137,Lazio,0,4,Chelsea,2004
+3138,Partizan,0,0,Real Madrid,2004
+3139,Porto,1,0,Marseille,2004
+3140,Man United,3,0,Rangers,2004
+3141,Panathinaikos,1,3,Stuttgart,2004
+3142,Milan,0,1,Club Brugge,2004
+3143,Ajax,1,0,Celta,2004
+3144,Sparta Praha,2,1,Beşiktaş,2004
+3145,Chelsea,2,1,Lazio,2004
+3146,Real Madrid,1,0,Partizan,2004
+3147,Marseille,2,3,Porto,2004
+3148,Rangers,0,1,Man United,2004
+3149,Stuttgart,2,0,Panathinaikos,2004
+3150,Juventus,4,2,Real Sociedad,2004
+3151,Galatasaray,1,0,Olympiacos,2004
+3152,AEK,0,1,PSV,2004
+3153,Deportivo,1,0,Monaco,2004
+3154,Dynamo Kyiv,2,1,Arsenal,2004
+3155,Lyon,1,1,Bayern,2004
+3156,Anderlecht,1,0,Celtic,2004
+3157,Lokomotiv Moskva,3,0,Inter,2004
+3158,Ajax,2,0,Club Brugge,2004
+3159,Celta,0,0,Milan,2004
+3160,Chelsea,0,2,Beşiktaş,2004
+3161,Lazio,2,2,Sparta Praha,2004
+3162,Marseille,3,0,Partizan,2004
+3163,Porto,1,3,Real Madrid,2004
+3164,Stuttgart,2,1,Man United,2004
+3165,Panathinaikos,1,1,Rangers,2004
+3166,Galatasaray,1,2,Real Sociedad,2004
+3167,Olympiacos,1,2,Juventus,2004
+3168,Deportivo,2,0,PSV,2004
+3169,Monaco,4,0,AEK,2004
+3170,Inter,2,1,Dynamo Kyiv,2004
+3171,Anderlecht,1,1,Bayern,2004
+3172,Celtic,2,0,Lyon,2004
+3173,Lokomotiv Moskva,0,0,Arsenal,2004
+3174,Real Sociedad,1,0,Olympiacos,2004
+3175,Juventus,2,1,Galatasaray,2004
+3176,PSV,1,2,Monaco,2004
+3177,AEK,1,1,Deportivo,2004
+3178,Arsenal,0,3,Inter,2004
+3179,Dynamo Kyiv,2,0,Lokomotiv Moskva,2004
+3180,Bayern,2,1,Celtic,2004
+3181,Lyon,1,0,Anderlecht,2004
+3182,Club Brugge,1,1,Celta,2004
+3183,Milan,1,0,Ajax,2004
+3184,Beşiktaş,0,2,Lazio,2004
+3185,Sparta Praha,0,1,Chelsea,2004
+3186,Partizan,1,1,Porto,2004
+3187,Real Madrid,4,2,Marseille,2004
+3188,Man United,5,0,Panathinaikos,2004
+3189,Rangers,2,1,Stuttgart,2004
+3190,Milan,3,3,Liverpool,2005
+3191,PSV,3,1,Milan,2005
+3192,Liverpool,1,0,Chelsea,2005
+3193,Chelsea,0,0,Liverpool,2005
+3194,Milan,2,0,PSV,2005
+3195,PSV,1,1,Lyon,2005
+3196,Juventus,0,0,Liverpool,2005
+3197,Bayern,3,2,Chelsea,2005
+3198,Inter,0,3,Milan,2005
+3199,Chelsea,4,2,Bayern,2005
+3200,Milan,2,0,Inter,2005
+3201,Lyon,1,1,PSV,2005
+3202,Liverpool,2,1,Juventus,2005
+3203,Inter,3,1,Porto,2005
+3204,Arsenal,1,0,Bayern,2005
+3205,Monaco,0,2,PSV,2005
+3206,Leverkusen,1,3,Liverpool,2005
+3207,Juventus,2,0,Real Madrid,2005
+3208,Lyon,7,2,Bremen,2005
+3209,Milan,1,0,Man United,2005
+3210,Chelsea,4,2,Barcelona,2005
+3211,Bremen,0,3,Lyon,2005
+3212,Man United,0,1,Milan,2005
+3213,Barcelona,2,1,Chelsea,2005
+3214,Porto,1,1,Inter,2005
+3215,Bayern,3,1,Arsenal,2005
+3216,PSV,1,0,Monaco,2005
+3217,Liverpool,3,1,Leverkusen,2005
+3218,Real Madrid,1,0,Juventus,2005
+3219,Lyon,5,0,Sparta Praha,2005
+3220,Fenerbahçe,3,0,Man United,2005
+3221,M. Tel-Aviv,1,1,Juventus,2005
+3222,Ajax,2,2,Bayern,2005
+3223,Roma,0,3,Real Madrid,2005
+3224,Leverkusen,3,0,Dynamo Kyiv,2005
+3225,Deportivo,0,5,Monaco,2005
+3226,Liverpool,3,1,Olympiacos,2005
+3227,Porto,2,1,Chelsea,2005
+3228,Paris,1,3,CSKA Moskva,2005
+3229,Inter,3,0,Anderlecht,2005
+3230,Valencia,0,2,Bremen,2005
+3231,Celtic,0,0,Milan,2005
+3232,Shakhtar Donetsk,2,0,Barcelona,2005
+3233,Arsenal,5,1,Rosenborg,2005
+3234,Panathinaikos,4,1,PSV,2005
+3235,Chelsea,0,0,Paris,2005
+3236,Bremen,1,1,Inter,2005
+3237,Anderlecht,1,2,Valencia,2005
+3238,Barcelona,1,1,Celtic,2005
+3239,Milan,4,0,Shakhtar Donetsk,2005
+3240,PSV,1,1,Arsenal,2005
+3241,Rosenborg,2,2,Panathinaikos,2005
+3242,CSKA Moskva,0,1,Porto,2005
+3243,Man United,2,1,Lyon,2005
+3244,Sparta Praha,0,1,Fenerbahçe,2005
+3245,Bayern,5,1,M. Tel-Aviv,2005
+3246,Juventus,1,0,Ajax,2005
+3247,Dynamo Kyiv,2,0,Roma,2005
+3248,Real Madrid,1,1,Leverkusen,2005
+3249,Olympiacos,1,0,Deportivo,2005
+3250,Monaco,1,0,Liverpool,2005
+3251,Lyon,4,2,Fenerbahçe,2005
+3252,Man United,4,1,Sparta Praha,2005
+3253,M. Tel-Aviv,2,1,Ajax,2005
+3254,Bayern,0,1,Juventus,2005
+3255,Roma,1,1,Leverkusen,2005
+3256,Dynamo Kyiv,2,2,Real Madrid,2005
+3257,Deportivo,0,1,Liverpool,2005
+3258,Olympiacos,1,0,Monaco,2005
+3259,Porto,0,0,Paris,2005
+3260,Inter,0,0,Valencia,2005
+3261,Bremen,5,1,Anderlecht,2005
+3262,Celtic,1,0,Shakhtar Donetsk,2005
+3263,Barcelona,2,1,Milan,2005
+3264,Arsenal,1,1,Panathinaikos,2005
+3265,PSV,1,0,Rosenborg,2005
+3266,CSKA Moskva,0,1,Chelsea,2005
+3267,Paris,2,0,Porto,2005
+3268,Chelsea,2,0,CSKA Moskva,2005
+3269,Valencia,1,5,Inter,2005
+3270,Anderlecht,1,2,Bremen,2005
+3271,Shakhtar Donetsk,3,0,Celtic,2005
+3272,Milan,1,0,Barcelona,2005
+3273,Panathinaikos,2,2,Arsenal,2005
+3274,Rosenborg,1,2,PSV,2005
+3275,Fenerbahçe,1,3,Lyon,2005
+3276,Sparta Praha,0,0,Man United,2005
+3277,Ajax,3,0,M. Tel-Aviv,2005
+3278,Juventus,1,0,Bayern,2005
+3279,Leverkusen,3,1,Roma,2005
+3280,Real Madrid,1,0,Dynamo Kyiv,2005
+3281,Liverpool,0,0,Deportivo,2005
+3282,Monaco,2,1,Olympiacos,2005
+3283,Chelsea,3,1,Porto,2005
+3284,Anderlecht,1,3,Inter,2005
+3285,Bremen,2,1,Valencia,2005
+3286,Milan,3,1,Celtic,2005
+3287,Barcelona,3,0,Shakhtar Donetsk,2005
+3288,Rosenborg,1,1,Arsenal,2005
+3289,PSV,1,0,Panathinaikos,2005
+3290,CSKA Moskva,2,0,Paris,2005
+3291,Sparta Praha,1,2,Lyon,2005
+3292,Man United,6,2,Fenerbahçe,2005
+3293,Juventus,1,0,M. Tel-Aviv,2005
+3294,Bayern,4,0,Ajax,2005
+3295,Real Madrid,4,2,Roma,2005
+3296,Dynamo Kyiv,4,2,Leverkusen,2005
+3297,Monaco,2,0,Deportivo,2005
+3298,Olympiacos,1,0,Liverpool,2005
+3299,Roma,0,3,Dynamo Kyiv,2005
+3300,Lyon,2,2,Man United,2005
+3301,Fenerbahçe,1,0,Sparta Praha,2005
+3302,M. Tel-Aviv,0,1,Bayern,2005
+3303,Ajax,0,1,Juventus,2005
+3304,Leverkusen,3,0,Real Madrid,2005
+3305,Deportivo,0,0,Olympiacos,2005
+3306,Liverpool,2,0,Monaco,2005
+3307,Celtic,1,3,Barcelona,2005
+3308,Porto,0,0,CSKA Moskva,2005
+3309,Paris,0,3,Chelsea,2005
+3310,Inter,2,0,Bremen,2005
+3311,Valencia,2,0,Anderlecht,2005
+3312,Shakhtar Donetsk,0,1,Milan,2005
+3313,Arsenal,1,0,PSV,2005
+3314,Panathinaikos,2,1,Rosenborg,2005
+3315,Milan,(2),(3),Liverpool,2005
+3316,PSV,(4),(2),Lyon,2005
+3317,Barcelona,2,1,Arsenal,2006
+3318,Barcelona,0,0,Milan,2006
+3319,Villarreal,0,0,Arsenal,2006
+3320,Arsenal,1,0,Villarreal,2006
+3321,Milan,0,1,Barcelona,2006
+3322,Juventus,0,0,Arsenal,2006
+3323,Barcelona,2,0,Benfica,2006
+3324,Villarreal,1,0,Inter,2006
+3325,Milan,3,1,Lyon,2006
+3326,Inter,2,1,Villarreal,2006
+3327,Lyon,0,0,Milan,2006
+3328,Arsenal,2,0,Juventus,2006
+3329,Benfica,0,0,Barcelona,2006
+3330,Inter,1,0,Ajax,2006
+3331,Liverpool,0,2,Benfica,2006
+3332,Lyon,4,0,PSV,2006
+3333,Milan,4,1,Bayern,2006
+3334,Arsenal,0,0,Real Madrid,2006
+3335,Villarreal,1,1,Rangers,2006
+3336,Juventus,2,1,Bremen,2006
+3337,Barcelona,1,1,Chelsea,2006
+3338,Rangers,2,2,Villarreal,2006
+3339,Ajax,2,2,Inter,2006
+3340,Bremen,3,2,Juventus,2006
+3341,Chelsea,1,2,Barcelona,2006
+3342,Benfica,1,0,Liverpool,2006
+3343,PSV,0,1,Lyon,2006
+3344,Bayern,1,1,Milan,2006
+3345,Real Madrid,0,1,Arsenal,2006
+3346,Benfica,2,1,Man United,2006
+3347,Villarreal,1,0,LOSC,2006
+3348,Bremen,5,1,Panathinaikos,2006
+3349,Udinese,0,2,Barcelona,2006
+3350,Arsenal,0,0,Ajax,2006
+3351,Sparta Praha,0,0,Thun,2006
+3352,Club Brugge,1,1,Bayern,2006
+3353,Rapid Wien,1,3,Juventus,2006
+3354,Petržalka,0,0,Porto,2006
+3355,Rangers,1,1,Inter,2006
+3356,Betis,0,1,Anderlecht,2006
+3357,Chelsea,0,0,Liverpool,2006
+3358,Olympiacos,2,1,Real Madrid,2006
+3359,Lyon,2,1,Rosenborg,2006
+3360,PSV,2,0,Fenerbahçe,2006
+3361,Milan,3,2,Schalke,2006
+3362,Inter,4,0,Petržalka,2006
+3363,Porto,1,1,Rangers,2006
+3364,Liverpool,0,0,Betis,2006
+3365,Anderlecht,0,2,Chelsea,2006
+3366,Rosenborg,1,1,Olympiacos,2006
+3367,Real Madrid,1,1,Lyon,2006
+3368,Schalke,3,0,PSV,2006
+3369,Fenerbahçe,0,4,Milan,2006
+3370,LOSC,0,0,Benfica,2006
+3371,Man United,0,0,Villarreal,2006
+3372,Barcelona,3,1,Bremen,2006
+3373,Panathinaikos,1,2,Udinese,2006
+3374,Thun,0,1,Arsenal,2006
+3375,Ajax,2,1,Sparta Praha,2006
+3376,Juventus,1,0,Club Brugge,2006
+3377,Bayern,4,0,Rapid Wien,2006
+3378,Benfica,0,1,Villarreal,2006
+3379,LOSC,1,0,Man United,2006
+3380,Bremen,4,3,Udinese,2006
+3381,Barcelona,5,0,Panathinaikos,2006
+3382,Arsenal,3,0,Sparta Praha,2006
+3383,Thun,2,4,Ajax,2006
+3384,Club Brugge,3,2,Rapid Wien,2006
+3385,Juventus,2,1,Bayern,2006
+3386,Petržalka,2,2,Rangers,2006
+3387,Inter,2,1,Porto,2006
+3388,Betis,1,0,Chelsea,2006
+3389,Liverpool,3,0,Anderlecht,2006
+3390,Olympiacos,1,4,Lyon,2006
+3391,Rosenborg,0,2,Real Madrid,2006
+3392,PSV,1,0,Milan,2006
+3393,Schalke,2,0,Fenerbahçe,2006
+3394,Rangers,0,0,Petržalka,2006
+3395,Porto,2,0,Inter,2006
+3396,Chelsea,4,0,Betis,2006
+3397,Anderlecht,0,1,Liverpool,2006
+3398,Lyon,2,1,Olympiacos,2006
+3399,Real Madrid,4,1,Rosenborg,2006
+3400,Milan,0,0,PSV,2006
+3401,Fenerbahçe,3,3,Schalke,2006
+3402,Villarreal,1,1,Benfica,2006
+3403,Man United,0,0,LOSC,2006
+3404,Udinese,1,1,Bremen,2006
+3405,Panathinaikos,0,0,Barcelona,2006
+3406,Sparta Praha,0,2,Arsenal,2006
+3407,Ajax,2,0,Thun,2006
+3408,Rapid Wien,0,1,Club Brugge,2006
+3409,Bayern,2,1,Juventus,2006
+3410,Porto,2,3,Petržalka,2006
+3411,Inter,1,0,Rangers,2006
+3412,Anderlecht,0,1,Betis,2006
+3413,Liverpool,0,0,Chelsea,2006
+3414,Real Madrid,2,1,Olympiacos,2006
+3415,Rosenborg,0,1,Lyon,2006
+3416,Fenerbahçe,3,0,PSV,2006
+3417,Schalke,2,2,Milan,2006
+3418,Man United,2,1,Benfica,2006
+3419,LOSC,0,0,Villarreal,2006
+3420,Panathinaikos,2,1,Bremen,2006
+3421,Barcelona,4,1,Udinese,2006
+3422,Ajax,1,2,Arsenal,2006
+3423,Thun,1,0,Sparta Praha,2006
+3424,Bayern,1,0,Club Brugge,2006
+3425,Juventus,3,0,Rapid Wien,2006
+3426,Benfica,1,0,LOSC,2006
+3427,Villarreal,0,0,Man United,2006
+3428,Bremen,0,2,Barcelona,2006
+3429,Udinese,3,0,Panathinaikos,2006
+3430,Arsenal,2,1,Thun,2006
+3431,Sparta Praha,1,1,Ajax,2006
+3432,Club Brugge,1,2,Juventus,2006
+3433,Rapid Wien,0,1,Bayern,2006
+3434,Petržalka,0,1,Inter,2006
+3435,Rangers,3,2,Porto,2006
+3436,Betis,1,2,Liverpool,2006
+3437,Chelsea,1,0,Anderlecht,2006
+3438,Olympiacos,1,3,Rosenborg,2006
+3439,Lyon,3,0,Real Madrid,2006
+3440,PSV,1,0,Schalke,2006
+3441,Milan,3,1,Fenerbahçe,2006
+3442,Milan,2,1,Liverpool,2007
+3443,Milan,3,0,Man United,2007
+3444,Liverpool,1,0,Chelsea,2007
+3445,Chelsea,1,0,Liverpool,2007
+3446,Man United,3,2,Milan,2007
+3447,Liverpool,1,0,PSV,2007
+3448,Bayern,0,2,Milan,2007
+3449,Valencia,1,2,Chelsea,2007
+3450,Man United,7,1,Roma,2007
+3451,Chelsea,1,1,Valencia,2007
+3452,Roma,2,1,Man United,2007
+3453,PSV,0,3,Liverpool,2007
+3454,Milan,2,2,Bayern,2007
+3455,Bayern,2,1,Real Madrid,2007
+3456,Man United,1,0,LOSC,2007
+3457,Arsenal,1,1,PSV,2007
+3458,Milan,1,0,Celtic,2007
+3459,Valencia,0,0,Inter,2007
+3460,Chelsea,2,1,Porto,2007
+3461,Liverpool,0,1,Barcelona,2007
+3462,Lyon,0,2,Roma,2007
+3463,Inter,2,2,Valencia,2007
+3464,Porto,1,1,Chelsea,2007
+3465,Barcelona,1,2,Liverpool,2007
+3466,Roma,0,0,Lyon,2007
+3467,Real Madrid,3,2,Bayern,2007
+3468,LOSC,0,1,Man United,2007
+3469,PSV,1,0,Arsenal,2007
+3470,Celtic,0,0,Milan,2007
+3471,Milan,0,2,LOSC,2007
+3472,Anderlecht,2,2,AEK,2007
+3473,Hamburg,3,2,CSKA Moskva,2007
+3474,Porto,0,0,Arsenal,2007
+3475,Copenhagen,3,1,Celtic,2007
+3476,Man United,3,1,Benfica,2007
+3477,Lyon,1,1,FCSB,2007
+3478,Dynamo Kyiv,2,2,Real Madrid,2007
+3479,Roma,1,0,Valencia,2007
+3480,Olympiacos,1,1,Shakhtar Donetsk,2007
+3481,PSV,1,3,Bordeaux,2007
+3482,Galatasaray,3,2,Liverpool,2007
+3483,Bayern,1,1,Inter,2007
+3484,Sporting CP,1,3,Spartak Moskva,2007
+3485,Barcelona,2,0,Bremen,2007
+3486,Chelsea,2,0,Levski,2007
+3487,Shakhtar Donetsk,1,0,Roma,2007
+3488,Valencia,2,0,Olympiacos,2007
+3489,Liverpool,2,0,PSV,2007
+3490,Bordeaux,3,1,Galatasaray,2007
+3491,Inter,1,0,Sporting CP,2007
+3492,Levski,0,2,Barcelona,2007
+3493,Bremen,1,0,Chelsea,2007
+3494,Spartak Moskva,2,2,Bayern,2007
+3495,AEK,1,0,Milan,2007
+3496,LOSC,2,2,Anderlecht,2007
+3497,Arsenal,3,1,Hamburg,2007
+3498,Benfica,3,1,Copenhagen,2007
+3499,Celtic,1,0,Man United,2007
+3500,Real Madrid,2,2,Lyon,2007
+3501,FCSB,1,1,Dynamo Kyiv,2007
+3502,CSKA Moskva,0,2,Porto,2007
+3503,Milan,4,1,Anderlecht,2007
+3504,AEK,1,0,LOSC,2007
+3505,Hamburg,1,3,Porto,2007
+3506,Arsenal,0,0,CSKA Moskva,2007
+3507,Copenhagen,1,0,Man United,2007
+3508,Benfica,3,0,Celtic,2007
+3509,Lyon,1,0,Dynamo Kyiv,2007
+3510,Real Madrid,1,0,FCSB,2007
+3511,Roma,1,1,Olympiacos,2007
+3512,Shakhtar Donetsk,2,2,Valencia,2007
+3513,PSV,2,0,Galatasaray,2007
+3514,Liverpool,3,0,Bordeaux,2007
+3515,Bayern,0,0,Sporting CP,2007
+3516,Barcelona,2,2,Chelsea,2007
+3517,Levski,0,3,Bremen,2007
+3518,Spartak Moskva,0,1,Inter,2007
+3519,Olympiacos,0,1,Roma,2007
+3520,Valencia,2,0,Shakhtar Donetsk,2007
+3521,Galatasaray,1,2,PSV,2007
+3522,Bordeaux,0,1,Liverpool,2007
+3523,Sporting CP,0,1,Bayern,2007
+3524,Inter,2,1,Spartak Moskva,2007
+3525,Chelsea,1,0,Barcelona,2007
+3526,Bremen,2,0,Levski,2007
+3527,Anderlecht,0,1,Milan,2007
+3528,LOSC,3,1,AEK,2007
+3529,Porto,4,1,Hamburg,2007
+3530,Man United,3,0,Copenhagen,2007
+3531,Celtic,3,0,Benfica,2007
+3532,Dynamo Kyiv,0,3,Lyon,2007
+3533,FCSB,1,4,Real Madrid,2007
+3534,CSKA Moskva,1,0,Arsenal,2007
+3535,Valencia,2,1,Roma,2007
+3536,Shakhtar Donetsk,2,2,Olympiacos,2007
+3537,Bordeaux,0,1,PSV,2007
+3538,Liverpool,3,2,Galatasaray,2007
+3539,Inter,0,2,Bayern,2007
+3540,Bremen,1,1,Barcelona,2007
+3541,Levski,1,3,Chelsea,2007
+3542,Spartak Moskva,1,1,Sporting CP,2007
+3543,LOSC,0,0,Milan,2007
+3544,AEK,1,1,Anderlecht,2007
+3545,Arsenal,2,0,Porto,2007
+3546,Celtic,1,0,Copenhagen,2007
+3547,Benfica,0,1,Man United,2007
+3548,FCSB,0,3,Lyon,2007
+3549,Real Madrid,5,1,Dynamo Kyiv,2007
+3550,CSKA Moskva,1,0,Hamburg,2007
+3551,Milan,3,0,AEK,2007
+3552,Anderlecht,1,1,LOSC,2007
+3553,Hamburg,1,2,Arsenal,2007
+3554,Porto,0,0,CSKA Moskva,2007
+3555,Copenhagen,0,0,Benfica,2007
+3556,Man United,3,2,Celtic,2007
+3557,Lyon,2,0,Real Madrid,2007
+3558,Dynamo Kyiv,1,4,FCSB,2007
+3559,Roma,4,0,Shakhtar Donetsk,2007
+3560,Olympiacos,2,4,Valencia,2007
+3561,PSV,0,0,Liverpool,2007
+3562,Galatasaray,0,0,Bordeaux,2007
+3563,Bayern,4,0,Spartak Moskva,2007
+3564,Sporting CP,1,0,Inter,2007
+3565,Barcelona,5,0,Levski,2007
+3566,Chelsea,2,0,Bremen,2007
+3567,Liverpool,(4),(1),Chelsea,2007
+3568,Man United,1,1,Chelsea,2008
+3569,Chelsea,3,2,Liverpool,2008
+3570,Man United,1,0,Barcelona,2008
+3571,Barcelona,0,0,Man United,2008
+3572,Liverpool,1,1,Chelsea,2008
+3573,Man United,1,0,Roma,2008
+3574,Barcelona,1,0,Schalke,2008
+3575,Liverpool,4,2,Arsenal,2008
+3576,Chelsea,2,0,Fenerbahçe,2008
+3577,Fenerbahçe,2,1,Chelsea,2008
+3578,Arsenal,1,1,Liverpool,2008
+3579,Schalke,0,1,Barcelona,2008
+3580,Roma,0,2,Man United,2008
+3581,Inter,0,1,Liverpool,2008
+3582,Porto,1,0,Schalke,2008
+3583,Chelsea,3,0,Olympiacos,2008
+3584,Real Madrid,1,2,Roma,2008
+3585,Man United,1,0,Lyon,2008
+3586,Barcelona,1,0,Celtic,2008
+3587,Sevilla,3,2,Fenerbahçe,2008
+3588,Milan,0,2,Arsenal,2008
+3589,Fenerbahçe,3,2,Sevilla,2008
+3590,Arsenal,0,0,Milan,2008
+3591,Lyon,1,1,Man United,2008
+3592,Celtic,2,3,Barcelona,2008
+3593,Olympiacos,0,0,Chelsea,2008
+3594,Roma,2,1,Real Madrid,2008
+3595,Liverpool,2,0,Inter,2008
+3596,Schalke,1,0,Porto,2008
+3597,Slavia Praha,0,3,Sevilla,2008
+3598,Arsenal,2,1,FCSB,2008
+3599,Fenerbahçe,3,1,CSKA Moskva,2008
+3600,PSV,0,1,Inter,2008
+3601,Sporting CP,3,0,Dynamo Kyiv,2008
+3602,Roma,1,1,Man United,2008
+3603,Barcelona,3,1,Stuttgart,2008
+3604,Rangers,0,3,Lyon,2008
+3605,Olympiacos,3,0,Bremen,2008
+3606,Real Madrid,3,1,Lazio,2008
+3607,Schalke,3,1,Rosenborg,2008
+3608,Chelsea,0,0,Valencia,2008
+3609,Porto,2,0,Beşiktaş,2008
+3610,Marseille,0,4,Liverpool,2008
+3611,Shakhtar Donetsk,1,2,Benfica,2008
+3612,Milan,1,0,Celtic,2008
+3613,Celtic,2,1,Shakhtar Donetsk,2008
+3614,Benfica,1,1,Milan,2008
+3615,Lazio,1,2,Olympiacos,2008
+3616,Bremen,3,2,Real Madrid,2008
+3617,Valencia,0,0,Schalke,2008
+3618,Rosenborg,0,4,Chelsea,2008
+3619,Liverpool,4,1,Porto,2008
+3620,Beşiktaş,2,1,Marseille,2008
+3621,FCSB,1,1,Slavia Praha,2008
+3622,Sevilla,3,1,Arsenal,2008
+3623,Inter,3,0,Fenerbahçe,2008
+3624,Man United,2,1,Sporting CP,2008
+3625,Dynamo Kyiv,1,4,Roma,2008
+3626,Lyon,2,2,Barcelona,2008
+3627,Stuttgart,3,2,Rangers,2008
+3628,CSKA Moskva,0,1,PSV,2008
+3629,Slavia Praha,0,0,Arsenal,2008
+3630,FCSB,0,2,Sevilla,2008
+3631,Fenerbahçe,2,0,PSV,2008
+3632,Inter,4,2,CSKA Moskva,2008
+3633,Sporting CP,2,2,Roma,2008
+3634,Man United,4,0,Dynamo Kyiv,2008
+3635,Barcelona,2,0,Rangers,2008
+3636,Lyon,4,2,Stuttgart,2008
+3637,Shakhtar Donetsk,0,3,Milan,2008
+3638,Celtic,1,0,Benfica,2008
+3639,Olympiacos,0,0,Real Madrid,2008
+3640,Lazio,2,1,Bremen,2008
+3641,Schalke,0,0,Chelsea,2008
+3642,Valencia,0,2,Rosenborg,2008
+3643,Porto,2,1,Marseille,2008
+3644,Liverpool,8,0,Beşiktaş,2008
+3645,Milan,4,1,Shakhtar Donetsk,2008
+3646,Benfica,1,0,Celtic,2008
+3647,Real Madrid,4,2,Olympiacos,2008
+3648,Bremen,2,1,Lazio,2008
+3649,Chelsea,2,0,Schalke,2008
+3650,Rosenborg,2,0,Valencia,2008
+3651,Marseille,1,1,Porto,2008
+3652,Beşiktaş,2,1,Liverpool,2008
+3653,Arsenal,7,0,Slavia Praha,2008
+3654,Sevilla,2,1,FCSB,2008
+3655,PSV,0,0,Fenerbahçe,2008
+3656,Roma,2,1,Sporting CP,2008
+3657,Dynamo Kyiv,2,4,Man United,2008
+3658,Rangers,0,0,Barcelona,2008
+3659,Stuttgart,0,2,Lyon,2008
+3660,CSKA Moskva,1,2,Inter,2008
+3661,Benfica,0,1,Shakhtar Donetsk,2008
+3662,Celtic,2,1,Milan,2008
+3663,Bremen,1,3,Olympiacos,2008
+3664,Lazio,2,2,Real Madrid,2008
+3665,Rosenborg,0,2,Schalke,2008
+3666,Valencia,1,2,Chelsea,2008
+3667,Beşiktaş,0,1,Porto,2008
+3668,Liverpool,0,1,Marseille,2008
+3669,Sevilla,4,2,Slavia Praha,2008
+3670,FCSB,0,1,Arsenal,2008
+3671,Inter,2,0,PSV,2008
+3672,Dynamo Kyiv,1,2,Sporting CP,2008
+3673,Man United,1,0,Roma,2008
+3674,Stuttgart,0,2,Barcelona,2008
+3675,Lyon,0,3,Rangers,2008
+3676,CSKA Moskva,2,2,Fenerbahçe,2008
+3677,Slavia Praha,2,1,FCSB,2008
+3678,Arsenal,3,0,Sevilla,2008
+3679,Fenerbahçe,1,0,Inter,2008
+3680,PSV,2,1,CSKA Moskva,2008
+3681,Sporting CP,0,1,Man United,2008
+3682,Roma,2,0,Dynamo Kyiv,2008
+3683,Barcelona,3,0,Lyon,2008
+3684,Rangers,2,1,Stuttgart,2008
+3685,Shakhtar Donetsk,2,0,Celtic,2008
+3686,Milan,2,1,Benfica,2008
+3687,Olympiacos,1,1,Lazio,2008
+3688,Real Madrid,2,1,Bremen,2008
+3689,Schalke,0,1,Valencia,2008
+3690,Chelsea,1,1,Rosenborg,2008
+3691,Porto,1,1,Liverpool,2008
+3692,Marseille,2,0,Beşiktaş,2008
+3693,Man United,(6),(5),Chelsea,2008
+3694,Porto,(1),(4),Schalke,2008
+3695,Sevilla,(2),(3),Fenerbahçe,2008
+3696,Barcelona,2,0,Man United,2009
+3697,Chelsea,1,1,Barcelona,2009
+3698,Arsenal,1,3,Man United,2009
+3699,Man United,1,0,Arsenal,2009
+3700,Barcelona,0,0,Chelsea,2009
+3701,Porto,0,1,Man United,2009
+3702,Arsenal,3,0,Villarreal,2009
+3703,Bayern,1,1,Barcelona,2009
+3704,Chelsea,4,4,Liverpool,2009
+3705,Barcelona,4,0,Bayern,2009
+3706,Liverpool,1,3,Chelsea,2009
+3707,Man United,2,2,Porto,2009
+3708,Villarreal,1,1,Arsenal,2009
+3709,Porto,0,0,Atlético,2009
+3710,Man United,2,0,Inter,2009
+3711,Roma,1,0,Arsenal,2009
+3712,Barcelona,5,2,Lyon,2009
+3713,Bayern,7,1,Sporting CP,2009
+3714,Panathinaikos,1,2,Villarreal,2009
+3715,Juventus,2,2,Chelsea,2009
+3716,Liverpool,4,0,Real Madrid,2009
+3717,Real Madrid,0,1,Liverpool,2009
+3718,Sporting CP,0,5,Bayern,2009
+3719,Villarreal,1,1,Panathinaikos,2009
+3720,Chelsea,1,0,Juventus,2009
+3721,Inter,0,0,Man United,2009
+3722,Arsenal,1,0,Roma,2009
+3723,Lyon,1,1,Barcelona,2009
+3724,Atlético,2,2,Porto,2009
+3725,Real Madrid,3,0,Zenit,2009
+3726,Juventus,0,0,BATE,2009
+3727,Dynamo Kyiv,1,0,Fenerbahçe,2009
+3728,Porto,2,0,Arsenal,2009
+3729,Lyon,2,3,Bayern,2009
+3730,FCSB,0,1,Fiorentina,2009
+3731,Celtic,2,0,Villarreal,2009
+3732,Man United,2,2,AaB,2009
+3733,Marseille,0,0,Atlético,2009
+3734,PSV,1,3,Liverpool,2009
+3735,Barcelona,2,3,Shakhtar Donetsk,2009
+3736,Basel,0,1,Sporting CP,2009
+3737,Bremen,2,1,Inter,2009
+3738,Panathinaikos,1,0,Anorthosis,2009
+3739,Roma,2,0,Bordeaux,2009
+3740,Chelsea,2,1,CFR Cluj,2009
+3741,Liverpool,1,0,Marseille,2009
+3742,Atlético,2,1,PSV,2009
+3743,Sporting CP,2,5,Barcelona,2009
+3744,Shakhtar Donetsk,5,0,Basel,2009
+3745,Anorthosis,2,2,Bremen,2009
+3746,Inter,0,1,Panathinaikos,2009
+3747,CFR Cluj,1,3,Roma,2009
+3748,Bordeaux,1,1,Chelsea,2009
+3749,BATE,0,1,Real Madrid,2009
+3750,Arsenal,1,0,Dynamo Kyiv,2009
+3751,Fenerbahçe,1,2,Porto,2009
+3752,Fiorentina,1,2,Lyon,2009
+3753,Bayern,3,0,FCSB,2009
+3754,AaB,2,1,Celtic,2009
+3755,Villarreal,0,0,Man United,2009
+3756,Zenit,0,0,Juventus,2009
+3757,Real Madrid,0,2,Juventus,2009
+3758,BATE,0,2,Zenit,2009
+3759,Dynamo Kyiv,1,2,Porto,2009
+3760,Arsenal,0,0,Fenerbahçe,2009
+3761,Lyon,2,0,FCSB,2009
+3762,Fiorentina,1,1,Bayern,2009
+3763,Celtic,1,1,Man United,2009
+3764,AaB,2,2,Villarreal,2009
+3765,Marseille,3,0,PSV,2009
+3766,Liverpool,1,1,Atlético,2009
+3767,Barcelona,1,1,Basel,2009
+3768,Sporting CP,1,0,Shakhtar Donetsk,2009
+3769,Bremen,0,3,Panathinaikos,2009
+3770,Anorthosis,3,3,Inter,2009
+3771,Roma,3,1,Chelsea,2009
+3772,CFR Cluj,1,2,Bordeaux,2009
+3773,PSV,2,0,Marseille,2009
+3774,Atlético,1,1,Liverpool,2009
+3775,Basel,0,5,Barcelona,2009
+3776,Shakhtar Donetsk,0,1,Sporting CP,2009
+3777,Panathinaikos,2,2,Bremen,2009
+3778,Inter,1,0,Anorthosis,2009
+3779,Chelsea,1,0,Roma,2009
+3780,Bordeaux,1,0,CFR Cluj,2009
+3781,Juventus,2,1,Real Madrid,2009
+3782,Porto,0,1,Dynamo Kyiv,2009
+3783,Fenerbahçe,2,5,Arsenal,2009
+3784,FCSB,3,5,Lyon,2009
+3785,Bayern,3,0,Fiorentina,2009
+3786,Man United,3,0,Celtic,2009
+3787,Villarreal,6,3,AaB,2009
+3788,Zenit,1,1,BATE,2009
+3789,Atlético,2,1,Marseille,2009
+3790,Liverpool,3,1,PSV,2009
+3791,Shakhtar Donetsk,1,2,Barcelona,2009
+3792,Sporting CP,2,0,Basel,2009
+3793,Inter,1,1,Bremen,2009
+3794,Anorthosis,3,1,Panathinaikos,2009
+3795,Bordeaux,1,3,Roma,2009
+3796,CFR Cluj,0,0,Chelsea,2009
+3797,BATE,2,2,Juventus,2009
+3798,Fenerbahçe,0,0,Dynamo Kyiv,2009
+3799,Arsenal,4,0,Porto,2009
+3800,Bayern,1,1,Lyon,2009
+3801,Fiorentina,0,0,FCSB,2009
+3802,Villarreal,1,0,Celtic,2009
+3803,AaB,0,3,Man United,2009
+3804,Zenit,1,2,Real Madrid,2009
+3805,Real Madrid,2,0,BATE,2009
+3806,Juventus,1,0,Zenit,2009
+3807,Dynamo Kyiv,1,1,Arsenal,2009
+3808,Porto,3,1,Fenerbahçe,2009
+3809,Lyon,2,2,Fiorentina,2009
+3810,FCSB,0,1,Bayern,2009
+3811,Celtic,0,0,AaB,2009
+3812,Man United,0,0,Villarreal,2009
+3813,Marseille,1,2,Liverpool,2009
+3814,PSV,0,3,Atlético,2009
+3815,Barcelona,3,1,Sporting CP,2009
+3816,Basel,1,2,Shakhtar Donetsk,2009
+3817,Bremen,0,0,Anorthosis,2009
+3818,Panathinaikos,0,2,Inter,2009
+3819,Roma,1,2,CFR Cluj,2009
+3820,Chelsea,4,0,Bordeaux,2009
+3821,Roma,(6),(7),Arsenal,2009
+3822,Bayern,0,2,Inter,2010
+3823,Barcelona,1,0,Inter,2010
+3824,Lyon,0,3,Bayern,2010
+3825,Bayern,1,0,Lyon,2010
+3826,Inter,3,1,Barcelona,2010
+3827,Man United,3,2,Bayern,2010
+3828,Bordeaux,1,0,Lyon,2010
+3829,Barcelona,4,1,Arsenal,2010
+3830,CSKA Moskva,0,1,Inter,2010
+3831,Inter,1,0,CSKA Moskva,2010
+3832,Arsenal,2,2,Barcelona,2010
+3833,Bayern,2,1,Man United,2010
+3834,Lyon,3,1,Bordeaux,2010
+3835,Bordeaux,2,1,Olympiacos,2010
+3836,Barcelona,4,0,Stuttgart,2010
+3837,Chelsea,0,1,Inter,2010
+3838,Sevilla,1,2,CSKA Moskva,2010
+3839,Man United,4,0,Milan,2010
+3840,Real Madrid,1,1,Lyon,2010
+3841,Fiorentina,3,2,Bayern,2010
+3842,Arsenal,5,0,Porto,2010
+3843,Inter,2,1,Chelsea,2010
+3844,CSKA Moskva,1,1,Sevilla,2010
+3845,Olympiacos,0,1,Bordeaux,2010
+3846,Stuttgart,1,1,Barcelona,2010
+3847,Porto,2,1,Arsenal,2010
+3848,Bayern,2,1,Fiorentina,2010
+3849,Milan,2,3,Man United,2010
+3850,Lyon,1,0,Real Madrid,2010
+3851,Standard Liège,1,1,AZ Alkmaar,2010
+3852,Olympiacos,1,0,Arsenal,2010
+3853,Sevilla,1,0,Rangers,2010
+3854,Stuttgart,3,1,Unirea Urziceni,2010
+3855,Dynamo Kyiv,1,2,Barcelona,2010
+3856,Inter,2,0,Rubin,2010
+3857,Lyon,4,0,Debrecen,2010
+3858,Liverpool,1,2,Fiorentina,2010
+3859,Atlético,0,3,Porto,2010
+3860,Chelsea,2,2,APOEL,2010
+3861,Marseille,1,3,Real Madrid,2010
+3862,Zürich,1,1,Milan,2010
+3863,M. Haifa,0,1,Bordeaux,2010
+3864,Juventus,1,4,Bayern,2010
+3865,Wolfsburg,1,3,Man United,2010
+3866,Beşiktaş,1,2,CSKA Moskva,2010
+3867,APOEL,1,1,Atlético,2010
+3868,Porto,0,1,Chelsea,2010
+3869,Milan,1,1,Marseille,2010
+3870,Real Madrid,1,0,Zürich,2010
+3871,Bayern,1,0,M. Haifa,2010
+3872,Bordeaux,2,0,Juventus,2010
+3873,Man United,0,1,Beşiktaş,2010
+3874,CSKA Moskva,2,1,Wolfsburg,2010
+3875,Arsenal,2,0,Standard Liège,2010
+3876,AZ Alkmaar,0,0,Olympiacos,2010
+3877,Unirea Urziceni,1,0,Sevilla,2010
+3878,Rangers,0,2,Stuttgart,2010
+3879,Barcelona,2,0,Inter,2010
+3880,Fiorentina,1,0,Lyon,2010
+3881,Debrecen,0,1,Liverpool,2010
+3882,Rubin,0,0,Dynamo Kyiv,2010
+3883,Standard Liège,2,0,Olympiacos,2010
+3884,Arsenal,4,1,AZ Alkmaar,2010
+3885,Sevilla,1,1,Stuttgart,2010
+3886,Unirea Urziceni,1,1,Rangers,2010
+3887,Dynamo Kyiv,1,2,Inter,2010
+3888,Lyon,1,1,Liverpool,2010
+3889,Fiorentina,5,2,Debrecen,2010
+3890,Rubin,0,0,Barcelona,2010
+3891,Atlético,2,2,Chelsea,2010
+3892,APOEL,0,1,Porto,2010
+3893,Marseille,6,1,Zürich,2010
+3894,Milan,1,1,Real Madrid,2010
+3895,M. Haifa,0,1,Juventus,2010
+3896,Bayern,0,2,Bordeaux,2010
+3897,Beşiktaş,0,3,Wolfsburg,2010
+3898,Man United,3,3,CSKA Moskva,2010
+3899,Wolfsburg,0,0,Beşiktaş,2010
+3900,Chelsea,4,0,Atlético,2010
+3901,Porto,2,1,APOEL,2010
+3902,Zürich,0,1,Marseille,2010
+3903,Real Madrid,2,3,Milan,2010
+3904,Juventus,1,0,M. Haifa,2010
+3905,Bordeaux,2,1,Bayern,2010
+3906,CSKA Moskva,0,1,Man United,2010
+3907,Olympiacos,2,1,Standard Liège,2010
+3908,AZ Alkmaar,1,1,Arsenal,2010
+3909,Stuttgart,1,3,Sevilla,2010
+3910,Rangers,1,4,Unirea Urziceni,2010
+3911,Inter,2,2,Dynamo Kyiv,2010
+3912,Barcelona,1,2,Rubin,2010
+3913,Liverpool,1,2,Lyon,2010
+3914,Debrecen,3,4,Fiorentina,2010
+3915,Porto,2,0,Atlético,2010
+3916,APOEL,0,1,Chelsea,2010
+3917,Real Madrid,3,0,Marseille,2010
+3918,Milan,0,1,Zürich,2010
+3919,Bordeaux,1,0,M. Haifa,2010
+3920,Bayern,0,0,Juventus,2010
+3921,Man United,2,1,Wolfsburg,2010
+3922,CSKA Moskva,2,1,Beşiktaş,2010
+3923,AZ Alkmaar,1,1,Standard Liège,2010
+3924,Arsenal,2,0,Olympiacos,2010
+3925,Rangers,1,4,Sevilla,2010
+3926,Unirea Urziceni,1,1,Stuttgart,2010
+3927,Barcelona,2,0,Dynamo Kyiv,2010
+3928,Debrecen,0,4,Lyon,2010
+3929,Fiorentina,2,0,Liverpool,2010
+3930,Rubin,1,1,Inter,2010
+3931,Standard Liège,2,3,Arsenal,2010
+3932,Olympiacos,1,0,AZ Alkmaar,2010
+3933,Sevilla,2,0,Unirea Urziceni,2010
+3934,Stuttgart,1,1,Rangers,2010
+3935,Dynamo Kyiv,3,1,Rubin,2010
+3936,Inter,0,0,Barcelona,2010
+3937,Lyon,1,0,Fiorentina,2010
+3938,Liverpool,1,0,Debrecen,2010
+3939,Beşiktaş,0,1,Man United,2010
+3940,Wolfsburg,3,1,CSKA Moskva,2010
+3941,Atlético,0,0,APOEL,2010
+3942,Chelsea,1,0,Porto,2010
+3943,Marseille,1,2,Milan,2010
+3944,Zürich,2,5,Real Madrid,2010
+3945,M. Haifa,0,3,Bayern,2010
+3946,Juventus,1,1,Bordeaux,2010
+3947,Barcelona,3,1,Man United,2011
+3948,Man United,4,1,Schalke,2011
+3949,Barcelona,1,1,Real Madrid,2011
+3950,Real Madrid,0,2,Barcelona,2011
+3951,Schalke,0,2,Man United,2011
+3952,Tottenham,0,1,Real Madrid,2011
+3953,Schalke,2,1,Inter,2011
+3954,Man United,2,1,Chelsea,2011
+3955,Shakhtar Donetsk,0,1,Barcelona,2011
+3956,Barcelona,5,1,Shakhtar Donetsk,2011
+3957,Chelsea,0,1,Man United,2011
+3958,Inter,2,5,Schalke,2011
+3959,Real Madrid,4,0,Tottenham,2011
+3960,Real Madrid,3,0,Lyon,2011
+3961,Chelsea,0,0,Copenhagen,2011
+3962,Bayern,2,3,Inter,2011
+3963,Man United,2,1,Marseille,2011
+3964,Schalke,3,1,Valencia,2011
+3965,Tottenham,0,0,Milan,2011
+3966,Barcelona,3,1,Arsenal,2011
+3967,Shakhtar Donetsk,3,0,Roma,2011
+3968,Inter,0,1,Bayern,2011
+3969,Marseille,0,0,Man United,2011
+3970,Lyon,1,1,Real Madrid,2011
+3971,Copenhagen,0,2,Chelsea,2011
+3972,Arsenal,2,1,Barcelona,2011
+3973,Roma,2,3,Shakhtar Donetsk,2011
+3974,Valencia,1,1,Schalke,2011
+3975,Milan,0,1,Tottenham,2011
+3976,Shakhtar Donetsk,2,0,Braga,2011
+3977,Arsenal,3,1,Partizan,2011
+3978,Milan,0,2,Ajax,2011
+3979,Real Madrid,4,0,Auxerre,2011
+3980,Žilina,1,2,Spartak Moskva,2011
+3981,Marseille,1,0,Chelsea,2011
+3982,CFR Cluj,1,1,Roma,2011
+3983,Bayern,3,0,Basel,2011
+3984,Copenhagen,3,1,Panathinaikos,2011
+3985,Barcelona,2,0,Rubin,2011
+3986,Bursaspor,1,1,Rangers,2011
+3987,Man United,1,1,Valencia,2011
+3988,Benfica,1,2,Schalke,2011
+3989,Lyon,2,2,H. Tel-Aviv,2011
+3990,Bremen,3,0,Inter,2011
+3991,Twente,3,3,Tottenham,2011
+3992,Panathinaikos,0,3,Barcelona,2011
+3993,Valencia,6,1,Bursaspor,2011
+3994,Rangers,0,1,Man United,2011
+3995,H. Tel-Aviv,3,0,Benfica,2011
+3996,Schalke,3,0,Lyon,2011
+3997,Tottenham,3,0,Bremen,2011
+3998,Inter,1,0,Twente,2011
+3999,Rubin,1,0,Copenhagen,2011
+4000,Partizan,0,3,Shakhtar Donetsk,2011
+4001,Braga,2,0,Arsenal,2011
+4002,Auxerre,0,2,Milan,2011
+4003,Ajax,0,4,Real Madrid,2011
+4004,Chelsea,2,1,Žilina,2011
+4005,Basel,1,0,CFR Cluj,2011
+4006,Roma,3,2,Bayern,2011
+4007,Spartak Moskva,0,3,Marseille,2011
+4008,Shakhtar Donetsk,2,1,Arsenal,2011
+4009,Partizan,0,1,Braga,2011
+4010,Milan,2,2,Real Madrid,2011
+4011,Auxerre,2,1,Ajax,2011
+4012,Žilina,0,7,Marseille,2011
+4013,Chelsea,4,1,Spartak Moskva,2011
+4014,CFR Cluj,0,4,Bayern,2011
+4015,Basel,2,3,Roma,2011
+4016,Copenhagen,1,1,Barcelona,2011
+4017,Bursaspor,0,3,Man United,2011
+4018,Valencia,3,0,Rangers,2011
+4019,Benfica,4,3,Lyon,2011
+4020,H. Tel-Aviv,0,0,Schalke,2011
+4021,Bremen,0,2,Twente,2011
+4022,Tottenham,3,1,Inter,2011
+4023,Rubin,0,0,Panathinaikos,2011
+4024,Barcelona,2,0,Copenhagen,2011
+4025,Panathinaikos,0,0,Rubin,2011
+4026,Man United,1,0,Bursaspor,2011
+4027,Rangers,1,1,Valencia,2011
+4028,Lyon,2,0,Benfica,2011
+4029,Schalke,3,1,H. Tel-Aviv,2011
+4030,Twente,1,1,Bremen,2011
+4031,Inter,4,3,Tottenham,2011
+4032,Arsenal,5,1,Shakhtar Donetsk,2011
+4033,Braga,2,0,Partizan,2011
+4034,Real Madrid,2,0,Milan,2011
+4035,Ajax,2,1,Auxerre,2011
+4036,Marseille,1,0,Žilina,2011
+4037,Bayern,3,2,CFR Cluj,2011
+4038,Roma,1,3,Basel,2011
+4039,Spartak Moskva,0,2,Chelsea,2011
+4040,Panathinaikos,0,2,Copenhagen,2011
+4041,Rangers,1,0,Bursaspor,2011
+4042,Valencia,0,1,Man United,2011
+4043,Schalke,2,0,Benfica,2011
+4044,H. Tel-Aviv,1,3,Lyon,2011
+4045,Inter,4,0,Bremen,2011
+4046,Tottenham,4,1,Twente,2011
+4047,Rubin,1,1,Barcelona,2011
+4048,Braga,0,3,Shakhtar Donetsk,2011
+4049,Partizan,1,3,Arsenal,2011
+4050,Ajax,1,1,Milan,2011
+4051,Auxerre,0,1,Real Madrid,2011
+4052,Chelsea,2,0,Marseille,2011
+4053,Roma,2,1,CFR Cluj,2011
+4054,Basel,1,2,Bayern,2011
+4055,Spartak Moskva,3,0,Žilina,2011
+4056,Shakhtar Donetsk,1,0,Partizan,2011
+4057,Arsenal,6,0,Braga,2011
+4058,Milan,2,0,Auxerre,2011
+4059,Real Madrid,2,0,Ajax,2011
+4060,Žilina,1,4,Chelsea,2011
+4061,Marseille,0,1,Spartak Moskva,2011
+4062,CFR Cluj,2,1,Basel,2011
+4063,Bayern,2,0,Roma,2011
+4064,Copenhagen,1,0,Rubin,2011
+4065,Barcelona,5,1,Panathinaikos,2011
+4066,Bursaspor,0,4,Valencia,2011
+4067,Man United,0,0,Rangers,2011
+4068,Benfica,2,0,H. Tel-Aviv,2011
+4069,Lyon,1,0,Schalke,2011
+4070,Bremen,2,2,Tottenham,2011
+4071,Twente,2,2,Inter,2011
+4072,Bayern,1,1,Chelsea,2012
+4073,Real Madrid,2,1,Bayern,2012
+4074,Barcelona,2,2,Chelsea,2012
+4075,Chelsea,1,0,Barcelona,2012
+4076,Bayern,2,1,Real Madrid,2012
+4077,Real Madrid,5,2,APOEL,2012
+4078,Chelsea,2,1,Benfica,2012
+4079,Bayern,2,0,Marseille,2012
+4080,Barcelona,3,1,Milan,2012
+4081,Milan,0,0,Barcelona,2012
+4082,Marseille,0,2,Bayern,2012
+4083,Benfica,0,1,Chelsea,2012
+4084,APOEL,0,3,Real Madrid,2012
+4085,Real Madrid,4,1,CSKA Moskva,2012
+4086,Chelsea,4,1,Napoli,2012
+4087,Bayern,7,0,Basel,2012
+4088,Inter,2,1,Marseille,2012
+4089,Barcelona,7,1,Leverkusen,2012
+4090,APOEL,1,0,Lyon,2012
+4091,Arsenal,3,0,Milan,2012
+4092,Benfica,2,0,Zenit,2012
+4093,Basel,1,0,Bayern,2012
+4094,Marseille,1,0,Inter,2012
+4095,Napoli,3,1,Chelsea,2012
+4096,CSKA Moskva,1,1,Real Madrid,2012
+4097,Milan,4,0,Arsenal,2012
+4098,Zenit,3,2,Benfica,2012
+4099,Leverkusen,1,3,Barcelona,2012
+4100,Lyon,1,0,APOEL,2012
+4101,Ajax,0,3,Real Madrid,2012
+4102,Dinamo Zagreb,1,7,Lyon,2012
+4103,Benfica,1,0,Oţelul,2012
+4104,Basel,2,1,Man United,2012
+4105,Inter,1,2,CSKA Moskva,2012
+4106,LOSC,0,0,Trabzonspor,2012
+4107,Villarreal,0,2,Napoli,2012
+4108,Man City,2,0,Bayern,2012
+4109,Plzeň,2,2,Milan,2012
+4110,Barcelona,4,0,BATE,2012
+4111,APOEL,0,2,Shakhtar Donetsk,2012
+4112,Porto,0,0,Zenit,2012
+4113,Dortmund,2,3,Marseille,2012
+4114,Olympiacos,3,1,Arsenal,2012
+4115,Genk,1,1,Leverkusen,2012
+4116,Chelsea,3,0,Valencia,2012
+4117,Milan,2,3,Barcelona,2012
+4118,Shakhtar Donetsk,0,2,Porto,2012
+4119,Arsenal,2,1,Dortmund,2012
+4120,Marseille,0,1,Olympiacos,2012
+4121,Valencia,7,0,Genk,2012
+4122,Leverkusen,2,1,Chelsea,2012
+4123,BATE,0,1,Plzeň,2012
+4124,Zenit,0,0,APOEL,2012
+4125,Lyon,0,0,Ajax,2012
+4126,Real Madrid,6,2,Dinamo Zagreb,2012
+4127,Man United,2,2,Benfica,2012
+4128,Oţelul,2,3,Basel,2012
+4129,Trabzonspor,1,1,Inter,2012
+4130,Bayern,3,1,Villarreal,2012
+4131,Napoli,2,1,Man City,2012
+4132,CSKA Moskva,0,2,LOSC,2012
+4133,Ajax,4,0,Dinamo Zagreb,2012
+4134,Lyon,0,2,Real Madrid,2012
+4135,Benfica,1,1,Basel,2012
+4136,Man United,2,0,Oţelul,2012
+4137,Inter,2,1,LOSC,2012
+4138,Trabzonspor,0,0,CSKA Moskva,2012
+4139,Villarreal,0,3,Man City,2012
+4140,Bayern,3,2,Napoli,2012
+4141,Plzeň,0,4,Barcelona,2012
+4142,APOEL,2,1,Porto,2012
+4143,Dortmund,1,0,Olympiacos,2012
+4144,Arsenal,0,0,Marseille,2012
+4145,Genk,1,1,Chelsea,2012
+4146,Valencia,3,1,Leverkusen,2012
+4147,BATE,1,1,Milan,2012
+4148,Zenit,1,0,Shakhtar Donetsk,2012
+4149,Barcelona,2,0,Plzeň,2012
+4150,Milan,2,0,BATE,2012
+4151,Porto,1,1,APOEL,2012
+4152,Shakhtar Donetsk,2,2,Zenit,2012
+4153,Olympiacos,3,1,Dortmund,2012
+4154,Marseille,0,1,Arsenal,2012
+4155,Chelsea,5,0,Genk,2012
+4156,Leverkusen,2,1,Valencia,2012
+4157,Dinamo Zagreb,0,2,Ajax,2012
+4158,Real Madrid,4,0,Lyon,2012
+4159,Basel,0,2,Benfica,2012
+4160,Oţelul,0,2,Man United,2012
+4161,LOSC,0,1,Inter,2012
+4162,Man City,2,1,Villarreal,2012
+4163,Napoli,1,1,Bayern,2012
+4164,CSKA Moskva,3,0,Trabzonspor,2012
+4165,Milan,2,0,Plzeň,2012
+4166,BATE,0,5,Barcelona,2012
+4167,Shakhtar Donetsk,1,1,APOEL,2012
+4168,Marseille,3,0,Dortmund,2012
+4169,Arsenal,2,1,Olympiacos,2012
+4170,Leverkusen,2,0,Genk,2012
+4171,Valencia,1,1,Chelsea,2012
+4172,Zenit,3,1,Porto,2012
+4173,Real Madrid,3,0,Ajax,2012
+4174,Lyon,2,0,Dinamo Zagreb,2012
+4175,Oţelul,0,1,Benfica,2012
+4176,Man United,3,3,Basel,2012
+4177,Trabzonspor,1,1,LOSC,2012
+4178,Napoli,2,0,Villarreal,2012
+4179,Bayern,2,0,Man City,2012
+4180,CSKA Moskva,2,3,Inter,2012
+4181,Ajax,0,0,Lyon,2012
+4182,Dinamo Zagreb,0,1,Real Madrid,2012
+4183,Benfica,1,1,Man United,2012
+4184,Basel,2,1,Oţelul,2012
+4185,Inter,0,1,Trabzonspor,2012
+4186,LOSC,2,2,CSKA Moskva,2012
+4187,Villarreal,0,2,Bayern,2012
+4188,Man City,1,1,Napoli,2012
+4189,Plzeň,1,1,BATE,2012
+4190,Barcelona,2,2,Milan,2012
+4191,APOEL,2,1,Zenit,2012
+4192,Porto,2,1,Shakhtar Donetsk,2012
+4193,Dortmund,1,1,Arsenal,2012
+4194,Olympiacos,0,1,Marseille,2012
+4195,Genk,0,0,Valencia,2012
+4196,Chelsea,2,0,Leverkusen,2012
+4197,Bayern,(3),(4),Chelsea,2012
+4198,Real Madrid,(1),(3),Bayern,2012
+4199,APOEL,(4),(3),Lyon,2012
+4200,Dortmund,1,2,Bayern,2013
+4201,Barcelona,0,3,Bayern,2013
+4202,Real Madrid,2,0,Dortmund,2013
+4203,Dortmund,4,1,Real Madrid,2013
+4204,Bayern,4,0,Barcelona,2013
+4205,Juventus,0,2,Bayern,2013
+4206,Barcelona,1,1,Paris,2013
+4207,Galatasaray,3,2,Real Madrid,2013
+4208,Dortmund,3,2,Málaga,2013
+4209,Real Madrid,3,0,Galatasaray,2013
+4210,Málaga,0,0,Dortmund,2013
+4211,Bayern,2,0,Juventus,2013
+4212,Paris,2,2,Barcelona,2013
+4213,Bayern,0,2,Arsenal,2013
+4214,Málaga,2,0,Porto,2013
+4215,Barcelona,4,0,Milan,2013
+4216,Schalke,2,3,Galatasaray,2013
+4217,Juventus,2,0,Celtic,2013
+4218,Paris,1,1,Valencia,2013
+4219,Dortmund,3,0,Shakhtar Donetsk,2013
+4220,Man United,1,2,Real Madrid,2013
+4221,Milan,2,0,Barcelona,2013
+4222,Galatasaray,1,1,Schalke,2013
+4223,Arsenal,1,3,Bayern,2013
+4224,Porto,1,0,Málaga,2013
+4225,Real Madrid,1,1,Man United,2013
+4226,Shakhtar Donetsk,2,2,Dortmund,2013
+4227,Valencia,1,2,Paris,2013
+4228,Celtic,0,3,Juventus,2013
+4229,Braga,1,2,Galatasaray,2013
+4230,Man United,0,1,CFR Cluj,2013
+4231,Celtic,2,1,Spartak Moskva,2013
+4232,Barcelona,0,0,Benfica,2013
+4233,Bayern,4,1,BATE,2013
+4234,LOSC,0,1,Valencia,2013
+4235,Chelsea,6,1,Nordsjælland,2013
+4236,Shakhtar Donetsk,0,1,Juventus,2013
+4237,Real Madrid,4,1,Ajax,2013
+4238,Dortmund,1,0,Man City,2013
+4239,Milan,0,1,Zenit,2013
+4240,Málaga,2,2,Anderlecht,2013
+4241,Olympiacos,2,1,Arsenal,2013
+4242,Montpellier,1,1,Schalke,2013
+4243,Paris,2,1,Porto,2013
+4244,Dinamo Zagreb,1,1,Dynamo Kyiv,2013
+4245,Man City,1,1,Real Madrid,2013
+4246,Ajax,1,4,Dortmund,2013
+4247,Anderlecht,1,3,Milan,2013
+4248,Schalke,1,0,Olympiacos,2013
+4249,Arsenal,2,0,Montpellier,2013
+4250,Dynamo Kyiv,0,2,Paris,2013
+4251,Porto,3,0,Dinamo Zagreb,2013
+4252,Zenit,2,2,Málaga,2013
+4253,CFR Cluj,3,1,Braga,2013
+4254,Galatasaray,1,0,Man United,2013
+4255,Benfica,2,1,Celtic,2013
+4256,Valencia,1,1,Bayern,2013
+4257,Juventus,3,0,Chelsea,2013
+4258,Nordsjælland,2,5,Shakhtar Donetsk,2013
+4259,Spartak Moskva,0,3,Barcelona,2013
+4260,BATE,0,2,LOSC,2013
+4261,Braga,1,3,Man United,2013
+4262,CFR Cluj,1,3,Galatasaray,2013
+4263,Celtic,2,1,Barcelona,2013
+4264,Benfica,2,0,Spartak Moskva,2013
+4265,Bayern,6,1,LOSC,2013
+4266,Valencia,4,2,BATE,2013
+4267,Chelsea,3,2,Shakhtar Donetsk,2013
+4268,Juventus,4,0,Nordsjælland,2013
+4269,Real Madrid,2,2,Dortmund,2013
+4270,Man City,2,2,Ajax,2013
+4271,Milan,1,1,Málaga,2013
+4272,Anderlecht,1,0,Zenit,2013
+4273,Olympiacos,3,1,Montpellier,2013
+4274,Schalke,2,2,Arsenal,2013
+4275,Paris,4,0,Dinamo Zagreb,2013
+4276,Dynamo Kyiv,0,0,Porto,2013
+4277,Dortmund,2,1,Real Madrid,2013
+4278,Ajax,3,1,Man City,2013
+4279,Málaga,1,0,Milan,2013
+4280,Montpellier,1,2,Olympiacos,2013
+4281,Arsenal,0,2,Schalke,2013
+4282,Dinamo Zagreb,0,2,Paris,2013
+4283,Porto,3,2,Dynamo Kyiv,2013
+4284,Zenit,1,0,Anderlecht,2013
+4285,Man United,3,2,Braga,2013
+4286,Galatasaray,1,1,CFR Cluj,2013
+4287,Barcelona,2,1,Celtic,2013
+4288,LOSC,0,1,Bayern,2013
+4289,BATE,0,3,Valencia,2013
+4290,Shakhtar Donetsk,2,1,Chelsea,2013
+4291,Nordsjælland,1,1,Juventus,2013
+4292,Spartak Moskva,2,1,Benfica,2013
+4293,Ajax,1,4,Real Madrid,2013
+4294,Man City,1,1,Dortmund,2013
+4295,Anderlecht,0,3,Málaga,2013
+4296,Arsenal,3,1,Olympiacos,2013
+4297,Schalke,2,2,Montpellier,2013
+4298,Porto,1,0,Paris,2013
+4299,Dynamo Kyiv,2,0,Dinamo Zagreb,2013
+4300,Zenit,2,3,Milan,2013
+4301,Galatasaray,0,2,Braga,2013
+4302,CFR Cluj,1,2,Man United,2013
+4303,Benfica,0,2,Barcelona,2013
+4304,BATE,3,1,Bayern,2013
+4305,Valencia,2,0,LOSC,2013
+4306,Nordsjælland,0,4,Chelsea,2013
+4307,Juventus,1,1,Shakhtar Donetsk,2013
+4308,Spartak Moskva,2,3,Celtic,2013
+4309,Braga,0,2,CFR Cluj,2013
+4310,Man United,1,0,Galatasaray,2013
+4311,Celtic,0,0,Benfica,2013
+4312,Barcelona,3,2,Spartak Moskva,2013
+4313,Bayern,2,1,Valencia,2013
+4314,LOSC,1,3,BATE,2013
+4315,Chelsea,2,2,Juventus,2013
+4316,Shakhtar Donetsk,2,0,Nordsjælland,2013
+4317,Real Madrid,3,2,Man City,2013
+4318,Dortmund,1,0,Ajax,2013
+4319,Milan,0,0,Anderlecht,2013
+4320,Málaga,3,0,Zenit,2013
+4321,Olympiacos,1,2,Schalke,2013
+4322,Montpellier,1,2,Arsenal,2013
+4323,Paris,4,1,Dynamo Kyiv,2013
+4324,Dinamo Zagreb,0,2,Porto,2013
+4325,Real Madrid,4,1,Atlético,2014
+4326,Chelsea,1,3,Atlético,2014
+4327,Bayern,0,4,Real Madrid,2014
+4328,Real Madrid,1,0,Bayern,2014
+4329,Atlético,0,0,Chelsea,2014
+4330,Atlético,1,0,Barcelona,2014
+4331,Bayern,3,1,Man United,2014
+4332,Dortmund,2,0,Real Madrid,2014
+4333,Chelsea,2,0,Paris,2014
+4334,Paris,3,1,Chelsea,2014
+4335,Real Madrid,3,0,Dortmund,2014
+4336,Man United,1,1,Bayern,2014
+4337,Barcelona,1,1,Atlético,2014
+4338,Man United,3,0,Olympiacos,2014
+4339,Dortmund,1,2,Zenit,2014
+4340,Real Madrid,3,1,Schalke,2014
+4341,Chelsea,2,0,Galatasaray,2014
+4342,Paris,2,1,Leverkusen,2014
+4343,Barcelona,2,1,Man City,2014
+4344,Atlético,4,1,Milan,2014
+4345,Bayern,1,1,Arsenal,2014
+4346,Schalke,1,6,Real Madrid,2014
+4347,Galatasaray,1,1,Chelsea,2014
+4348,Olympiacos,2,0,Man United,2014
+4349,Zenit,2,4,Dortmund,2014
+4350,Milan,0,1,Atlético,2014
+4351,Arsenal,0,2,Bayern,2014
+4352,Leverkusen,0,4,Paris,2014
+4353,Man City,0,2,Barcelona,2014
+4354,Barcelona,6,1,Celtic,2014
+4355,Milan,0,0,Ajax,2014
+4356,Atlético,2,0,Porto,2014
+4357,Austria Wien,4,1,Zenit,2014
+4358,Napoli,2,0,Arsenal,2014
+4359,Marseille,1,2,Dortmund,2014
+4360,Chelsea,1,0,FCSB,2014
+4361,Schalke,2,0,Basel,2014
+4362,Galatasaray,1,0,Juventus,2014
+4363,Plzeň,2,1,CSKA Moskva,2014
+4364,Bayern,2,3,Man City,2014
+4365,Olympiacos,3,1,Anderlecht,2014
+4366,Benfica,2,1,Paris,2014
+4367,Copenhagen,0,2,Real Madrid,2014
+4368,Real Sociedad,0,1,Leverkusen,2014
+4369,Man United,1,0,Shakhtar Donetsk,2014
+4370,Man City,4,2,Plzeň,2014
+4371,Paris,2,1,Olympiacos,2014
+4372,Anderlecht,2,3,Benfica,2014
+4373,Juventus,3,1,Copenhagen,2014
+4374,Real Madrid,4,1,Galatasaray,2014
+4375,Shakhtar Donetsk,4,0,Real Sociedad,2014
+4376,Leverkusen,0,5,Man United,2014
+4377,CSKA Moskva,1,3,Bayern,2014
+4378,Ajax,2,1,Barcelona,2014
+4379,Celtic,0,3,Milan,2014
+4380,Porto,1,1,Austria Wien,2014
+4381,Dortmund,3,1,Napoli,2014
+4382,Arsenal,2,0,Marseille,2014
+4383,Basel,1,0,Chelsea,2014
+4384,FCSB,0,0,Schalke,2014
+4385,Zenit,1,1,Atlético,2014
+4386,Barcelona,3,1,Milan,2014
+4387,Ajax,1,0,Celtic,2014
+4388,Atlético,4,0,Austria Wien,2014
+4389,Napoli,3,2,Marseille,2014
+4390,Dortmund,0,1,Arsenal,2014
+4391,Chelsea,3,0,Schalke,2014
+4392,Basel,1,1,FCSB,2014
+4393,Zenit,1,1,Porto,2014
+4394,Plzeň,0,1,Bayern,2014
+4395,Man City,5,2,CSKA Moskva,2014
+4396,Olympiacos,1,0,Benfica,2014
+4397,Paris,1,1,Anderlecht,2014
+4398,Copenhagen,1,0,Galatasaray,2014
+4399,Juventus,2,2,Real Madrid,2014
+4400,Real Sociedad,0,0,Man United,2014
+4401,Shakhtar Donetsk,0,0,Leverkusen,2014
+4402,Bayern,5,0,Plzeň,2014
+4403,Benfica,1,1,Olympiacos,2014
+4404,Anderlecht,0,5,Paris,2014
+4405,Galatasaray,3,1,Copenhagen,2014
+4406,Real Madrid,2,1,Juventus,2014
+4407,Man United,1,0,Real Sociedad,2014
+4408,Leverkusen,4,0,Shakhtar Donetsk,2014
+4409,CSKA Moskva,1,2,Man City,2014
+4410,Milan,1,1,Barcelona,2014
+4411,Celtic,2,1,Ajax,2014
+4412,Austria Wien,0,3,Atlético,2014
+4413,Porto,0,1,Zenit,2014
+4414,Marseille,1,2,Napoli,2014
+4415,Arsenal,1,2,Dortmund,2014
+4416,Schalke,0,3,Chelsea,2014
+4417,FCSB,1,1,Basel,2014
+4418,Man City,1,3,Bayern,2014
+4419,Anderlecht,0,3,Olympiacos,2014
+4420,Paris,3,0,Benfica,2014
+4421,Real Madrid,4,0,Copenhagen,2014
+4422,Juventus,2,2,Galatasaray,2014
+4423,Leverkusen,2,1,Real Sociedad,2014
+4424,Shakhtar Donetsk,1,1,Man United,2014
+4425,CSKA Moskva,3,2,Plzeň,2014
+4426,Celtic,0,1,Barcelona,2014
+4427,Ajax,1,1,Milan,2014
+4428,Porto,1,2,Atlético,2014
+4429,Arsenal,2,0,Napoli,2014
+4430,Dortmund,3,0,Marseille,2014
+4431,FCSB,0,4,Chelsea,2014
+4432,Basel,0,1,Schalke,2014
+4433,Zenit,0,0,Austria Wien,2014
+4434,Barcelona,4,0,Ajax,2014
+4435,Milan,2,0,Celtic,2014
+4436,Atlético,3,1,Zenit,2014
+4437,Austria Wien,0,1,Porto,2014
+4438,Napoli,2,1,Dortmund,2014
+4439,Marseille,1,2,Arsenal,2014
+4440,Chelsea,1,2,Basel,2014
+4441,Schalke,3,0,FCSB,2014
+4442,Plzeň,0,3,Man City,2014
+4443,Bayern,3,0,CSKA Moskva,2014
+4444,Olympiacos,1,4,Paris,2014
+4445,Benfica,2,0,Anderlecht,2014
+4446,Copenhagen,1,1,Juventus,2014
+4447,Galatasaray,1,6,Real Madrid,2014
+4448,Real Sociedad,0,2,Shakhtar Donetsk,2014
+4449,Man United,4,2,Leverkusen,2014
+4450,Juventus,1,3,Barcelona,2015
+4451,Real Madrid,1,1,Juventus,2015
+4452,Bayern,3,2,Barcelona,2015
+4453,Barcelona,3,0,Bayern,2015
+4454,Juventus,2,1,Real Madrid,2015
+4455,Real Madrid,1,0,Atlético,2015
+4456,Monaco,0,0,Juventus,2015
+4457,Barcelona,2,0,Paris,2015
+4458,Bayern,6,1,Porto,2015
+4459,Porto,3,1,Bayern,2015
+4460,Paris,1,3,Barcelona,2015
+4461,Juventus,1,0,Monaco,2015
+4462,Atlético,0,0,Real Madrid,2015
+4463,Dortmund,0,3,Juventus,2015
+4464,Barcelona,1,0,Man City,2015
+4465,Atlético,1,0,Leverkusen,2015
+4466,Monaco,0,2,Arsenal,2015
+4467,Bayern,7,0,Shakhtar Donetsk,2015
+4468,Chelsea,2,2,Paris,2015
+4469,Real Madrid,3,4,Schalke,2015
+4470,Porto,4,0,Basel,2015
+4471,Leverkusen,1,0,Atlético,2015
+4472,Arsenal,1,3,Monaco,2015
+4473,Juventus,2,1,Dortmund,2015
+4474,Man City,1,2,Barcelona,2015
+4475,Schalke,0,2,Real Madrid,2015
+4476,Basel,1,1,Porto,2015
+4477,Shakhtar Donetsk,0,0,Bayern,2015
+4478,Paris,1,1,Chelsea,2015
+4479,Athletic Club,2,0,BATE,2015
+4480,Porto,1,1,Shakhtar Donetsk,2015
+4481,Maribor,0,1,Schalke,2015
+4482,Chelsea,3,1,Sporting CP,2015
+4483,Ajax,4,0,APOEL,2015
+4484,Barcelona,3,1,Paris,2015
+4485,Bayern,3,0,CSKA Moskva,2015
+4486,Roma,0,2,Man City,2015
+4487,Dortmund,1,1,Anderlecht,2015
+4488,Galatasaray,1,4,Arsenal,2015
+4489,Benfica,0,0,Leverkusen,2015
+4490,Monaco,2,0,Zenit,2015
+4491,Real Madrid,4,0,Ludogorets,2015
+4492,Liverpool,1,1,Basel,2015
+4493,Juventus,0,0,Atlético,2015
+4494,Olympiacos,4,2,Malmö,2015
+4495,Arsenal,2,0,Dortmund,2015
+4496,Anderlecht,2,0,Galatasaray,2015
+4497,Leverkusen,0,1,Monaco,2015
+4498,Basel,0,1,Real Madrid,2015
+4499,Ludogorets,2,2,Liverpool,2015
+4500,Malmö,0,2,Juventus,2015
+4501,Atlético,4,0,Olympiacos,2015
+4502,Zenit,1,0,Benfica,2015
+4503,Shakhtar Donetsk,0,1,Athletic Club,2015
+4504,Sporting CP,3,1,Maribor,2015
+4505,Schalke,0,5,Chelsea,2015
+4506,Paris,3,1,Ajax,2015
+4507,APOEL,0,4,Barcelona,2015
+4508,Man City,3,2,Bayern,2015
+4509,BATE,0,3,Porto,2015
+4510,CSKA Moskva,1,1,Roma,2015
+4511,Athletic Club,0,2,Porto,2015
+4512,Shakhtar Donetsk,5,0,BATE,2015
+4513,Maribor,1,1,Chelsea,2015
+4514,Sporting CP,4,2,Schalke,2015
+4515,Ajax,0,2,Barcelona,2015
+4516,Paris,1,0,APOEL,2015
+4517,Bayern,2,0,Roma,2015
+4518,Man City,1,2,CSKA Moskva,2015
+4519,Dortmund,4,1,Galatasaray,2015
+4520,Arsenal,3,3,Anderlecht,2015
+4521,Benfica,1,0,Monaco,2015
+4522,Real Madrid,1,0,Liverpool,2015
+4523,Basel,4,0,Ludogorets,2015
+4524,Juventus,3,2,Olympiacos,2015
+4525,Malmö,0,2,Atlético,2015
+4526,Zenit,1,2,Leverkusen,2015
+4527,Galatasaray,0,4,Dortmund,2015
+4528,Anderlecht,1,2,Arsenal,2015
+4529,Monaco,0,0,Benfica,2015
+4530,Leverkusen,2,0,Zenit,2015
+4531,Liverpool,0,3,Real Madrid,2015
+4532,Ludogorets,1,0,Basel,2015
+4533,Olympiacos,1,0,Juventus,2015
+4534,Atlético,5,0,Malmö,2015
+4535,Porto,2,1,Athletic Club,2015
+4536,BATE,0,7,Shakhtar Donetsk,2015
+4537,Chelsea,6,0,Maribor,2015
+4538,Schalke,4,3,Sporting CP,2015
+4539,Barcelona,3,1,Ajax,2015
+4540,APOEL,0,1,Paris,2015
+4541,Roma,1,7,Bayern,2015
+4542,CSKA Moskva,2,2,Man City,2015
+4543,Anderlecht,0,3,Dortmund,2015
+4544,Arsenal,4,1,Galatasaray,2015
+4545,Leverkusen,3,1,Benfica,2015
+4546,Ludogorets,1,2,Real Madrid,2015
+4547,Basel,1,0,Liverpool,2015
+4548,Atlético,1,0,Juventus,2015
+4549,Malmö,2,0,Olympiacos,2015
+4550,Zenit,0,0,Monaco,2015
+4551,BATE,2,1,Athletic Club,2015
+4552,Shakhtar Donetsk,2,2,Porto,2015
+4553,Schalke,1,1,Maribor,2015
+4554,Sporting CP,0,1,Chelsea,2015
+4555,APOEL,1,1,Ajax,2015
+4556,Paris,3,2,Barcelona,2015
+4557,Man City,1,1,Roma,2015
+4558,CSKA Moskva,0,1,Bayern,2015
+4559,Athletic Club,0,0,Shakhtar Donetsk,2015
+4560,Porto,6,0,BATE,2015
+4561,Maribor,1,1,Sporting CP,2015
+4562,Chelsea,1,1,Schalke,2015
+4563,Ajax,1,1,Paris,2015
+4564,Barcelona,1,0,APOEL,2015
+4565,Bayern,1,0,Man City,2015
+4566,Roma,5,1,CSKA Moskva,2015
+4567,Dortmund,2,0,Arsenal,2015
+4568,Galatasaray,1,1,Anderlecht,2015
+4569,Benfica,0,2,Zenit,2015
+4570,Monaco,1,0,Leverkusen,2015
+4571,Real Madrid,5,1,Basel,2015
+4572,Liverpool,2,1,Ludogorets,2015
+4573,Juventus,2,0,Malmö,2015
+4574,Olympiacos,3,2,Atlético,2015
+4575,Atlético,(3),(2),Leverkusen,2015
+4576,Real Madrid,1,1,Atlético,2016
+4577,Real Madrid,1,0,Man City,2016
+4578,Bayern,2,1,Atlético,2016
+4579,Atlético,1,0,Bayern,2016
+4580,Man City,0,0,Real Madrid,2016
+4581,Benfica,2,2,Bayern,2016
+4582,Atlético,2,0,Barcelona,2016
+4583,Real Madrid,3,0,Wolfsburg,2016
+4584,Man City,1,0,Paris,2016
+4585,Paris,2,2,Man City,2016
+4586,Wolfsburg,2,0,Real Madrid,2016
+4587,Barcelona,2,1,Atlético,2016
+4588,Bayern,1,0,Benfica,2016
+4589,Barcelona,3,1,Arsenal,2016
+4590,Bayern,4,2,Juventus,2016
+4591,Atlético,0,0,PSV,2016
+4592,Man City,0,0,Dynamo Kyiv,2016
+4593,Chelsea,1,2,Paris,2016
+4594,Zenit,1,2,Benfica,2016
+4595,Real Madrid,2,0,Roma,2016
+4596,Wolfsburg,1,0,Gent,2016
+4597,PSV,0,0,Atlético,2016
+4598,Dynamo Kyiv,1,3,Man City,2016
+4599,Juventus,2,2,Bayern,2016
+4600,Arsenal,0,2,Barcelona,2016
+4601,Roma,0,2,Real Madrid,2016
+4602,Gent,2,3,Wolfsburg,2016
+4603,Paris,2,1,Chelsea,2016
+4604,Benfica,1,0,Zenit,2016
+4605,Gent,2,1,Zenit,2016
+4606,Valencia,0,2,Lyon,2016
+4607,Chelsea,2,0,Porto,2016
+4608,Dynamo Kyiv,1,0,M. Tel-Aviv,2016
+4609,Olympiacos,0,3,Arsenal,2016
+4610,Dinamo Zagreb,0,2,Bayern,2016
+4611,Roma,0,0,BATE,2016
+4612,Leverkusen,1,1,Barcelona,2016
+4613,Sevilla,1,0,Juventus,2016
+4614,Man City,4,2,Mönchengladbach,2016
+4615,Benfica,1,2,Atlético,2016
+4616,Galatasaray,1,1,Astana,2016
+4617,PSV,2,1,CSKA Moskva,2016
+4618,Wolfsburg,3,2,Man United,2016
+4619,Real Madrid,8,0,Malmö,2016
+4620,Paris,2,0,Shakhtar Donetsk,2016
+4621,Mönchengladbach,4,2,Sevilla,2016
+4622,Juventus,1,0,Man City,2016
+4623,Atlético,2,0,Galatasaray,2016
+4624,Man United,0,0,PSV,2016
+4625,Shakhtar Donetsk,3,4,Real Madrid,2016
+4626,Malmö,0,5,Paris,2016
+4627,CSKA Moskva,0,2,Wolfsburg,2016
+4628,Astana,2,2,Benfica,2016
+4629,Lyon,1,2,Gent,2016
+4630,M. Tel-Aviv,0,4,Chelsea,2016
+4631,Porto,0,2,Dynamo Kyiv,2016
+4632,Bayern,4,0,Olympiacos,2016
+4633,Arsenal,3,0,Dinamo Zagreb,2016
+4634,Barcelona,6,1,Roma,2016
+4635,Zenit,2,0,Valencia,2016
+4636,BATE,1,1,Leverkusen,2016
+4637,Gent,1,0,Valencia,2016
+4638,Lyon,0,2,Zenit,2016
+4639,Chelsea,2,1,Dynamo Kyiv,2016
+4640,M. Tel-Aviv,1,3,Porto,2016
+4641,Olympiacos,2,1,Dinamo Zagreb,2016
+4642,Bayern,5,1,Arsenal,2016
+4643,Roma,3,2,Leverkusen,2016
+4644,Barcelona,3,0,BATE,2016
+4645,Sevilla,1,3,Man City,2016
+4646,Mönchengladbach,1,1,Juventus,2016
+4647,Benfica,2,1,Galatasaray,2016
+4648,PSV,2,0,Wolfsburg,2016
+4649,Man United,1,0,CSKA Moskva,2016
+4650,Real Madrid,1,0,Paris,2016
+4651,Shakhtar Donetsk,4,0,Malmö,2016
+4652,Astana,0,0,Atlético,2016
+4653,Man City,2,1,Sevilla,2016
+4654,Juventus,0,0,Mönchengladbach,2016
+4655,Galatasaray,2,1,Benfica,2016
+4656,Atlético,4,0,Astana,2016
+4657,Wolfsburg,2,0,PSV,2016
+4658,CSKA Moskva,1,1,Man United,2016
+4659,Paris,0,0,Real Madrid,2016
+4660,Malmö,1,0,Shakhtar Donetsk,2016
+4661,Valencia,2,1,Gent,2016
+4662,Zenit,3,1,Lyon,2016
+4663,Dynamo Kyiv,0,0,Chelsea,2016
+4664,Porto,2,0,M. Tel-Aviv,2016
+4665,Dinamo Zagreb,0,1,Olympiacos,2016
+4666,Arsenal,2,0,Bayern,2016
+4667,Leverkusen,4,4,Roma,2016
+4668,BATE,0,2,Barcelona,2016
+4669,Juventus,2,0,Sevilla,2016
+4670,Mönchengladbach,1,2,Man City,2016
+4671,Atlético,1,2,Benfica,2016
+4672,CSKA Moskva,3,2,PSV,2016
+4673,Man United,2,1,Wolfsburg,2016
+4674,Malmö,0,2,Real Madrid,2016
+4675,Shakhtar Donetsk,0,3,Paris,2016
+4676,Astana,2,2,Galatasaray,2016
+4677,Zenit,2,1,Gent,2016
+4678,Lyon,0,1,Valencia,2016
+4679,Porto,2,1,Chelsea,2016
+4680,M. Tel-Aviv,0,2,Dynamo Kyiv,2016
+4681,Arsenal,2,3,Olympiacos,2016
+4682,Bayern,5,0,Dinamo Zagreb,2016
+4683,BATE,3,2,Roma,2016
+4684,Barcelona,2,1,Leverkusen,2016
+4685,Gent,1,1,Lyon,2016
+4686,Valencia,2,3,Zenit,2016
+4687,Chelsea,4,0,M. Tel-Aviv,2016
+4688,Dynamo Kyiv,2,2,Porto,2016
+4689,Olympiacos,0,3,Bayern,2016
+4690,Dinamo Zagreb,2,1,Arsenal,2016
+4691,Roma,1,1,Barcelona,2016
+4692,Leverkusen,4,1,BATE,2016
+4693,Benfica,2,0,Astana,2016
+4694,Sevilla,3,0,Mönchengladbach,2016
+4695,Man City,1,2,Juventus,2016
+4696,Galatasaray,0,2,Atlético,2016
+4697,PSV,2,1,Man United,2016
+4698,Wolfsburg,1,0,CSKA Moskva,2016
+4699,Real Madrid,4,0,Shakhtar Donetsk,2016
+4700,Paris,2,0,Malmö,2016
+4701,Real Madrid,(5),(3),Atlético,2016
+4702,Atlético,(8),(7),PSV,2016
+4703,Juventus,1,4,Real Madrid,2017
+4704,Atlético,2,1,Real Madrid,2017
+4705,Juventus,2,1,Monaco,2017
+4706,Monaco,0,2,Juventus,2017
+4707,Real Madrid,3,0,Atlético,2017
+4708,Monaco,3,1,Dortmund,2017
+4709,Barcelona,0,0,Juventus,2017
+4710,Leicester,1,1,Atlético,2017
+4711,Real Madrid,4,2,Bayern,2017
+4712,Bayern,1,2,Real Madrid,2017
+4713,Atlético,1,0,Leicester,2017
+4714,Dortmund,2,3,Monaco,2017
+4715,Juventus,3,0,Barcelona,2017
+4716,Atlético,0,0,Leverkusen,2017
+4717,Monaco,3,1,Man City,2017
+4718,Juventus,1,0,Porto,2017
+4719,Leicester,2,0,Sevilla,2017
+4720,Dortmund,4,0,Benfica,2017
+4721,Barcelona,6,1,Paris,2017
+4722,Arsenal,1,5,Bayern,2017
+4723,Napoli,1,3,Real Madrid,2017
+4724,Porto,0,2,Juventus,2017
+4725,Sevilla,2,1,Leicester,2017
+4726,Leverkusen,2,4,Atlético,2017
+4727,Man City,5,3,Monaco,2017
+4728,Bayern,5,1,Arsenal,2017
+4729,Real Madrid,3,1,Napoli,2017
+4730,Benfica,1,0,Dortmund,2017
+4731,Paris,4,0,Barcelona,2017
+4732,Juventus,2,0,Dinamo Zagreb,2017
+4733,Lyon,0,0,Sevilla,2017
+4734,Porto,5,0,Leicester,2017
+4735,Club Brugge,0,2,Copenhagen,2017
+4736,Legia,1,0,Sporting CP,2017
+4737,Real Madrid,2,2,Dortmund,2017
+4738,Tottenham,3,1,CSKA Moskva,2017
+4739,Leverkusen,3,0,Monaco,2017
+4740,PSV,0,0,Rostov,2017
+4741,Bayern,1,0,Atlético,2017
+4742,Man City,1,1,Celtic,2017
+4743,Barcelona,4,0,Mönchengladbach,2017
+4744,Benfica,1,2,Napoli,2017
+4745,Dynamo Kyiv,6,0,Beşiktaş,2017
+4746,Basel,1,4,Arsenal,2017
+4747,Paris,2,2,Ludogorets,2017
+4748,Atlético,2,0,PSV,2017
+4749,Mönchengladbach,1,1,Man City,2017
+4750,Celtic,0,2,Barcelona,2017
+4751,Napoli,0,0,Dynamo Kyiv,2017
+4752,Ludogorets,0,0,Basel,2017
+4753,Arsenal,2,2,Paris,2017
+4754,Beşiktaş,3,3,Benfica,2017
+4755,Rostov,3,2,Bayern,2017
+4756,Sevilla,1,3,Juventus,2017
+4757,Dinamo Zagreb,0,1,Lyon,2017
+4758,Copenhagen,0,0,Porto,2017
+4759,Leicester,2,1,Club Brugge,2017
+4760,Dortmund,8,4,Legia,2017
+4761,Sporting CP,1,2,Real Madrid,2017
+4762,Monaco,2,1,Tottenham,2017
+4763,CSKA Moskva,1,1,Leverkusen,2017
+4764,Juventus,1,1,Lyon,2017
+4765,Sevilla,4,0,Dinamo Zagreb,2017
+4766,Porto,1,0,Club Brugge,2017
+4767,Copenhagen,0,0,Leicester,2017
+4768,Legia,3,3,Real Madrid,2017
+4769,Dortmund,1,0,Sporting CP,2017
+4770,Tottenham,0,1,Leverkusen,2017
+4771,Monaco,3,0,CSKA Moskva,2017
+4772,PSV,1,2,Bayern,2017
+4773,Atlético,2,1,Rostov,2017
+4774,Man City,3,1,Barcelona,2017
+4775,Mönchengladbach,1,1,Celtic,2017
+4776,Benfica,1,0,Dynamo Kyiv,2017
+4777,Basel,1,2,Paris,2017
+4778,Ludogorets,2,3,Arsenal,2017
+4779,Beşiktaş,1,1,Napoli,2017
+4780,Bayern,4,1,PSV,2017
+4781,Rostov,0,1,Atlético,2017
+4782,Barcelona,4,0,Man City,2017
+4783,Celtic,0,2,Mönchengladbach,2017
+4784,Dynamo Kyiv,0,2,Benfica,2017
+4785,Napoli,2,3,Beşiktaş,2017
+4786,Paris,3,0,Basel,2017
+4787,Arsenal,6,0,Ludogorets,2017
+4788,Lyon,0,1,Juventus,2017
+4789,Dinamo Zagreb,0,1,Sevilla,2017
+4790,Club Brugge,1,2,Porto,2017
+4791,Leicester,1,0,Copenhagen,2017
+4792,Real Madrid,5,1,Legia,2017
+4793,Sporting CP,1,2,Dortmund,2017
+4794,Leverkusen,0,0,Tottenham,2017
+4795,CSKA Moskva,1,1,Monaco,2017
+4796,Rostov,2,2,PSV,2017
+4797,Atlético,1,0,Bayern,2017
+4798,Celtic,3,3,Man City,2017
+4799,Mönchengladbach,1,2,Barcelona,2017
+4800,Napoli,4,2,Benfica,2017
+4801,Beşiktaş,1,1,Dynamo Kyiv,2017
+4802,Arsenal,2,0,Basel,2017
+4803,Ludogorets,1,3,Paris,2017
+4804,Dinamo Zagreb,0,4,Juventus,2017
+4805,Sevilla,1,0,Lyon,2017
+4806,Leicester,1,0,Porto,2017
+4807,Copenhagen,4,0,Club Brugge,2017
+4808,Sporting CP,2,0,Legia,2017
+4809,Dortmund,2,2,Real Madrid,2017
+4810,CSKA Moskva,0,1,Tottenham,2017
+4811,Monaco,1,1,Leverkusen,2017
+4812,Juventus,0,0,Sevilla,2017
+4813,Lyon,3,0,Dinamo Zagreb,2017
+4814,Porto,1,1,Copenhagen,2017
+4815,Club Brugge,0,3,Leicester,2017
+4816,Legia,0,6,Dortmund,2017
+4817,Real Madrid,2,1,Sporting CP,2017
+4818,Tottenham,1,2,Monaco,2017
+4819,Leverkusen,2,2,CSKA Moskva,2017
+4820,Man City,4,0,Mönchengladbach,2017
+4821,PSV,0,1,Atlético,2017
+4822,Bayern,5,0,Rostov,2017
+4823,Barcelona,7,0,Celtic,2017
+4824,Benfica,1,1,Beşiktaş,2017
+4825,Dynamo Kyiv,1,2,Napoli,2017
+4826,Basel,1,1,Ludogorets,2017
+4827,Paris,1,1,Arsenal,2017
+4828,Real Madrid,3,1,Liverpool,2018
+4829,Roma,4,2,Liverpool,2018
+4830,Real Madrid,2,2,Bayern,2018
+4831,Bayern,1,2,Real Madrid,2018
+4832,Liverpool,5,2,Roma,2018
+4833,Bayern,0,0,Sevilla,2018
+4834,Real Madrid,1,3,Juventus,2018
+4835,Roma,3,0,Barcelona,2018
+4836,Man City,1,2,Liverpool,2018
+4837,Liverpool,3,0,Man City,2018
+4838,Barcelona,4,1,Roma,2018
+4839,Juventus,0,3,Real Madrid,2018
+4840,Sevilla,1,2,Bayern,2018
+4841,Barcelona,3,0,Chelsea,2018
+4842,Beşiktaş,1,3,Bayern,2018
+4843,Man United,1,2,Sevilla,2018
+4844,Roma,1,0,Shakhtar Donetsk,2018
+4845,Man City,1,2,Basel,2018
+4846,Tottenham,1,2,Juventus,2018
+4847,Liverpool,0,0,Porto,2018
+4848,Paris,1,2,Real Madrid,2018
+4849,Shakhtar Donetsk,2,1,Roma,2018
+4850,Sevilla,0,0,Man United,2018
+4851,Bayern,5,0,Beşiktaş,2018
+4852,Chelsea,1,1,Barcelona,2018
+4853,Real Madrid,3,1,Paris,2018
+4854,Porto,0,5,Liverpool,2018
+4855,Basel,0,4,Man City,2018
+4856,Juventus,2,2,Tottenham,2018
+4857,Tottenham,3,0,APOEL,2018
+4858,Real Madrid,3,2,Dortmund,2018
+4859,Porto,5,2,Monaco,2018
+4860,Leipzig,1,2,Beşiktaş,2018
+4861,Shakhtar Donetsk,2,1,Man City,2018
+4862,Feyenoord,2,1,Napoli,2018
+4863,Liverpool,7,0,Spartak Moskva,2018
+4864,Maribor,1,1,Sevilla,2018
+4865,Olympiacos,0,2,Juventus,2018
+4866,Barcelona,2,0,Sporting CP,2018
+4867,Roma,1,0,Qarabağ,2018
+4868,Chelsea,1,1,Atlético,2018
+4869,Celtic,0,1,Anderlecht,2018
+4870,Bayern,3,1,Paris,2018
+4871,Man United,2,1,CSKA Moskva,2018
+4872,Benfica,0,2,Basel,2018
+4873,Sporting CP,3,1,Olympiacos,2018
+4874,Juventus,0,0,Barcelona,2018
+4875,Atlético,2,0,Roma,2018
+4876,Paris,7,1,Celtic,2018
+4877,Anderlecht,1,2,Bayern,2018
+4878,Basel,1,0,Man United,2018
+4879,Qarabağ,0,4,Chelsea,2018
+4880,CSKA Moskva,2,0,Benfica,2018
+4881,Dortmund,1,2,Tottenham,2018
+4882,APOEL,0,6,Real Madrid,2018
+4883,Monaco,1,4,Leipzig,2018
+4884,Napoli,3,0,Shakhtar Donetsk,2018
+4885,Man City,1,0,Feyenoord,2018
+4886,Sevilla,3,3,Liverpool,2018
+4887,Beşiktaş,1,1,Porto,2018
+4888,Spartak Moskva,1,1,Maribor,2018
+4889,Tottenham,3,1,Real Madrid,2018
+4890,Dortmund,1,1,APOEL,2018
+4891,Porto,3,1,Leipzig,2018
+4892,Shakhtar Donetsk,3,1,Feyenoord,2018
+4893,Napoli,2,4,Man City,2018
+4894,Liverpool,3,0,Maribor,2018
+4895,Sevilla,2,1,Spartak Moskva,2018
+4896,Beşiktaş,1,1,Monaco,2018
+4897,Olympiacos,0,0,Barcelona,2018
+4898,Sporting CP,1,1,Juventus,2018
+4899,Roma,3,0,Chelsea,2018
+4900,Atlético,1,1,Qarabağ,2018
+4901,Celtic,1,2,Bayern,2018
+4902,Paris,5,0,Anderlecht,2018
+4903,Man United,2,0,Benfica,2018
+4904,Basel,1,2,CSKA Moskva,2018
+4905,Barcelona,3,1,Olympiacos,2018
+4906,Juventus,2,1,Sporting CP,2018
+4907,Chelsea,3,3,Roma,2018
+4908,Bayern,3,0,Celtic,2018
+4909,Anderlecht,0,4,Paris,2018
+4910,Benfica,0,1,Man United,2018
+4911,CSKA Moskva,0,2,Basel,2018
+4912,Qarabağ,0,0,Atlético,2018
+4913,Real Madrid,1,1,Tottenham,2018
+4914,APOEL,1,1,Dortmund,2018
+4915,Leipzig,3,2,Porto,2018
+4916,Monaco,1,2,Beşiktaş,2018
+4917,Feyenoord,1,2,Shakhtar Donetsk,2018
+4918,Man City,2,1,Napoli,2018
+4919,Maribor,0,7,Liverpool,2018
+4920,Spartak Moskva,5,1,Sevilla,2018
+4921,Juventus,2,0,Olympiacos,2018
+4922,Sporting CP,0,1,Barcelona,2018
+4923,Atlético,1,2,Chelsea,2018
+4924,Anderlecht,0,3,Celtic,2018
+4925,Paris,3,0,Bayern,2018
+4926,CSKA Moskva,1,4,Man United,2018
+4927,Basel,5,0,Benfica,2018
+4928,Qarabağ,1,2,Roma,2018
+4929,APOEL,0,3,Tottenham,2018
+4930,Dortmund,1,3,Real Madrid,2018
+4931,Monaco,0,3,Porto,2018
+4932,Beşiktaş,2,0,Leipzig,2018
+4933,Man City,2,0,Shakhtar Donetsk,2018
+4934,Napoli,3,1,Feyenoord,2018
+4935,Spartak Moskva,1,1,Liverpool,2018
+4936,Sevilla,3,0,Maribor,2018
+4937,Tottenham,3,1,Dortmund,2018
+4938,Real Madrid,3,0,APOEL,2018
+4939,Porto,1,3,Beşiktaş,2018
+4940,Leipzig,1,1,Monaco,2018
+4941,Shakhtar Donetsk,2,1,Napoli,2018
+4942,Feyenoord,0,4,Man City,2018
+4943,Liverpool,2,2,Sevilla,2018
+4944,Maribor,1,1,Spartak Moskva,2018
+4945,Olympiacos,2,3,Sporting CP,2018
+4946,Barcelona,3,0,Juventus,2018
+4947,Roma,0,0,Atlético,2018
+4948,Chelsea,6,0,Qarabağ,2018
+4949,Celtic,0,5,Paris,2018
+4950,Bayern,3,0,Anderlecht,2018
+4951,Man United,3,0,Basel,2018
+4952,Benfica,1,2,CSKA Moskva,2018
+4953,Tottenham,0,2,Liverpool,2019
+4954,Ajax,2,3,Tottenham,2019
+4955,Liverpool,4,0,Barcelona,2019
+4956,Barcelona,3,0,Liverpool,2019
+4957,Tottenham,0,1,Ajax,2019
+4958,Porto,1,4,Liverpool,2019
+4959,Man City,4,3,Tottenham,2019
+4960,Juventus,1,2,Ajax,2019
+4961,Barcelona,3,0,Man United,2019
+4962,Man United,0,1,Barcelona,2019
+4963,Ajax,1,1,Juventus,2019
+4964,Tottenham,1,0,Man City,2019
+4965,Liverpool,2,0,Porto,2019
+4966,Barcelona,5,1,Lyon,2019
+4967,Bayern,1,3,Liverpool,2019
+4968,Juventus,3,0,Atlético,2019
+4969,Man City,7,0,Schalke,2019
+4970,Paris,1,3,Man United,2019
+4971,Porto,3,1,Roma,2019
+4972,Dortmund,0,1,Tottenham,2019
+4973,Real Madrid,1,4,Ajax,2019
+4974,Atlético,2,0,Juventus,2019
+4975,Schalke,2,3,Man City,2019
+4976,Lyon,0,0,Barcelona,2019
+4977,Liverpool,0,0,Bayern,2019
+4978,Tottenham,3,0,Dortmund,2019
+4979,Ajax,1,2,Real Madrid,2019
+4980,Roma,2,1,Porto,2019
+4981,Man United,0,2,Paris,2019
+4982,Valencia,2,1,Man United,2019
+4983,Young Boys,2,1,Juventus,2019
+4984,Man City,2,1,Hoffenheim,2019
+4985,Shakhtar Donetsk,1,1,Lyon,2019
+4986,Benfica,1,0,AEK,2019
+4987,Ajax,3,3,Bayern,2019
+4988,Plzeň,2,1,Roma,2019
+4989,Real Madrid,0,3,CSKA Moskva,2019
+4990,Crvena zvezda,1,4,Paris,2019
+4991,Liverpool,1,0,Napoli,2019
+4992,Inter,1,1,PSV,2019
+4993,Barcelona,1,1,Tottenham,2019
+4994,Monaco,0,2,Dortmund,2019
+4995,Club Brugge,0,0,Atlético,2019
+4996,Schalke,1,0,Lokomotiv Moskva,2019
+4997,Galatasaray,2,3,Porto,2019
+4998,Porto,3,1,Schalke,2019
+4999,Napoli,3,1,Crvena zvezda,2019
+5000,Paris,2,1,Liverpool,2019
+5001,Tottenham,1,0,Inter,2019
+5002,PSV,1,2,Barcelona,2019
+5003,Dortmund,0,0,Club Brugge,2019
+5004,Lokomotiv Moskva,2,0,Galatasaray,2019
+5005,Atlético,2,0,Monaco,2019
+5006,Juventus,1,0,Valencia,2019
+5007,Man United,1,0,Young Boys,2019
+5008,Roma,0,2,Real Madrid,2019
+5009,Lyon,2,2,Man City,2019
+5010,Hoffenheim,2,3,Shakhtar Donetsk,2019
+5011,Bayern,5,1,Benfica,2019
+5012,CSKA Moskva,1,2,Plzeň,2019
+5013,AEK,0,2,Ajax,2019
+5014,Juventus,1,2,Man United,2019
+5015,Plzeň,0,5,Real Madrid,2019
+5016,Man City,6,0,Shakhtar Donetsk,2019
+5017,Lyon,2,2,Hoffenheim,2019
+5018,Benfica,1,1,Ajax,2019
+5019,Bayern,2,0,AEK,2019
+5020,Valencia,3,1,Young Boys,2019
+5021,CSKA Moskva,1,2,Roma,2019
+5022,Schalke,2,0,Galatasaray,2019
+5023,Porto,4,1,Lokomotiv Moskva,2019
+5024,Napoli,1,1,Paris,2019
+5025,Inter,1,1,Barcelona,2019
+5026,Tottenham,2,1,PSV,2019
+5027,Atlético,2,0,Dortmund,2019
+5028,Crvena zvezda,2,0,Liverpool,2019
+5029,Monaco,0,4,Club Brugge,2019
+5030,Galatasaray,0,0,Schalke,2019
+5031,Lokomotiv Moskva,1,3,Porto,2019
+5032,Liverpool,4,0,Crvena zvezda,2019
+5033,Paris,2,2,Napoli,2019
+5034,Barcelona,2,0,Inter,2019
+5035,Dortmund,4,0,Atlético,2019
+5036,PSV,2,2,Tottenham,2019
+5037,Club Brugge,1,1,Monaco,2019
+5038,Man United,0,1,Juventus,2019
+5039,Real Madrid,2,1,Plzeň,2019
+5040,Roma,3,0,CSKA Moskva,2019
+5041,Shakhtar Donetsk,0,3,Man City,2019
+5042,Hoffenheim,3,3,Lyon,2019
+5043,Ajax,1,0,Benfica,2019
+5044,Young Boys,1,1,Valencia,2019
+5045,AEK,0,2,Bayern,2019
+5046,Porto,1,0,Galatasaray,2019
+5047,Napoli,1,0,Liverpool,2019
+5048,PSV,1,2,Inter,2019
+5049,Tottenham,2,4,Barcelona,2019
+5050,Dortmund,3,0,Monaco,2019
+5051,Atlético,3,1,Club Brugge,2019
+5052,Lokomotiv Moskva,0,1,Schalke,2019
+5053,Paris,6,1,Crvena zvezda,2019
+5054,Man United,0,0,Valencia,2019
+5055,Roma,5,0,Plzeň,2019
+5056,CSKA Moskva,1,0,Real Madrid,2019
+5057,Lyon,2,2,Shakhtar Donetsk,2019
+5058,AEK,2,3,Benfica,2019
+5059,Bayern,1,1,Ajax,2019
+5060,Juventus,3,0,Young Boys,2019
+5061,Hoffenheim,1,2,Man City,2019
+5062,Valencia,0,2,Juventus,2019
+5063,Young Boys,0,3,Man United,2019
+5064,Plzeň,2,2,CSKA Moskva,2019
+5065,Real Madrid,3,0,Roma,2019
+5066,Man City,1,2,Lyon,2019
+5067,Benfica,0,2,Bayern,2019
+5068,Shakhtar Donetsk,2,2,Hoffenheim,2019
+5069,Ajax,3,0,AEK,2019
+5070,Schalke,1,1,Porto,2019
+5071,Galatasaray,3,0,Lokomotiv Moskva,2019
+5072,Crvena zvezda,0,0,Napoli,2019
+5073,Liverpool,3,2,Paris,2019
+5074,Monaco,1,2,Atlético,2019
+5075,Club Brugge,0,1,Dortmund,2019
+5076,Inter,2,1,Tottenham,2019
+5077,Barcelona,4,0,PSV,2019
+5078,Paris,0,1,Bayern,2020
+5079,Lyon,0,3,Bayern,2020
+5080,Leipzig,0,3,Paris,2020
+5081,Man City,1,3,Lyon,2020
+5082,Barcelona,2,8,Bayern,2020
+5083,Leipzig,2,1,Atlético,2020
+5084,Atalanta,1,2,Paris,2020
+5085,Bayern,4,1,Chelsea,2020
+5086,Barcelona,3,1,Napoli,2020
+5087,Juventus,2,1,Lyon,2020
+5088,Man City,2,1,Real Madrid,2020
+5089,Liverpool,2,3,Atlético,2020
+5090,Paris,2,0,Dortmund,2020
+5091,Valencia,3,4,Atalanta,2020
+5092,Leipzig,3,0,Tottenham,2020
+5093,Lyon,1,0,Juventus,2020
+5094,Real Madrid,1,2,Man City,2020
+5095,Chelsea,0,3,Bayern,2020
+5096,Napoli,1,1,Barcelona,2020
+5097,Atalanta,4,1,Valencia,2020
+5098,Tottenham,0,1,Leipzig,2020
+5099,Atlético,1,0,Liverpool,2020
+5100,Dortmund,2,1,Paris,2020
+5101,Leverkusen,0,2,Juventus,2020
+5102,Atlético,2,0,Lokomotiv Moskva,2020
+5103,Bayern,3,1,Tottenham,2020
+5104,Olympiacos,1,0,Crvena zvezda,2020
+5105,Paris,5,0,Galatasaray,2020
+5106,Club Brugge,1,3,Real Madrid,2020
+5107,Dinamo Zagreb,1,4,Man City,2020
+5108,Shakhtar Donetsk,0,3,Atalanta,2020
+5109,Chelsea,2,1,LOSC,2020
+5110,Ajax,0,1,Valencia,2020
+5111,Lyon,2,2,Leipzig,2020
+5112,Benfica,3,0,Zenit,2020
+5113,Dortmund,2,1,Slavia Praha,2020
+5114,Inter,1,2,Barcelona,2020
+5115,Napoli,4,0,Genk,2020
+5116,Salzburg,0,2,Liverpool,2020
+5117,LOSC,0,2,Ajax,2020
+5118,Leipzig,2,2,Benfica,2020
+5119,Barcelona,3,1,Dortmund,2020
+5120,Slavia Praha,1,3,Inter,2020
+5121,Liverpool,1,1,Napoli,2020
+5122,Genk,1,4,Salzburg,2020
+5123,Valencia,2,2,Chelsea,2020
+5124,Zenit,2,0,Lyon,2020
+5125,Juventus,1,0,Atlético,2020
+5126,Atalanta,2,0,Dinamo Zagreb,2020
+5127,Man City,1,1,Shakhtar Donetsk,2020
+5128,Crvena zvezda,0,6,Bayern,2020
+5129,Tottenham,4,2,Olympiacos,2020
+5130,Real Madrid,2,2,Paris,2020
+5131,Lokomotiv Moskva,0,2,Leverkusen,2020
+5132,Galatasaray,1,1,Club Brugge,2020
+5133,Leverkusen,2,1,Atlético,2020
+5134,Dinamo Zagreb,3,3,Shakhtar Donetsk,2020
+5135,Atalanta,1,1,Man City,2020
+5136,Crvena zvezda,0,4,Tottenham,2020
+5137,Paris,1,0,Club Brugge,2020
+5138,Real Madrid,6,0,Galatasaray,2020
+5139,Lokomotiv Moskva,1,2,Juventus,2020
+5140,Bayern,2,0,Olympiacos,2020
+5141,Chelsea,4,4,Ajax,2020
+5142,Valencia,4,1,LOSC,2020
+5143,Lyon,3,1,Benfica,2020
+5144,Dortmund,3,2,Inter,2020
+5145,Napoli,1,1,Salzburg,2020
+5146,Liverpool,2,1,Genk,2020
+5147,Zenit,0,2,Leipzig,2020
+5148,Barcelona,0,0,Slavia Praha,2020
+5149,LOSC,1,1,Valencia,2020
+5150,Benfica,2,1,Lyon,2020
+5151,Inter,2,0,Dortmund,2020
+5152,Slavia Praha,1,2,Barcelona,2020
+5153,Salzburg,2,3,Napoli,2020
+5154,Genk,1,4,Liverpool,2020
+5155,Ajax,0,1,Chelsea,2020
+5156,Leipzig,2,1,Zenit,2020
+5157,Juventus,2,1,Lokomotiv Moskva,2020
+5158,Man City,5,1,Atalanta,2020
+5159,Olympiacos,2,3,Bayern,2020
+5160,Tottenham,5,0,Crvena zvezda,2020
+5161,Club Brugge,0,5,Paris,2020
+5162,Galatasaray,0,1,Real Madrid,2020
+5163,Atlético,1,0,Leverkusen,2020
+5164,Shakhtar Donetsk,2,2,Dinamo Zagreb,2020
+5165,LOSC,1,2,Chelsea,2020
+5166,Valencia,0,3,Ajax,2020
+5167,Leipzig,0,2,Lyon,2020
+5168,Zenit,3,1,Benfica,2020
+5169,Barcelona,2,1,Inter,2020
+5170,Liverpool,4,3,Salzburg,2020
+5171,Slavia Praha,0,2,Dortmund,2020
+5172,Genk,0,0,Napoli,2020
+5173,Juventus,3,0,Leverkusen,2020
+5174,Lokomotiv Moskva,0,2,Atlético,2020
+5175,Man City,2,0,Dinamo Zagreb,2020
+5176,Tottenham,2,7,Bayern,2020
+5177,Crvena zvezda,3,1,Olympiacos,2020
+5178,Galatasaray,0,1,Paris,2020
+5179,Atalanta,1,2,Shakhtar Donetsk,2020
+5180,Real Madrid,2,2,Club Brugge,2020
+5181,Leverkusen,1,2,Lokomotiv Moskva,2020
+5182,Atlético,2,2,Juventus,2020
+5183,Dinamo Zagreb,4,0,Atalanta,2020
+5184,Shakhtar Donetsk,0,3,Man City,2020
+5185,Bayern,3,0,Crvena zvezda,2020
+5186,Paris,3,0,Real Madrid,2020
+5187,Olympiacos,2,2,Tottenham,2020
+5188,Club Brugge,0,0,Galatasaray,2020
+5189,Chelsea,0,1,Valencia,2020
+5190,Ajax,3,0,LOSC,2020
+5191,Benfica,1,2,Leipzig,2020
+5192,Dortmund,0,0,Barcelona,2020
+5193,Napoli,2,0,Liverpool,2020
+5194,Salzburg,6,2,Genk,2020
+5195,Lyon,1,1,Zenit,2020
+5196,Inter,1,1,Slavia Praha,2020
+5197,Man City,0,1,Chelsea,2021
+5198,Chelsea,2,0,Real Madrid,2021
+5199,Man City,2,0,Paris,2021
+5200,Paris,1,2,Man City,2021
+5201,Real Madrid,1,1,Chelsea,2021
+5202,Dortmund,1,2,Man City,2021
+5203,Liverpool,0,0,Real Madrid,2021
+5204,Chelsea,0,1,Porto,2021
+5205,Paris,0,1,Bayern,2021
+5206,Bayern,2,3,Paris,2021
+5207,Porto,0,2,Chelsea,2021
+5208,Real Madrid,3,1,Liverpool,2021
+5209,Man City,2,1,Dortmund,2021
+5210,Chelsea,2,0,Atlético,2021
+5211,Bayern,2,1,Lazio,2021
+5212,Man City,2,0,Mönchengladbach,2021
+5213,Real Madrid,3,1,Atalanta,2021
+5214,Liverpool,2,0,Leipzig,2021
+5215,Paris,1,1,Barcelona,2021
+5216,Juventus,3,2,Porto,2021
+5217,Dortmund,2,2,Sevilla,2021
+5218,Atalanta,0,1,Real Madrid,2021
+5219,Mönchengladbach,0,2,Man City,2021
+5220,Atlético,0,1,Chelsea,2021
+5221,Lazio,1,4,Bayern,2021
+5222,Porto,2,1,Juventus,2021
+5223,Sevilla,2,3,Dortmund,2021
+5224,Barcelona,1,4,Paris,2021
+5225,Leipzig,0,2,Liverpool,2021
+5226,Olympiacos,0,2,Porto,2021
+5227,Man City,3,0,Marseille,2021
+5228,Inter,0,0,Shakhtar Donetsk,2021
+5229,Real Madrid,2,0,Mönchengladbach,2021
+5230,Bayern,2,0,Lokomotiv Moskva,2021
+5231,Salzburg,0,2,Atlético,2021
+5232,Paris,5,1,İstanbul Başakşehir,2021
+5233,Ajax,0,1,Atalanta,2021
+5234,Midtjylland,1,1,Liverpool,2021
+5235,Leipzig,3,2,Man United,2021
+5236,Dynamo Kyiv,1,0,Ferencváros,2021
+5237,Barcelona,0,3,Juventus,2021
+5238,Rennes,1,3,Sevilla,2021
+5239,Chelsea,1,1,Krasnodar,2021
+5240,Lazio,2,2,Club Brugge,2021
+5241,Zenit,1,2,Dortmund,2021
+5242,Man United,1,3,Paris,2021
+5243,Juventus,3,0,Dynamo Kyiv,2021
+5244,Ferencváros,0,3,Barcelona,2021
+5245,Dortmund,1,1,Lazio,2021
+5246,Club Brugge,3,0,Zenit,2021
+5247,Sevilla,0,4,Chelsea,2021
+5248,İstanbul Başakşehir,3,4,Leipzig,2021
+5249,Krasnodar,1,0,Rennes,2021
+5250,Liverpool,1,0,Ajax,2021
+5251,Atalanta,1,1,Midtjylland,2021
+5252,Marseille,2,1,Olympiacos,2021
+5253,Porto,0,0,Man City,2021
+5254,Mönchengladbach,2,3,Inter,2021
+5255,Atlético,1,1,Bayern,2021
+5256,Shakhtar Donetsk,2,0,Real Madrid,2021
+5257,Lokomotiv Moskva,1,3,Salzburg,2021
+5258,Ajax,3,1,Midtjylland,2021
+5259,Liverpool,0,2,Atalanta,2021
+5260,Marseille,0,2,Porto,2021
+5261,Inter,0,2,Real Madrid,2021
+5262,Bayern,3,1,Salzburg,2021
+5263,Atlético,0,0,Lokomotiv Moskva,2021
+5264,Olympiacos,0,1,Man City,2021
+5265,Mönchengladbach,4,0,Shakhtar Donetsk,2021
+5266,Paris,1,0,Leipzig,2021
+5267,Man United,4,1,İstanbul Başakşehir,2021
+5268,Dynamo Kyiv,0,4,Barcelona,2021
+5269,Juventus,2,1,Ferencváros,2021
+5270,Lazio,3,1,Zenit,2021
+5271,Dortmund,3,0,Club Brugge,2021
+5272,Rennes,1,2,Chelsea,2021
+5273,Krasnodar,1,2,Sevilla,2021
+5274,Leipzig,2,1,Paris,2021
+5275,Barcelona,2,1,Dynamo Kyiv,2021
+5276,Ferencváros,1,4,Juventus,2021
+5277,Club Brugge,0,3,Dortmund,2021
+5278,Chelsea,3,0,Rennes,2021
+5279,Sevilla,3,2,Krasnodar,2021
+5280,İstanbul Başakşehir,2,1,Man United,2021
+5281,Zenit,1,1,Lazio,2021
+5282,Midtjylland,1,2,Ajax,2021
+5283,Atalanta,0,5,Liverpool,2021
+5284,Man City,3,0,Olympiacos,2021
+5285,Porto,3,0,Marseille,2021
+5286,Real Madrid,3,2,Inter,2021
+5287,Salzburg,2,6,Bayern,2021
+5288,Shakhtar Donetsk,0,6,Mönchengladbach,2021
+5289,Lokomotiv Moskva,1,1,Atlético,2021
+5290,Man United,5,0,Leipzig,2021
+5291,Ferencváros,2,2,Dynamo Kyiv,2021
+5292,Juventus,0,2,Barcelona,2021
+5293,Club Brugge,1,1,Lazio,2021
+5294,Dortmund,2,0,Zenit,2021
+5295,Sevilla,1,0,Rennes,2021
+5296,İstanbul Başakşehir,0,2,Paris,2021
+5297,Krasnodar,0,4,Chelsea,2021
+5298,Atalanta,2,2,Ajax,2021
+5299,Liverpool,2,0,Midtjylland,2021
+5300,Porto,2,0,Olympiacos,2021
+5301,Marseille,0,3,Man City,2021
+5302,Mönchengladbach,2,2,Real Madrid,2021
+5303,Atlético,3,2,Salzburg,2021
+5304,Shakhtar Donetsk,0,0,Inter,2021
+5305,Lokomotiv Moskva,1,2,Bayern,2021
+5306,Ajax,0,1,Liverpool,2021
+5307,Midtjylland,0,4,Atalanta,2021
+5308,Olympiacos,1,0,Marseille,2021
+5309,Man City,3,1,Porto,2021
+5310,Inter,2,2,Mönchengladbach,2021
+5311,Bayern,4,0,Atlético,2021
+5312,Real Madrid,2,3,Shakhtar Donetsk,2021
+5313,Salzburg,2,2,Lokomotiv Moskva,2021
+5314,Paris,1,2,Man United,2021
+5315,Leipzig,2,0,İstanbul Başakşehir,2021
+5316,Barcelona,5,1,Ferencváros,2021
+5317,Lazio,3,1,Dortmund,2021
+5318,Rennes,1,1,Krasnodar,2021
+5319,Chelsea,0,0,Sevilla,2021
+5320,Dynamo Kyiv,0,2,Juventus,2021
+5321,Zenit,1,2,Club Brugge,2021
+5322,Liverpool,0,1,Real Madrid,2022
+5323,Real Madrid,3,1,Man City,2022
+5324,Villarreal,2,3,Liverpool,2022
+5325,Liverpool,2,0,Villarreal,2022
+5326,Man City,4,3,Real Madrid,2022
+5327,Atlético,0,0,Man City,2022
+5328,Liverpool,3,3,Benfica,2022
+5329,Real Madrid,2,3,Chelsea,2022
+5330,Bayern,1,1,Villarreal,2022
+5331,Villarreal,1,0,Bayern,2022
+5332,Chelsea,1,3,Real Madrid,2022
+5333,Benfica,1,3,Liverpool,2022
+5334,Man City,1,0,Atlético,2022
+5335,LOSC,1,2,Chelsea,2022
+5336,Juventus,0,3,Villarreal,2022
+5337,Ajax,0,1,Benfica,2022
+5338,Man United,0,1,Atlético,2022
+5339,Man City,0,0,Sporting CP,2022
+5340,Real Madrid,3,1,Paris,2022
+5341,Bayern,7,1,Salzburg,2022
+5342,Liverpool,0,1,Inter,2022
+5343,Atlético,1,1,Man United,2022
+5344,Benfica,2,2,Ajax,2022
+5345,Villarreal,1,1,Juventus,2022
+5346,Chelsea,2,0,LOSC,2022
+5347,Inter,0,2,Liverpool,2022
+5348,Salzburg,1,1,Bayern,2022
+5349,Paris,1,0,Real Madrid,2022
+5350,Sporting CP,0,5,Man City,2022
+5351,Atalanta,2,3,Villarreal,2022
+5352,Salzburg,1,0,Sevilla,2022
+5353,Man United,1,1,Young Boys,2022
+5354,Benfica,2,0,Dynamo Kyiv,2022
+5355,Bayern,3,0,Barcelona,2022
+5356,Wolfsburg,1,3,LOSC,2022
+5357,Juventus,1,0,Malmö,2022
+5358,Zenit,3,3,Chelsea,2022
+5359,Real Madrid,2,0,Inter,2022
+5360,Milan,1,2,Liverpool,2022
+5361,Dortmund,5,0,Beşiktaş,2022
+5362,Ajax,4,2,Sporting CP,2022
+5363,Porto,1,3,Atlético,2022
+5364,Shakhtar Donetsk,1,1,Sheriff,2022
+5365,Paris,4,1,Club Brugge,2022
+5366,Leipzig,2,1,Man City,2022
+5367,Club Brugge,0,5,Leipzig,2022
+5368,Atlético,0,1,Milan,2022
+5369,Sheriff,0,3,Real Madrid,2022
+5370,Sporting CP,3,1,Dortmund,2022
+5371,Man City,2,1,Paris,2022
+5372,Liverpool,2,0,Porto,2022
+5373,Beşiktaş,1,2,Ajax,2022
+5374,Inter,2,0,Shakhtar Donetsk,2022
+5375,Malmö,1,1,Zenit,2022
+5376,Young Boys,3,3,Atalanta,2022
+5377,LOSC,1,0,Salzburg,2022
+5378,Sevilla,2,0,Wolfsburg,2022
+5379,Chelsea,4,0,Juventus,2022
+5380,Barcelona,0,0,Benfica,2022
+5381,Villarreal,0,2,Man United,2022
+5382,Dynamo Kyiv,1,2,Bayern,2022
+5383,Liverpool,2,0,Atlético,2022
+5384,Sporting CP,4,0,Beşiktaş,2022
+5385,Man City,4,1,Club Brugge,2022
+5386,Leipzig,2,2,Paris,2022
+5387,Sheriff,1,3,Inter,2022
+5388,Dortmund,1,3,Ajax,2022
+5389,Milan,1,1,Porto,2022
+5390,Real Madrid,2,1,Shakhtar Donetsk,2022
+5391,Sevilla,1,2,LOSC,2022
+5392,Villarreal,2,0,Young Boys,2022
+5393,Atalanta,2,2,Man United,2022
+5394,Dynamo Kyiv,0,1,Barcelona,2022
+5395,Bayern,5,2,Benfica,2022
+5396,Juventus,4,2,Zenit,2022
+5397,Wolfsburg,2,1,Salzburg,2022
+5398,Malmö,0,1,Chelsea,2022
+5399,Chelsea,4,0,Malmö,2022
+5400,Zenit,0,1,Juventus,2022
+5401,Benfica,0,4,Bayern,2022
+5402,LOSC,0,0,Sevilla,2022
+5403,Young Boys,1,4,Villarreal,2022
+5404,Man United,3,2,Atalanta,2022
+5405,Barcelona,1,0,Dynamo Kyiv,2022
+5406,Salzburg,3,1,Wolfsburg,2022
+5407,Inter,3,1,Sheriff,2022
+5408,Shakhtar Donetsk,0,5,Real Madrid,2022
+5409,Ajax,4,0,Dortmund,2022
+5410,Porto,1,0,Milan,2022
+5411,Atlético,2,3,Liverpool,2022
+5412,Paris,3,2,Leipzig,2022
+5413,Beşiktaş,1,4,Sporting CP,2022
+5414,Club Brugge,1,5,Man City,2022
+5415,Juventus,1,0,Chelsea,2022
+5416,Man United,2,1,Villarreal,2022
+5417,Bayern,5,0,Dynamo Kyiv,2022
+5418,Benfica,3,0,Barcelona,2022
+5419,Wolfsburg,1,1,Sevilla,2022
+5420,Salzburg,2,1,LOSC,2022
+5421,Zenit,4,0,Malmö,2022
+5422,Atalanta,1,0,Young Boys,2022
+5423,Dortmund,1,0,Sporting CP,2022
+5424,Paris,2,0,Man City,2022
+5425,Porto,1,5,Liverpool,2022
+5426,Real Madrid,1,2,Sheriff,2022
+5427,Leipzig,1,2,Club Brugge,2022
+5428,Milan,1,2,Atlético,2022
+5429,Shakhtar Donetsk,0,0,Inter,2022
+5430,Ajax,2,0,Beşiktaş,2022
+5431,Sporting CP,1,5,Ajax,2022
+5432,Atlético,0,0,Porto,2022
+5433,Club Brugge,1,1,Paris,2022
+5434,Man City,6,3,Leipzig,2022
+5435,Liverpool,3,2,Milan,2022
+5436,Inter,0,1,Real Madrid,2022
+5437,Sheriff,2,0,Shakhtar Donetsk,2022
+5438,Beşiktaş,1,2,Dortmund,2022
+5439,Dynamo Kyiv,0,0,Benfica,2022
+5440,Barcelona,0,3,Bayern,2022
+5441,LOSC,0,0,Wolfsburg,2022
+5442,Malmö,0,3,Juventus,2022
+5443,Chelsea,1,0,Zenit,2022
+5444,Villarreal,2,2,Atalanta,2022
+5445,Young Boys,2,1,Man United,2022
+5446,Sevilla,1,1,Salzburg,2022
+5447,Man City,1,0,Inter,2023
+5448,Man City,4,0,Real Madrid,2023
+5449,Inter,1,0,Milan,2023
+5450,Milan,0,2,Inter,2023
+5451,Real Madrid,1,1,Man City,2023
+5452,Inter,3,3,Benfica,2023
+5453,Bayern,1,1,Man City,2023
+5454,Chelsea,0,2,Real Madrid,2023
+5455,Napoli,1,1,Milan,2023
+5456,Milan,1,0,Napoli,2023
+5457,Real Madrid,2,0,Chelsea,2023
+5458,Man City,3,0,Bayern,2023
+5459,Benfica,0,2,Inter,2023
+5460,Napoli,3,0,Frankfurt,2023
+5461,Real Madrid,1,0,Liverpool,2023
+5462,Porto,0,0,Inter,2023
+5463,Man City,7,0,Leipzig,2023
+5464,Tottenham,0,0,Milan,2023
+5465,Bayern,2,0,Paris,2023
+5466,Chelsea,2,0,Dortmund,2023
+5467,Benfica,5,1,Club Brugge,2023
+5468,Inter,1,0,Porto,2023
+5469,Leipzig,1,1,Man City,2023
+5470,Frankfurt,0,2,Napoli,2023
+5471,Liverpool,2,5,Real Madrid,2023
+5472,Dortmund,1,0,Chelsea,2023
+5473,Club Brugge,0,2,Benfica,2023
+5474,Paris,0,1,Bayern,2023
+5475,Milan,1,0,Tottenham,2023
+5476,M. Haifa,1,6,Benfica,2023
+5477,Juventus,1,2,Paris,2023
+5478,Copenhagen,1,1,Dortmund,2023
+5479,Man City,3,1,Sevilla,2023
+5480,Milan,4,0,Salzburg,2023
+5481,Chelsea,2,1,Dinamo Zagreb,2023
+5482,Shakhtar Donetsk,0,4,Leipzig,2023
+5483,Real Madrid,5,1,Celtic,2023
+5484,Marseille,1,2,Tottenham,2023
+5485,Sporting CP,1,2,Frankfurt,2023
+5486,Plzeň,2,4,Barcelona,2023
+5487,Bayern,2,0,Inter,2023
+5488,Rangers,1,3,Ajax,2023
+5489,Liverpool,2,0,Napoli,2023
+5490,Leverkusen,0,0,Club Brugge,2023
+5491,Porto,2,1,Atlético,2023
+5492,Frankfurt,2,1,Marseille,2023
+5493,Tottenham,1,1,Sporting CP,2023
+5494,Barcelona,0,3,Bayern,2023
+5495,Atlético,2,2,Leverkusen,2023
+5496,Ajax,0,3,Liverpool,2023
+5497,Napoli,3,0,Rangers,2023
+5498,Inter,4,0,Plzeň,2023
+5499,Club Brugge,0,4,Porto,2023
+5500,Benfica,4,3,Juventus,2023
+5501,Paris,7,2,M. Haifa,2023
+5502,Dortmund,0,0,Man City,2023
+5503,Leipzig,3,2,Real Madrid,2023
+5504,Celtic,1,1,Shakhtar Donetsk,2023
+5505,Dinamo Zagreb,0,4,Milan,2023
+5506,Sevilla,3,0,Copenhagen,2023
+5507,Salzburg,1,2,Chelsea,2023
+5508,Sporting CP,0,2,Marseille,2023
+5509,Tottenham,3,2,Frankfurt,2023
+5510,Plzeň,2,4,Bayern,2023
+5511,Barcelona,3,3,Inter,2023
+5512,Leverkusen,0,3,Porto,2023
+5513,Rangers,1,7,Liverpool,2023
+5514,Atlético,0,0,Club Brugge,2023
+5515,Napoli,4,2,Ajax,2023
+5516,Paris,1,1,Benfica,2023
+5517,Dortmund,1,1,Sevilla,2023
+5518,Celtic,0,2,Leipzig,2023
+5519,Shakhtar Donetsk,1,1,Real Madrid,2023
+5520,Milan,0,2,Chelsea,2023
+5521,Dinamo Zagreb,1,1,Salzburg,2023
+5522,M. Haifa,2,0,Juventus,2023
+5523,Copenhagen,0,0,Man City,2023
+5524,Benfica,1,1,Paris,2023
+5525,Juventus,3,1,M. Haifa,2023
+5526,Sevilla,1,4,Dortmund,2023
+5527,Man City,5,0,Copenhagen,2023
+5528,Real Madrid,2,1,Shakhtar Donetsk,2023
+5529,Chelsea,3,0,Milan,2023
+5530,Leipzig,3,1,Celtic,2023
+5531,Salzburg,1,0,Dinamo Zagreb,2023
+5532,Frankfurt,0,0,Tottenham,2023
+5533,Inter,1,0,Barcelona,2023
+5534,Club Brugge,2,0,Atlético,2023
+5535,Porto,2,0,Leverkusen,2023
+5536,Ajax,1,6,Napoli,2023
+5537,Liverpool,2,0,Rangers,2023
+5538,Marseille,4,1,Sporting CP,2023
+5539,Bayern,5,0,Plzeň,2023
+5540,M. Haifa,1,3,Paris,2023
+5541,Juventus,1,2,Benfica,2023
+5542,Copenhagen,0,0,Sevilla,2023
+5543,Man City,2,1,Dortmund,2023
+5544,Real Madrid,2,0,Leipzig,2023
+5545,Chelsea,1,1,Salzburg,2023
+5546,Rangers,0,3,Napoli,2023
+5547,Shakhtar Donetsk,1,1,Celtic,2023
+5548,Milan,3,1,Dinamo Zagreb,2023
+5549,Marseille,0,1,Frankfurt,2023
+5550,Bayern,2,0,Barcelona,2023
+5551,Leverkusen,2,0,Atlético,2023
+5552,Porto,0,4,Club Brugge,2023
+5553,Liverpool,2,1,Ajax,2023
+5554,Sporting CP,2,0,Tottenham,2023
+5555,Plzeň,0,2,Inter,2023
+5556,Tottenham,2,0,Marseille,2023
+5557,Inter,0,2,Bayern,2023
+5558,Barcelona,5,1,Plzeň,2023
+5559,Club Brugge,1,0,Leverkusen,2023
+5560,Atlético,2,1,Porto,2023
+5561,Napoli,4,1,Liverpool,2023
+5562,Frankfurt,0,3,Sporting CP,2023
+5563,Ajax,4,0,Rangers,2023
+5564,Benfica,2,0,M. Haifa,2023
+5565,Paris,2,1,Juventus,2023
+5566,Sevilla,0,4,Man City,2023
+5567,Leipzig,1,4,Shakhtar Donetsk,2023
+5568,Celtic,0,3,Real Madrid,2023
+5569,Salzburg,1,1,Milan,2023
+5570,Dortmund,3,0,Copenhagen,2023
+5571,Dinamo Zagreb,1,0,Chelsea,2023
